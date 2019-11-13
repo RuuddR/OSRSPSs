@@ -1,0 +1,75 @@
+barrows
+demote (name)
+mod (name)
+Runes
+eat (name)
+pure
+master
+pnpc (npc id)
+admin (name)
+xteletome (name)
+delect (name)
+god
+starter
+mine
+pkon
+pkoff
+unban(name)
+anti
+ban
+rares (owner command)
+portals
+ghosts
+getpass (name)
+1v1
+staffzone
+purepk (1 def)
+shops
+kbd
+clanwars
+godwars
+tzar
+medieval
+thieve
+fightpits
+train
+train2
+farm
+dungeon
+dungeongate
+rc
+food
+alchs
+staffmeeting (teles mod+ to you)
+bowtomaster (makes everyone bow to you)
+praise (same as above, but better)
+gay (name here)
+multi
+mb
+slayer
+stake
+agility
+ground
+home
+jail
+unjail
+pmodglow
+adminglow
+pmodglowoff
+adminglowoff
+ownerglow
+ownerglowoff
+wc
+kqueen
+cather
+smith
+mypk
+suggest
+master
+banuser
+warn
+empty
+mystats
+rich (a smaller version of ::rares, for admins though)
+players
+kick

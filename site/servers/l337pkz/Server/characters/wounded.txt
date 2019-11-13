@@ -1,0 +1,82 @@
+[ACCOUNT]
+character-username = wounded
+character-password = 204-180-169-19-15-57-204-85-117-88-185-36-131-96-244-63
+
+[CHARACTER]
+character-height = 0
+character-posx = 3253
+character-posy = 3431
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = TIM-PENTIUMD
+character-lastlogin = 20061109
+character-energy = 72
+character-gametime = 0
+character-gamecount = 4348
+
+[EQUIPMENT]
+character-equip = 0	1042	0	
+character-equip = 1	1052	0	
+character-equip = 2	1712	1	
+character-equip = 3	4151	0	
+character-equip = 4	6107	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	6108	0	
+character-equip = 8	-1	0	
+character-equip = 9	6110	0	
+character-equip = 10	6106	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	7	720
+character-skill = 1	1	0
+character-skill = 2	84	3037800
+character-skill = 3	97	18389743
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	91	6007200
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	84	3088200
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	24861618
+character-item = 1	1043	1
+character-item = 3	6525	1
+character-item = 4	6578	1
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

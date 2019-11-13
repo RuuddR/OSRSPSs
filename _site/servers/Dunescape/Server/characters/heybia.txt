@@ -1,0 +1,92 @@
+[ACCOUNT]
+character-username = heybia
+character-password = 178-173-37-4-90-162-140-144-186-101-19-138-196-153-135-224
+
+[CHARACTER]
+character-height = 0
+character-posx = 3252
+character-posy = 3420
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = c-69-139-100-70.hsd1.tn.comcast.net
+character-lastlogin = 20060803
+character-energy = 87
+character-gametime = 0
+character-gamecount = 26057
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	93	7686656
+character-skill = 1	1	0
+character-skill = 2	1	0
+character-skill = 3	101	17347926
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	119	102032220
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	77	1506300
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	996	2906400
+character-bank = 1	306	1
+character-bank = 2	302	1
+character-bank = 3	6923	1
+character-bank = 4	6925	1
+character-bank = 5	6919	1
+character-bank = 6	4676	1
+character-bank = 7	1053	1
+character-bank = 8	1713	1
+character-bank = 9	6917	1
+character-bank = 10	2891	1
+character-bank = 11	3388	1
+character-bank = 12	3390	1
+
+[FRIENDS]
+character-friend = 0	391239175423
+
+[IGNORES]
+
+[EOF]
+

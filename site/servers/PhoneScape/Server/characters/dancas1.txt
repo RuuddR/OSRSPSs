@@ -1,0 +1,89 @@
+[ACCOUNT]
+character-username = dancas1
+character-password = 181-98-49-217-49-56-89-209-214-83-147-20-46-43-30-46
+
+[CHARACTER]
+character-height = 0
+character-posx = 3254
+character-posy = 3420
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = 80-195-5-220.cable.ubr01.haye.blueyonder.co.uk
+character-lastlogin = 20061102
+character-energy = 70
+character-gametime = 0
+character-gamecount = 11741
+
+[EQUIPMENT]
+character-equip = 0	7594	1	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	7592	1	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	7593	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	77	766650
+character-skill = 1	59	127050
+character-skill = 2	90	2689200
+character-skill = 3	70	22336752
+character-skill = 4	1	0
+character-skill = 5	45	33000
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	94	4108050
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	490
+character-item = 5	4835	1
+character-item = 27	4835	1
+
+[BANK]
+character-bank = 0	2441	1
+character-bank = 1	2437	1
+character-bank = 2	392	1
+character-bank = 3	7387	1
+character-bank = 4	7391	1
+character-bank = 5	7395	1
+character-bank = 6	996	81713
+character-bank = 7	4835	348
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

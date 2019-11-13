@@ -1,0 +1,89 @@
+[ACCOUNT]
+character-username = baller2
+character-password = 108-183-95-101-42-155-82-121-142-182-207-34-1-5-124-115
+
+[CHARACTER]
+character-height = 0
+character-posx = 3250
+character-posy = 3434
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = cpe-24-169-4-189.buffalo.res.rr.com
+character-lastlogin = 20080105
+character-energy = 100
+character-gametime = 0
+character-gamecount = 12897
+
+[EQUIPMENT]
+character-equip = 0	3751	1	
+character-equip = 1	6568	2	
+character-equip = 2	-1	0	
+character-equip = 3	4587	1	
+character-equip = 4	1127	1	
+character-equip = 5	1187	1	
+character-equip = 6	-1	0	
+character-equip = 7	1079	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	15350	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	62	340000
+character-skill = 1	70	738650
+character-skill = 2	82	2457350
+character-skill = 3	17	1249155
+character-skill = 4	1	0
+character-skill = 5	1	10
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	99	24752500
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	17	3500
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	13360	1
+character-item = 1	12446	1
+character-item = 2	1620	1
+character-item = 3	996	1117504
+character-item = 4	6740	1
+character-item = 5	15196	1
+character-item = 6	15349	1
+character-item = 7	15350	1
+character-item = 8	4154	1
+
+[BANK]
+
+[FRIENDS]
+character-friend = 0	755670179106015513
+character-friend = 1	419733824861151
+
+[IGNORES]
+
+[EOF]
+

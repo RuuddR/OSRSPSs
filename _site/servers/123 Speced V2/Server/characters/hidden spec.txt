@@ -1,0 +1,102 @@
+[ACCOUNT]
+character-username = hidden spec
+character-password = kasino
+
+[CHARACTER]
+character-height = 0
+character-posx = 3424
+character-posy = 9891
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = d122-104-27-218.rdl5.qld.optusnet.com.au
+character-lastlogin = 20080030
+character-energy = 100
+character-gametime = 0
+character-gamecount = 1293
+
+[EQUIPMENT]
+character-equip = 0	14075	1	
+character-equip = 1	14112	1	
+character-equip = 2	1704	0	
+character-equip = 3	1323	0	
+character-equip = 4	15348	1	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	15349	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	15350	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	0
+character-look = 2	0
+character-look = 3	0
+character-look = 4	0
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	49	48450
+character-skill = 1	1	0
+character-skill = 2	48	44000
+character-skill = 3	65	34755
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	5	210
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	21108624
+character-item = 1	393	1500
+character-item = 2	6108	1
+character-item = 3	6109	1
+character-item = 4	14115	1
+character-item = 5	6107	1
+character-item = 6	6111	1
+character-item = 7	6110	1
+character-item = 8	6112	1
+character-item = 9	4588	1
+character-item = 10	2644	1
+character-item = 11	14095	1
+character-item = 12	14077	1
+character-item = 13	14097	1
+character-item = 14	1172	1
+character-item = 15	14089	1
+character-item = 16	1705	1
+character-item = 17	3482	1
+character-item = 18	3484	1
+character-item = 20	2644	1
+character-item = 21	15157	1
+character-item = 22	14539	1
+character-item = 23	14540	1
+character-item = 24	6586	1
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

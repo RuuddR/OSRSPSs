@@ -1,0 +1,83 @@
+[ACCOUNT]
+character-username = livetoburn90
+character-password = 41-139-244-40-209-16-50-246-57-241-65-35-33-41-10-223
+
+[CHARACTER]
+character-height = 0
+character-posx = 3091
+character-posy = 3963
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = dsl092-232-104.phl1.dsl.speakeasy.net
+character-lastlogin = 20060803
+character-energy = 49
+character-gametime = 0
+character-gamecount = 5865
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	1	0
+character-skill = 2	78	1724400
+character-skill = 3	97	14997378
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	94	8222432
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	61	303750
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	4676	1
+character-bank = 1	1713	1
+character-bank = 2	3392	1
+character-bank = 3	2891	1
+character-bank = 4	996	213600
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

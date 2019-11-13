@@ -1,0 +1,85 @@
+[ACCOUNT]
+character-username = jareed9
+character-password = 59-135-201-125-21-232-235-17-229-26-162-94-154-87-112-233
+
+[CHARACTER]
+character-height = 0
+character-posx = 3172
+character-posy = 3246
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = CPE-121-216-67-233.nsw.bigpond.net.au
+character-lastlogin = 20060101
+character-energy = 100
+character-gametime = 0
+character-gamecount = 2391
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	1052	0	
+character-equip = 2	1725	1	
+character-equip = 3	4587	0	
+character-equip = 4	544	0	
+character-equip = 5	6889	1	
+character-equip = 6	-1	0	
+character-equip = 7	542	1	
+character-equip = 8	-1	0	
+character-equip = 9	7462	0	
+character-equip = 10	15350	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	1	0
+character-skill = 2	79	1805400
+character-skill = 3	10	638355
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	14509	1
+character-item = 1	996	9949985
+character-item = 2	1352	1
+character-item = 3	15349	1
+character-item = 4	15350	1
+character-item = 5	3106	1
+character-item = 7	1435	1
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

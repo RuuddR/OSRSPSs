@@ -1,0 +1,121 @@
+[ACCOUNT]
+character-username = T4nk Cap3
+character-password = ROLLERCOASTERMAN
+
+[CHARACTER]
+character-height = 0
+character-posx = 2886
+character-posy = 3511
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = 216-164-205-40.c3-0.tlg-ubr2.atw-tlg.pa.cable.rcn.com
+character-lastlogin = 20080015
+character-energy = 100
+character-gametime = 0
+character-gamecount = 1863
+
+[EQUIPMENT]
+character-equip = 0	1163	1	
+character-equip = 1	6570	1	
+character-equip = 2	1704	0	
+character-equip = 3	861	1	
+character-equip = 4	2503	1	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	1079	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	2577	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	892	43	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	1
+character-look = 2	1
+character-look = 3	2
+character-look = 4	0
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	41	22100
+character-skill = 2	1	0
+character-skill = 3	61	366855
+character-skill = 4	79	978260
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	7313953
+character-item = 1	1136	1
+character-item = 2	392	1
+character-item = 3	392	1
+character-item = 4	392	1
+character-item = 5	392	1
+character-item = 6	392	1
+character-item = 7	392	1
+character-item = 8	392	1
+character-item = 9	392	1
+character-item = 10	392	1
+character-item = 11	392	1
+character-item = 12	392	1
+character-item = 13	392	1
+character-item = 14	392	1
+character-item = 15	392	1
+character-item = 16	392	1
+character-item = 17	392	1
+character-item = 18	392	1
+character-item = 19	392	1
+character-item = 20	392	1
+character-item = 21	392	1
+character-item = 22	392	1
+character-item = 23	392	1
+character-item = 24	392	1
+character-item = 25	392	1
+character-item = 26	392	1
+character-item = 27	392	1
+
+[BANK]
+character-bank = 1	392	1466
+character-bank = 2	4750	1
+character-bank = 3	1172	1
+character-bank = 4	1306	1
+character-bank = 5	4588	2
+character-bank = 6	7395	1
+character-bank = 7	4748	1
+character-bank = 8	3750	1
+character-bank = 9	1100	1
+character-bank = 10	15157	1
+character-bank = 11	854	1
+character-bank = 12	1039	1
+character-bank = 13	2582	1
+character-bank = 14	1324	1
+character-bank = 15	1022	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

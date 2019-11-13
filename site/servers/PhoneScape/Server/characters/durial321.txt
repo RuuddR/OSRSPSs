@@ -1,0 +1,89 @@
+[ACCOUNT]
+character-username = durial321
+character-password = 218-68-58-10-217-121-213-83-13-243-140-161-167-78-79-128
+
+[CHARACTER]
+character-height = 0
+character-posx = 3087
+character-posy = 3962
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = ip24-255-16-181.tc.ph.cox.net
+character-lastlogin = 20061103
+character-energy = 95
+character-gametime = 0
+character-gamecount = 7990
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	80	1013100
+character-skill = 1	80	1001100
+character-skill = 2	80	1001100
+character-skill = 3	99	20088591
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	99	7446700
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	93	3688200
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	3386	1
+character-bank = 1	4676	1
+character-bank = 2	3392	1
+character-bank = 3	2891	1
+character-bank = 4	1053	1
+character-bank = 5	1713	1
+character-bank = 6	3390	1
+character-bank = 7	3394	1
+character-bank = 8	3388	1
+
+[FRIENDS]
+character-friend = 0	1408103493797
+character-friend = 1	45076069286035
+
+[IGNORES]
+
+[EOF]
+

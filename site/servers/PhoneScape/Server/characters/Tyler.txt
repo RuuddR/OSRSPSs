@@ -1,0 +1,106 @@
+[ACCOUNT]
+character-username = Tyler
+character-password = 57-42-161-27-16-220-225-56-127-181-166-177-208-8-35-28
+
+[CHARACTER]
+character-height = 0
+character-posx = 3253
+character-posy = 3421
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = 82-34-120-5.cable.ubr01.gray.blueyonder.co.uk
+character-lastlogin = 20061030
+character-energy = 9
+character-gametime = 0
+character-gamecount = 12508
+
+[EQUIPMENT]
+character-equip = 0	1055	1	
+character-equip = 1	6570	1	
+character-equip = 2	6585	1	
+character-equip = 3	4587	1	
+character-equip = 4	3481	1	
+character-equip = 5	3842	1	
+character-equip = 6	-1	0	
+character-equip = 7	3483	1	
+character-equip = 8	-1	0	
+character-equip = 9	7461	1	
+character-equip = 10	6920	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	70	369600
+character-skill = 1	1	0
+character-skill = 2	64	219150
+character-skill = 3	38	15866149
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	64	206574
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	26	4850
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	3	95
+character-skill = 18	76	709350
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	4152	1
+
+[BANK]
+character-bank = 0	1378	1
+character-bank = 1	392	1
+character-bank = 2	1756	1
+character-bank = 3	947	1
+character-bank = 4	7461	1
+character-bank = 5	1778	1
+character-bank = 6	2390	1
+character-bank = 7	5577	1
+character-bank = 8	4729	1
+character-bank = 9	4731	1
+character-bank = 10	306	1
+character-bank = 11	4835	11
+character-bank = 12	6586	1
+character-bank = 13	1070	14
+character-bank = 20	302	1
+character-bank = 21	953	1
+character-bank = 23	1439	1
+character-bank = 24	2947	1
+character-bank = 25	5576	1
+character-bank = 26	312	1
+character-bank = 27	591	1
+character-bank = 28	4180	1
+character-bank = 29	1326	1
+character-bank = 30	2348	1
+character-bank = 31	996	451448
+
+[FRIENDS]
+character-friend = 0	2950019096605209759
+character-friend = 1	2108947923433780
+
+[IGNORES]
+
+[EOF]
+

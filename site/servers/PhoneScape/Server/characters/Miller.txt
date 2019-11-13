@@ -1,0 +1,84 @@
+[ACCOUNT]
+character-username = Miller
+character-password = 240-175-150-45-219-200-36-48-233-71-57-11-47-63-110-73
+
+[CHARACTER]
+character-height = -2
+character-posx = 3254
+character-posy = 3418
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = ACC96E6F.ipt.aol.com
+character-lastlogin = 20061103
+character-energy = 8
+character-gametime = 0
+character-gamecount = 4447
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	68	328350
+character-skill = 1	1	8
+character-skill = 2	1	0
+character-skill = 3	99	15247573
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	99	8343672
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	8	485
+character-skill = 18	68	328350
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	3667891
+character-item = 1	1128	1
+character-item = 2	1080	1
+
+[BANK]
+character-bank = 0	3390	1
+character-bank = 1	2891	1
+character-bank = 2	3386	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

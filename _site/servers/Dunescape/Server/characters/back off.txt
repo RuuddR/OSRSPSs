@@ -1,0 +1,78 @@
+[ACCOUNT]
+character-username = back off
+character-password = 133-254-234-172-82-30-208-212-92-56-76-250-182-150-66-38
+
+[CHARACTER]
+character-height = 0
+character-posx = 3254
+character-posy = 3420
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = monrovll-cuda1-24-53-177-221.pittpa.adelphia.net
+character-lastlogin = 20060803
+character-energy = 8
+character-gametime = 0
+character-gamecount = 4100
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	53	143560
+character-skill = 1	55	175200
+character-skill = 2	57	208200
+character-skill = 3	100	14498110
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	37	29756
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	53	141750
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

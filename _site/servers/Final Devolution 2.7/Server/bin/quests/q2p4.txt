@@ -1,0 +1,9 @@
+@yel@   Ancients Rules!                        Quest
+
+@red@@str@ I talked to davey.
+@red@@str@ I read Davey's Notes
+@red@@str@ I opened the casket/chest.
+
+@red@ Wow that was a huge monster...
+@red@ Next time I'll believe people.
+@red@ Time to get this book to Davey.

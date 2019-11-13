@@ -1,0 +1,86 @@
+[ACCOUNT]
+character-username = barrage sp3c
+character-password = 97-230-251-97-70-250-173-110-166-85-223-241-5-25-192-13
+
+[CHARACTER]
+character-height = 0
+character-posx = 2968
+character-posy = 3341
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = bas3-london14-1096779015.dsl.bell.ca
+character-lastlogin = 20080104
+character-energy = 100
+character-gametime = 0
+character-gamecount = 2667
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	1052	1	
+character-equip = 2	-1	0	
+character-equip = 3	4587	0	
+character-equip = 4	544	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	542	0	
+character-equip = 8	-1	0	
+character-equip = 9	7462	0	
+character-equip = 10	3105	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	64	431800
+character-skill = 1	1	0
+character-skill = 2	76	1362550
+character-skill = 3	37	634455
+character-skill = 4	1	0
+character-skill = 5	0	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	556	10
+character-item = 1	996	44
+character-item = 2	561	5
+character-item = 3	559	20
+character-item = 4	557	30
+character-item = 5	563	10
+character-item = 6	6890	1
+
+[BANK]
+character-bank = 0	1376	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

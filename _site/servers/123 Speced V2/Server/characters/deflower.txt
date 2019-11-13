@@ -1,0 +1,100 @@
+[ACCOUNT]
+character-username = deflower
+character-password = ahmed
+
+[CHARACTER]
+character-height = 0
+character-posx = 3428
+character-posy = 3536
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = 74.194.154.55
+character-lastlogin = 20080025
+character-energy = 100
+character-gametime = 0
+character-gamecount = 7617
+
+[EQUIPMENT]
+character-equip = 0	1149	1	
+character-equip = 1	-1	0	
+character-equip = 2	6585	1	
+character-equip = 3	4151	1	
+character-equip = 4	1127	1	
+character-equip = 5	1187	1	
+character-equip = 6	-1	0	
+character-equip = 7	4585	1	
+character-equip = 8	-1	0	
+character-equip = 9	7462	1	
+character-equip = 10	15352	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	892	100	
+
+[LOOK]
+character-look = 0	1
+character-look = 1	1
+character-look = 2	0
+character-look = 3	0
+character-look = 4	0
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	83	1358650
+character-skill = 1	80	1006750
+character-skill = 2	80	1036150
+character-skill = 3	36	577505
+character-skill = 4	99	7980750
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	35608921
+character-item = 1	14083	1
+character-item = 2	14085	1
+character-item = 3	176	1
+character-item = 4	1053	1
+character-item = 6	15157	1
+character-item = 7	893	1
+
+[BANK]
+character-bank = 0	7395	1
+character-bank = 1	392	1446
+character-bank = 2	7391	3
+character-bank = 3	7387	3
+character-bank = 4	3106	1
+character-bank = 5	1172	1
+character-bank = 6	2492	1
+character-bank = 7	1164	1
+character-bank = 8	1080	1
+character-bank = 9	13602	1
+character-bank = 10	1022	1
+character-bank = 11	1324	1
+character-bank = 12	1726	1
+character-bank = 14	1705	1
+
+[FRIENDS]
+character-friend = 0	3308
+
+[IGNORES]
+
+[EOF]
+

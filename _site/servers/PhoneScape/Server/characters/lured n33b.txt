@@ -1,0 +1,82 @@
+[ACCOUNT]
+character-username = lured n33b
+character-password = 29-241-76-60-146-216-178-198-106-100-40-164-4-203-13-150
+
+[CHARACTER]
+character-height = 0
+character-posx = 3308
+character-posy = 3235
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = adsl-68-94-183-219.dsl.rcsntx.swbell.net
+character-lastlogin = 20061102
+character-energy = 31
+character-gametime = 0
+character-gamecount = 2017
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	99	486000000
+character-skill = 1	1	0
+character-skill = 2	99	486000000
+character-skill = 3	99	500000157
+character-skill = 4	99	486000000
+character-skill = 5	1	0
+character-skill = 6	99	486078500
+character-skill = 7	99	486000000
+character-skill = 8	99	486000000
+character-skill = 9	99	486000000
+character-skill = 10	99	486000000
+character-skill = 11	99	486000000
+character-skill = 12	99	486000000
+character-skill = 13	99	486000000
+character-skill = 14	99	486000000
+character-skill = 15	99	486000000
+character-skill = 16	99	486000000
+character-skill = 17	99	486000000
+character-skill = 18	99	486000000
+character-skill = 19	99	486000000
+character-skill = 20	99	486000000
+character-skill = 21	99	486000000
+character-skill = 22	99	486000000
+character-skill = 23	99	486000000
+character-skill = 24	99	486000000
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	4709	1
+character-bank = 1	4676	50000
+character-bank = 2	4713	1
+
+[FRIENDS]
+character-friend = 0	1635024826616638
+
+[IGNORES]
+
+[EOF]
+

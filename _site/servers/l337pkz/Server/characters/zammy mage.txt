@@ -1,0 +1,172 @@
+[ACCOUNT]
+character-username = zammy mage
+character-password = 183-200-181-132-82-21-222-232-67-5-244-49-50-5-98-132
+
+[CHARACTER]
+character-height = 0
+character-posx = 3216
+character-posy = 3407
+character-rights = 3
+character-ismember = 1
+character-messages = 0
+character-lastconnection = 127.0.0.1
+character-lastlogin = 20141124
+character-energy = 15
+character-gametime = 0
+character-gamecount = 3371
+
+[EQUIPMENT]
+character-equip = 0	4716	1	
+character-equip = 1	6570	1	
+character-equip = 2	6585	1	
+character-equip = 3	4718	1	
+character-equip = 4	4720	1	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	4722	1	
+character-equip = 8	-1	0	
+character-equip = 9	7461	1	
+character-equip = 10	3105	1	
+character-equip = 11	-1	0	
+character-equip = 12	6735	1	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	1
+character-look = 2	1
+character-look = 3	2
+character-look = 4	3
+character-look = 5	1
+
+[SKILLS]
+character-skill = 0	135	486349873
+character-skill = 1	135	486000073
+character-skill = 2	135	486087057
+character-skill = 3	72	501191299
+character-skill = 4	135	486000286
+character-skill = 5	131	486000000
+character-skill = 6	135	486000000
+character-skill = 7	135	486000000
+character-skill = 8	135	486000000
+character-skill = 9	135	486000000
+character-skill = 10	135	486000000
+character-skill = 11	135	486000000
+character-skill = 12	135	486000000
+character-skill = 13	135	486000000
+character-skill = 14	135	486000000
+character-skill = 15	135	486000000
+character-skill = 16	135	486000000
+character-skill = 17	135	486000000
+character-skill = 18	135	486581400
+character-skill = 19	135	486000000
+character-skill = 20	135	486000000
+character-skill = 21	135	486000000
+character-skill = 22	135	486000000
+character-skill = 23	135	486000000
+character-skill = 24	135	486000000
+
+[ITEMS]
+character-item = 0	996	1743241994
+character-item = 1	4154	1
+character-item = 2	4215	1
+character-item = 3	1713	1
+character-item = 4	4152	1
+character-item = 5	4152	1
+character-item = 6	1053	1
+character-item = 7	294	1
+character-item = 8	4676	1
+character-item = 9	2553	1
+character-item = 10	6108	1
+character-item = 11	6109	1
+character-item = 12	1043	1
+character-item = 13	4737	1
+character-item = 14	4739	1
+character-item = 15	6107	1
+character-item = 16	2582	1
+character-item = 17	6111	1
+character-item = 18	2578	1
+character-item = 19	7159	1
+character-item = 20	3843	1
+
+[BANK]
+
+[FRIENDS]
+character-friend = 0	2433192995789506340
+character-friend = 1	231884
+character-friend = 2	772232564
+character-friend = 3	1280313544943
+character-friend = 4	789507987
+character-friend = 5	108832073
+character-friend = 6	23095355843
+character-friend = 7	13364330067244211
+character-friend = 8	2498278619864182
+character-friend = 9	1462361804537116
+character-friend = 10	3162576
+character-friend = 11	1129047074992834
+character-friend = 12	324142756647
+character-friend = 13	738347
+character-friend = 14	39523292023072
+character-friend = 15	41814976100
+character-friend = 16	1623950442
+character-friend = 17	1463397978112836
+character-friend = 18	5073282626730
+character-friend = 19	44739613858316172
+character-friend = 20	1603290139798181700
+character-friend = 21	39551297260308
+character-friend = 22	521473004833
+character-friend = 23	75791
+character-friend = 24	1251939617966769591
+character-friend = 25	2993313371
+character-friend = 26	30062636
+character-friend = 27	2031555277481972
+character-friend = 28	105289618251
+character-friend = 29	477264
+character-friend = 30	8292243
+character-friend = 31	110795998110981307
+character-friend = 32	32053
+character-friend = 33	1186231
+character-friend = 34	41623888918
+character-friend = 35	438630659
+character-friend = 36	18354
+character-friend = 37	32848034040947
+character-friend = 38	1610685098
+character-friend = 39	3059939336918561
+character-friend = 40	1112114333
+character-friend = 41	179035285
+character-friend = 42	64475100006296049
+character-friend = 43	97056652838448
+character-friend = 44	81684553786538
+character-friend = 45	890543879544
+character-friend = 46	245099306229
+character-friend = 47	16408149449224178
+character-friend = 48	2154871536970815
+character-friend = 49	28925314532991151
+character-friend = 50	379731877777
+character-friend = 51	33723723191
+character-friend = 52	323932431430
+character-friend = 53	896995928070754601
+character-friend = 54	33371325830
+character-friend = 55	21099793
+character-friend = 56	76987268836
+character-friend = 57	37833739363
+character-friend = 58	363046477117072447
+character-friend = 59	8747558452664
+character-friend = 60	3209170351531981616
+character-friend = 61	19888039469509301
+character-friend = 62	34825387
+character-friend = 63	36441005
+character-friend = 64	9996059
+character-friend = 65	270163
+character-friend = 66	999691080
+character-friend = 67	50637352287788
+character-friend = 68	40350426084518
+character-friend = 69	2292036095394
+character-friend = 70	1742569816539122
+character-friend = 71	3515078935777
+character-friend = 72	671265
+
+[IGNORES]
+
+[EOF]
+

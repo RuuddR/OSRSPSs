@@ -1,0 +1,88 @@
+[ACCOUNT]
+character-username = moberg
+character-password = 75-49-168-42-227-127-231-98-160-157-13-24-90-180-188-8
+
+[CHARACTER]
+character-height = 0
+character-posx = 3254
+character-posy = 3427
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = c83-248-182-87.bredband.comhem.se
+character-lastlogin = 20061101
+character-energy = 6
+character-gametime = 0
+character-gamecount = 11832
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	84	369600
+character-skill = 1	3	0
+character-skill = 2	96	1015500
+character-skill = 3	41	17650111
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	99	7820484
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	6	305
+character-skill = 18	84	1579350
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	392	1
+character-item = 1	996	345360
+
+[BANK]
+character-bank = 0	4715	1
+character-bank = 1	7399	1
+character-bank = 2	7401	1
+character-bank = 3	4709	1
+character-bank = 4	4713	1
+character-bank = 5	7400	1
+character-bank = 6	178	1
+character-bank = 7	166	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

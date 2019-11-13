@@ -1,0 +1,99 @@
+[ACCOUNT]
+character-username = shadow pker
+character-password = jason
+
+[CHARACTER]
+character-height = 0
+character-posx = 2713
+character-posy = 4836
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = adsl-76-208-43-152.dsl.sbndin.sbcglobal.net
+character-lastlogin = 20080012
+character-energy = 100
+character-gametime = 0
+character-gamecount = 7293
+
+[EQUIPMENT]
+character-equip = 0	1055	1	
+character-equip = 1	1021	0	
+character-equip = 2	1704	1	
+character-equip = 3	15336	1	
+character-equip = 4	14638	1	
+character-equip = 5	3101	1	
+character-equip = 6	-1	0	
+character-equip = 7	5576	1	
+character-equip = 8	-1	0	
+character-equip = 9	7462	1	
+character-equip = 10	3105	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	3
+character-look = 2	0
+character-look = 3	0
+character-look = 4	0
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	80	1014900
+character-skill = 1	60	149600
+character-skill = 2	96	5093200
+character-skill = 3	68	2209761
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	99	1355385484
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	47	39480
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	562	6
+character-item = 1	4754	1
+character-item = 2	555	10
+character-item = 3	7387	1
+character-item = 5	392	1
+character-item = 6	392	1
+character-item = 7	392	1
+character-item = 8	392	1
+character-item = 9	392	1
+character-item = 10	392	1
+
+[BANK]
+character-bank = 0	392	1490
+character-bank = 1	996	388520924
+character-bank = 2	15335	1
+character-bank = 3	14916	1
+character-bank = 4	7391	1
+character-bank = 5	4588	1
+character-bank = 6	1172	1
+character-bank = 7	13602	1
+character-bank = 8	3843	1
+
+[FRIENDS]
+character-friend = 0	24443965
+character-friend = 1	2659219654695
+
+[IGNORES]
+
+[EOF]
+

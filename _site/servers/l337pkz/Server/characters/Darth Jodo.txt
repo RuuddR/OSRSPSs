@@ -1,0 +1,87 @@
+[ACCOUNT]
+character-username = Darth Jodo
+character-password = 153-48-39-8-192-150-26-165-169-176-154-157-194-55-122-89
+
+[CHARACTER]
+character-height = 0
+character-posx = 3254
+character-posy = 3420
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = 121.208.95.203
+character-lastlogin = 20061111
+character-energy = 8
+character-gametime = 0
+character-gamecount = 490
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	1	0
+character-skill = 2	1	0
+character-skill = 3	99	14000000
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	6107	1
+
+[BANK]
+character-bank = 0	996	10000000
+character-bank = 1	1043	1
+character-bank = 2	4152	1
+character-bank = 3	6108	1
+character-bank = 4	6109	1
+character-bank = 5	6111	1
+character-bank = 6	1713	1
+character-bank = 7	1053	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

@@ -1,0 +1,532 @@
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+I loot I wins item: -1 amount: 0 from mod_pur3
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: 2577 amount: 1 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+mod_pur3 wins item: -1 amount: 0 from I loot I
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+spitfire317 wins item: -1 amount: 0 from cokebottle61
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+0  o  0  o 0 wins item: -1 amount: 0 from tanka tank
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+uloveme wins item: -1 amount: 0 from wee
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+hi peeps yo wins item: -1 amount: 0 from uloveme
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+no good name wins item: -1 amount: 0 from hi peeps yo
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: 1127 amount: 0 from hell god
+hi peeps yo wins item: 1079 amount: 0 from hell god
+hi peeps yo wins item: 1163 amount: 1 from hell god
+hi peeps yo wins item: 1333 amount: 1 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: -1 amount: 0 from hell god
+hi peeps yo wins item: 995 amount: 50000000 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+puresoul wins item: 995 amount: 50000000 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+puresoul wins item: -1 amount: 0 from hi peeps yo
+hi peeps yo wins item: 995 amount: 50000000 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul
+hi peeps yo wins item: -1 amount: 0 from puresoul

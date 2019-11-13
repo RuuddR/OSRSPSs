@@ -1,0 +1,94 @@
+[ACCOUNT]
+character-username = theory
+character-password = 175-84-67-179-162-193-105-144-22-106-178-52-243-191-181-105
+
+[CHARACTER]
+character-height = 0
+character-posx = 2753
+character-posy = 3514
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = adsl-221-248-142.ilm.bellsouth.net
+character-lastlogin = 20060803
+character-energy = 72
+character-gametime = 0
+character-gamecount = 19622
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	88	4795204
+character-skill = 1	58	242400
+character-skill = 2	48	84000
+character-skill = 3	101	17324228
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	101	17445610
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	74	1100400
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	6925	1
+character-bank = 1	3386	1
+character-bank = 2	2891	2
+character-bank = 3	3390	1
+character-bank = 4	6921	1
+character-bank = 5	1053	1
+character-bank = 6	1713	1
+character-bank = 7	3394	1
+character-bank = 8	3388	1
+character-bank = 9	6923	1
+character-bank = 10	3392	1
+character-bank = 11	6919	1
+character-bank = 12	4676	1
+character-bank = 13	6917	1
+character-bank = 14	996	173581
+character-bank = 15	4152	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

@@ -1,0 +1,80 @@
+[ACCOUNT]
+character-username = mainman
+character-password = 179-109-51-20-81-166-30-178-215-104-96-224-12-52-115-150
+
+[CHARACTER]
+character-height = 0
+character-posx = 3300
+character-posy = 3200
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = 89.241.235.134
+character-lastlogin = 20080030
+character-energy = 100
+character-gametime = 0
+character-gamecount = 3063
+
+[EQUIPMENT]
+character-equip = 0	15195	1	
+character-equip = 1	1052	1	
+character-equip = 2	-1	0	
+character-equip = 3	1321	0	
+character-equip = 4	-1	0	
+character-equip = 5	3840	1	
+character-equip = 6	-1	0	
+character-equip = 7	1079	1	
+character-equip = 8	-1	0	
+character-equip = 9	775	0	
+character-equip = 10	1837	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	50	103700
+character-skill = 1	54	159800
+character-skill = 2	48	85000
+character-skill = 3	81	124155
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	70
+character-skill = 18	3	235
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	15349	1
+character-item = 1	996	83179
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

@@ -1,0 +1,86 @@
+[ACCOUNT]
+character-username = ice barrage
+character-password = 171-9-158-206-195-199-220-148-69-168-133-78-5-252-160-131
+
+[CHARACTER]
+character-height = 0
+character-posx = 3254
+character-posy = 3420
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = client-82-20-27-52.brhm.adsl.virgin.net
+character-lastlogin = 20060803
+character-energy = 22
+character-gametime = 0
+character-gamecount = 1328
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	1	0
+character-skill = 2	1	0
+character-skill = 3	99	14000056
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	37	28650
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	2891	1
+character-item = 1	3390	1
+character-item = 2	996	91200
+
+[BANK]
+character-bank = 0	3386	1
+character-bank = 1	1713	1
+character-bank = 2	3394	1
+character-bank = 3	3392	1
+character-bank = 4	3388	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

@@ -1,0 +1,7 @@
+@yel@   Drogo's little helper!                        Quest
+
+@red@@str@ I spoke to Drogo.
+@red@@str@ maybe i should find his pick-axe
+
+@red@ I found his pick-axe
+@red@ I should probably tell drogo of my find

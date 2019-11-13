@@ -1,0 +1,80 @@
+[ACCOUNT]
+character-username = goffy goober
+character-password = 214-148-3-226-103-62-97-29-76-189-63-173-111-209-120-142
+
+[CHARACTER]
+character-height = 0
+character-posx = 2965
+character-posy = 3377
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = CPE-121-219-4-54.vic.bigpond.net.au
+character-lastlogin = 20080031
+character-energy = 100
+character-gametime = 0
+character-gamecount = 480
+
+[EQUIPMENT]
+character-equip = 0	2637	0	
+character-equip = 1	1052	0	
+character-equip = 2	-1	0	
+character-equip = 3	1321	0	
+character-equip = 4	4111	0	
+character-equip = 5	3840	0	
+character-equip = 6	-1	0	
+character-equip = 7	4113	0	
+character-equip = 8	-1	0	
+character-equip = 9	775	0	
+character-equip = 10	1837	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	8	850
+character-skill = 1	1	0
+character-skill = 2	15	2550
+character-skill = 3	99	2355
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+
+[FRIENDS]
+character-friend = 0	855513989168
+character-friend = 1	2659219654695
+
+[IGNORES]
+
+[EOF]
+

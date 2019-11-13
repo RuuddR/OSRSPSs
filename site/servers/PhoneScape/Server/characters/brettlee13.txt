@@ -1,0 +1,81 @@
+[ACCOUNT]
+character-username = brettlee13
+character-password = 81-19-4-133-197-205-157-36-128-153-70-53-52-242-146-65
+
+[CHARACTER]
+character-height = 1
+character-posx = 3253
+character-posy = 3421
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = CPE-60-230-107-103.vic.bigpond.net.au
+character-lastlogin = 20061105
+character-energy = 51
+character-gametime = 0
+character-gamecount = 24526
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	84	1554170
+character-skill = 1	84	1483050
+character-skill = 2	84	1478550
+character-skill = 3	99	22555198
+character-skill = 4	1	0
+character-skill = 5	33	9230
+character-skill = 6	99	12071330
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	97	5422800
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	4566	1
+
+[BANK]
+character-bank = 0	996	1207439
+character-bank = 4	168	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

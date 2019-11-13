@@ -1,0 +1,87 @@
+[ACCOUNT]
+character-username = noobje
+character-password = 157-43-234-108-14-40-138-29-182-246-125-215-84-4-88-93
+
+[CHARACTER]
+character-height = 0
+character-posx = 2966
+character-posy = 3388
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = cp418656-a.tilbu1.nb.home.nl
+character-lastlogin = 20060803
+character-energy = 9
+character-gametime = 0
+character-gamecount = 2601
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	1052	1	
+character-equip = 2	-1	0	
+character-equip = 3	4675	1	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	1	4
+character-skill = 1	1	0
+character-skill = 2	1	0
+character-skill = 3	90	14000001
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	6	632
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	996	63600
+character-bank = 1	3394	1
+character-bank = 3	1713	1
+character-bank = 4	3392	1
+character-bank = 5	3388	1
+character-bank = 7	3386	1
+character-bank = 8	2891	1
+character-bank = 9	3390	1
+
+[FRIENDS]
+character-friend = 0	16507505925
+
+[IGNORES]
+
+[EOF]
+

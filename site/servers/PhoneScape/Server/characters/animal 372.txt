@@ -1,0 +1,103 @@
+[ACCOUNT]
+character-username = animal 372
+character-password = 195-227-83-203-46-217-27-242-171-5-26-59-15-85-131-55
+
+[CHARACTER]
+character-height = 0
+character-posx = 3249
+character-posy = 3434
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = dxb-as56977.alshamil.net.ae
+character-lastlogin = 20061103
+character-energy = 36
+character-gametime = 0
+character-gamecount = 2817
+
+[EQUIPMENT]
+character-equip = 0	6109	1	
+character-equip = 1	1052	1	
+character-equip = 2	1712	1	
+character-equip = 3	4675	1	
+character-equip = 4	6107	1	
+character-equip = 5	6524	1	
+character-equip = 6	-1	0	
+character-equip = 7	6108	1	
+character-equip = 8	-1	0	
+character-equip = 9	6110	1	
+character-equip = 10	6106	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	73	497404
+character-skill = 1	56	101400
+character-skill = 2	1	0
+character-skill = 3	99	15722601
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	37	14463
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	76	697950
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 5	392	1
+character-item = 6	392	1
+character-item = 7	392	1
+character-item = 8	392	1
+character-item = 9	392	1
+character-item = 11	392	1
+character-item = 12	392	1
+character-item = 13	392	1
+character-item = 14	392	1
+character-item = 15	392	1
+character-item = 16	392	1
+character-item = 17	392	1
+character-item = 18	392	1
+character-item = 19	392	1
+character-item = 20	392	1
+character-item = 21	392	1
+character-item = 22	392	1
+character-item = 23	392	1
+character-item = 24	392	1
+character-item = 25	392	1
+character-item = 26	392	1
+character-item = 27	392	1
+
+[BANK]
+character-bank = 0	1232	1
+character-bank = 1	2891	1
+character-bank = 2	996	2780
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

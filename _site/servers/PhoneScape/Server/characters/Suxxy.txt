@@ -1,0 +1,82 @@
+[ACCOUNT]
+character-username = Suxxy
+character-password = 16-202-145-10-187-185-107-243-241-0-5-166-209-145-245-238
+
+[CHARACTER]
+character-height = 0
+character-posx = 3249
+character-posy = 3434
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = pool-71-246-113-142.nycmny.east.verizon.net
+character-lastlogin = 20061103
+character-energy = 87
+character-gametime = 0
+character-gamecount = 47625
+
+[EQUIPMENT]
+character-equip = 0	5574	1	
+character-equip = 1	6568	1	
+character-equip = 2	-1	0	
+character-equip = 3	4151	1	
+character-equip = 4	5575	1	
+character-equip = 5	3842	1	
+character-equip = 6	-1	0	
+character-equip = 7	5576	1	
+character-equip = 8	-1	0	
+character-equip = 9	7461	1	
+character-equip = 10	3105	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	99	9149886
+character-skill = 1	97	5437350
+character-skill = 2	95	4532550
+character-skill = 3	80	32771999
+character-skill = 4	2	56
+character-skill = 5	31	7830
+character-skill = 6	99	17180288
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	33	9955
+character-skill = 18	99	20987565
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	13251382
+
+[BANK]
+character-bank = 0	7159	1
+character-bank = 1	4835	13
+character-bank = 2	1306	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

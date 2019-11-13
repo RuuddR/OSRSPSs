@@ -1,0 +1,83 @@
+[ACCOUNT]
+character-username = pureant
+character-password = 46-238-205-114-197-103-64-30-105-136-98-75-23-157-11-20
+
+[CHARACTER]
+character-height = 0
+character-posx = 3204
+character-posy = 3359
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = temecula-cuda1-24-55-77-92.ontrca.adelphia.net
+character-lastlogin = 20061103
+character-energy = 49
+character-gametime = 0
+character-gamecount = 8281
+
+[EQUIPMENT]
+character-equip = 0	1055	1	
+character-equip = 1	1052	0	
+character-equip = 2	1712	0	
+character-equip = 3	6739	1	
+character-equip = 4	3387	0	
+character-equip = 5	2890	0	
+character-equip = 6	-1	0	
+character-equip = 7	3389	0	
+character-equip = 8	-1	0	
+character-equip = 9	3391	0	
+character-equip = 10	3393	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	60	144750
+character-skill = 2	4	150
+character-skill = 3	99	14029700
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	30	7000
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	5
+character-skill = 18	61	153750
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	34607024
+character-item = 1	1420	1
+character-item = 2	3386	1
+
+[BANK]
+character-bank = 0	4676	1
+character-bank = 1	996	122088
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

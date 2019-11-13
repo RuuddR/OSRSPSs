@@ -1,0 +1,129 @@
+[ACCOUNT]
+character-username = carson
+character-password = 32-44-185-98-172-89-7-91-150-75-7-21-45-35-75-112
+
+[CHARACTER]
+character-height = 0
+character-posx = 3269
+character-posy = 3412
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = 6532180hfc191.tampabay.res.rr.com
+character-lastlogin = 20061104
+character-energy = 100
+character-gametime = 0
+character-gamecount = 15754
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	1
+character-look = 2	1
+character-look = 3	2
+character-look = 4	0
+character-look = 5	6
+
+[SKILLS]
+character-skill = 0	95	4390050
+character-skill = 1	1	0
+character-skill = 2	82	1280100
+character-skill = 3	99	28315400
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	46	36210
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	26	4595
+character-skill = 18	98	6196800
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	1036	1
+character-item = 1	1034	1
+character-item = 2	3841	1
+character-item = 3	996	1200000
+
+[BANK]
+character-bank = 0	7395	1
+character-bank = 1	982	10
+character-bank = 2	1420	10
+character-bank = 3	3752	1
+character-bank = 4	3750	1
+character-bank = 5	3754	1
+character-bank = 6	5576	1
+character-bank = 7	5577	1
+character-bank = 8	7391	1
+character-bank = 9	6107	1
+character-bank = 10	6111	1
+character-bank = 11	6110	1
+character-bank = 12	6109	1
+character-bank = 13	6108	1
+character-bank = 14	6112	1
+character-bank = 16	7387	1
+character-bank = 17	6140	1
+character-bank = 18	1306	1
+character-bank = 19	6138	1
+character-bank = 20	6142	1
+character-bank = 21	4588	1
+character-bank = 22	1435	1
+character-bank = 23	6154	1
+character-bank = 24	6148	1
+character-bank = 25	1053	1
+character-bank = 26	2417	1
+character-bank = 27	2416	1
+character-bank = 28	4676	1
+character-bank = 29	2676	1
+character-bank = 30	2414	1
+character-bank = 31	2413	1
+character-bank = 32	2415	1
+character-bank = 36	2660	1
+character-bank = 40	2668	1
+character-bank = 41	4038	1
+character-bank = 43	7593	1
+character-bank = 44	7594	1
+character-bank = 45	7595	1
+character-bank = 46	7596	1
+character-bank = 47	7597	1
+character-bank = 48	7320	1
+character-bank = 49	7322	1
+character-bank = 50	7324	1
+character-bank = 51	7326	1
+character-bank = 52	7400	1
+character-bank = 53	7399	1
+character-bank = 54	4748	10
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

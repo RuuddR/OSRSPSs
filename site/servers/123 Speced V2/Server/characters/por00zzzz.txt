@@ -1,0 +1,97 @@
+[ACCOUNT]
+character-username = por00zzzz
+character-password = 192-68-182-181-116-144-106-109-126-228-105-245-106-30-172-131
+
+[CHARACTER]
+character-height = 0
+character-posx = 3300
+character-posy = 3197
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = dhcp-0-e0-18-f4-e1-76.cpe.mountaincable.net
+character-lastlogin = 20080105
+character-energy = 100
+character-gametime = 0
+character-gamecount = 3164
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	1725	1	
+character-equip = 3	4153	1	
+character-equip = 4	544	1	
+character-equip = 5	3842	1	
+character-equip = 6	-1	0	
+character-equip = 7	542	1	
+character-equip = 8	-1	0	
+character-equip = 9	775	1	
+character-equip = 10	3105	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	0
+character-look = 2	1
+character-look = 3	2
+character-look = 4	0
+character-look = 5	2
+
+[SKILLS]
+character-skill = 0	60	276250
+character-skill = 1	1	0
+character-skill = 2	74	1130500
+character-skill = 3	32	497655
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	71	820000
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	1360	1
+character-item = 3	4588	1
+character-item = 15	386	1
+character-item = 16	386	1
+character-item = 17	386	1
+character-item = 18	386	1
+character-item = 19	386	1
+character-item = 20	386	1
+character-item = 21	386	1
+character-item = 22	386	1
+character-item = 23	386	1
+character-item = 24	386	1
+
+[BANK]
+character-bank = 0	5699	1
+character-bank = 1	4588	1
+character-bank = 2	6108	1
+character-bank = 3	6109	1
+character-bank = 4	12442	1
+character-bank = 5	996	92584
+
+[FRIENDS]
+character-friend = 0	2659219654695
+
+[IGNORES]
+
+[EOF]
+

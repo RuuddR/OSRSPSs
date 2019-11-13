@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<newitemdb>
+<item members="true"  name="Void Knight Top"  type="13591"> </item>
+<item members="true"  name="Void Knight robe"  type="13592"> </item>
+<item members="true"  name="Void Knight Mace"  type="13593"> </item>
+<item members="true"  name="Void Knight gloves"  type="13594"> </item>
+<item members="true"  name="Bronze defender"  type="13595"> </item>
+<item members="true"  name="Iron defender"  type="13596"> </item>
+<item members="true"  name="Steel defender"  type="13597"> </item>
+<item members="true"  name="Black defender"  type="13598"> </item>
+<item members="true"  name="Mithrill defender"  type="13599"> </item>
+<item members="true"  name="Adamant defender"  type="13600"> </item>
+<item members="true"  name="Rune defender"  type="13601"> </item>
+<item members="true"  name="Black mask"  type="13640"> </item>
+<item members="true"  name="Bronze c'bow"  type="13794"> </item>
+<item members="true"  name="Blurite c'bow"  type="13795"> </item>
+<item members="true"  name="Iron c'bow"  type="13796"> </item>
+<item members="true"  name="Steel c'bow"  type="13797"> </item>
+<item members="true"  name="Mith c'bow"  type="13798"> </item>
+<item members="true"  name="Adamantite c'bow"  type="13799"> </item>
+<item members="true"  name="Rune c'bow"  type="13800"> </item>
+<item members="true"  name="Attack Cape"  type="14073"> </item>
+<item members="true"  name="Attack Cape(t)"  type="14074"> </item>
+<item members="true"  name="Attack Hood"  type="14075"> </item>
+<item members="true"  name="Strength Cape"  type="14076"> </item>
+<item members="true"  name="Strength Cape(t)"  type="14077"> </item>
+<item members="true"  name="Strength Hood"  type="14078"> </item>
+<item members="true"  name="Defence Cape"  type="14079"> </item>
+<item members="true"  name="Defence Cape(t)"  type="14080"> </item>
+<item members="true"  name="Defence Hood"  type="14081"> </item>
+<item members="true"  name="Ranging Cape"  type="14082"> </item>
+<item members="true"  name="Ranging Cape(t)"  type="14083"> </item>
+<item members="true"  name="Range Hood"  type="14084"> </item>
+<item members="true"  name="Prayer Cape"  type="14085"> </item>
+<item members="true"  name="Prayer Cape(t)"  type="14086"> </item>
+<item members="true"  name="Prayer Hood"  type="14087"> </item>
+<item members="true"  name="Magic Cape"  type="14088"> </item>
+<item members="true"  name="Magic Cape(t)"  type="14089"> </item>
+<item members="true"  name="Magic Hood"  type="14090"> </item>
+<item members="true"  name="RuneCrafting Cape"  type="14091"> </item>
+<item members="true"  name="RuneCrafting Cape(t)"  type="14092"> </item>
+<item members="true"  name="RuneCrafting Hood"  type="14093"> </item>
+<item members="true"  name="Hitpoint Cape"  type="14094"> </item>
+<item members="true"  name="Hitpoint Cape(t)"  type="14095"> </item>
+<item members="true"  name="Hitpoint Hood"  type="14096"> </item>
+<item members="true"  name="Agility Cape"  type="14097"> </item>
+<item members="true"  name="Agility Cape(t)"  type="14098"> </item>
+<item members="true"  name="Agility Hood"  type="14099"> </item>
+<item members="true"  name="Herblore Cape"  type="14100"> </item>
+<item members="true"  name="Herblore Cape(t)"  type="14101"> </item>
+<item members="true"  name="Herblore Hood"  type="14102"> </item>
+<item members="true"  name="Thieving Cape"  type="14103"> </item>
+<item members="true"  name="Thieving Cape(t)"  type="14104"> </item>
+<item members="true"  name="Thieving Hood"  type="14105"> </item>
+<item members="true"  name="Crafting Cape"  type="14106"> </item>
+<item members="true"  name="crafting Cape(t)"  type="14107"> </item>
+<item members="true"  name="Crafting Hood"  type="14108"> </item>
+<item members="true"  name="Fletching Cape(t)"  type="14109"> </item>
+<item members="true"  name="Fletching Cape"  type="14110"> </item>
+<item members="true"  name="Fletching Hood"  type="14111"> </item>
+<item members="true"  name="Slayer Cape"  type="14112"> </item>
+<item members="true"  name="Slayer Cape"  type="14113"> </item>
+<item members="true"  name="Slayer Hood"  type="14114"> </item>
+<item members="true"  name="Const. Cape"  type="14115"> </item>
+<item members="true"  name="Const. Cape(t)"  type="14116"> </item>
+<item members="true"  name="Const. Hood"  type="14117"> </item>
+<item members="true"  name="Mining Cape"  type="14118"> </item>
+<item members="true"  name="Mining Cape(t)"  type="14119"> </item>
+<item members="true"  name="Mining Hood"  type="14120"> </item>
+<item members="true"  name="Smithing Cape"  type="14121"> </item>
+<item members="true"  name="Smithing Cape(t)"  type="14122"> </item>
+<item members="true"  name="Smithing Hood"  type="14123"> </item>
+<item members="true"  name="Fishing Cape"  type="14124"> </item>
+<item members="true"  name="Fishing Cape(t)"  type="14125"> </item>
+<item members="true"  name="Fishing Hood"  type="14126"> </item>
+<item members="true"  name="cooking Cape"  type="14127"> </item>
+<item members="true"  name="cooking Cape(t)"  type="14128"> </item>
+<item members="true"  name="Cooking Hood"  type="14129"> </item>
+<item members="true"  name="Firemaking Cape"  type="14130"> </item>
+<item members="true"  name="Firemaking Cape(t)"  type="14131"> </item>
+<item members="true"  name="FireMaking Hood"  type="14132"> </item>
+<item members="true"  name="woodcutting Cape"  type="14133"> </item>
+<item members="true"  name="woodcutting Cape"  type="14134"> </item>
+<item members="true"  name="Woodcutting Hood"  type="14135"> </item>
+<item members="true"  name="Farming Cape"  type="14136"> </item>
+<item members="true"  name="Farming Cape(t)"  type="14137"> </item>
+<item members="true"  name="Farming Hood"  type="14138"> </item>
+<item members="true"  name="Quest Cape"  type="14139"> </item>
+<item members="true"  name="Quest Hood"  type="14140"> </item>
+<item members="true"  name="3rd Age Range Top"  type="14503"> </item>
+<item members="true"  name="3rd Age Range Legs"  type="14504"> </item>
+<item members="true"  name="3rd Age Range Coif"  type="14505"> </item>
+<item members="true"  name="3rd Age vambraces"  type="14506"> </item>
+<item members="true"  name="3rd Age Robe Top"  type="14507"> </item>
+<item members="true"  name="3rd Age Robe"  type="14508"> </item>
+<item members="true"  name="3rd Age Mage Hat"  type="14509"> </item>
+<item members="true"  name="3rd Age plateLegs"  type="14511"> </item>
+<item members="true"  name="3rd Age plateBody"  type="14512"> </item>
+<item members="true"  name="3rd Age Full helm"  type="14513"> </item>
+<item members="true"  name="3rd Age KiteShield"  type="14514"> </item>
+<item members="true"  name="Amulet of glory(t)"  type="14519"> </item>
+<item members="true"  name="Amulet of Strength (t)"  type="14520"> </item>
+<item members="true"  name="Amulet of magic(t)"  type="14521"> </item>
+<item members="true"  name="Zamorak bracers"  type="14522"> </item>
+<item members="true"  name="Zamorak d"hide"  type="14523"> </item>
+<item members="true"  name="Zamorak chaps"  type="14524"> </item>
+<item members="true"  name="Zamorak coif"  type="14525"> </item>
+<item members="true"  name="Guthix bracers"  type="14526"> </item>
+<item members="true"  name="Guthix dragonhide"  type="14527"> </item>
+<item members="true"  name="Guthix chaps"  type="14528"> </item>
+<item members="true"  name="Guthix coif"  type="14529"> </item>
+<item members="true"  name="Saradomin bracers"  type="14530"> </item>
+<item members="true"  name="Saradomin d"hide"  type="14531"> </item>
+<item members="true"  name="Saradomin chaps"  type="14532"> </item>
+<item members="true"  name="Saradomin coif"  type="14533"> </item>
+<item members="true"  name="Zamorak Crozier"  type="14560"> </item>
+<item members="true"  name="Zamorak Cape"  type="14563"> </item>
+<item members="true"  name="Zamorak Mitre"  type="14566"> </item>
+<item members="true"  name="Zamorak Robe top"  type="14568"> </item>
+<item members="true"  name="Zamorak Robe Bottom"  type="14572"> </item>
+<item members="true"  name="Zamorak Stole"  type="14575"> </item>
+<item members="true"  name="Fighter Torso"  type="14638"> </item>
+<item members="true"  name="Granite body"  type="14651"> </item>
+<item members="true"  name="Granite helm"  type="14668"> </item>
+<item members="true"  name="Amulet of glory(t)"  type="14797"> </item>
+<item members="true"  name="Strength amulet(t)"  type="14814"> </item>
+<item members="true"  name="Amulet of magic(t)"  type="14815"> </item>
+<item members="true"  name="Helm of neitiznot"  type="14860"> </item>
+<item members="true"  name="Silly jester hat"  type="14868"> </item>
+<item members="true"  name="Silly jester top"  type="14869"> </item>
+<item members="true"  name="Silly jester tights"  type="14870"> </item>
+<item members="true"  name="Silly jester boots"  type="14871"> </item>
+<item members="true"  name="Jester stick"  type="14872"> </item>
+<item members="true"  name="Barrelchest Anchor"  type="14915"> </item>
+<item members="true"  name="Summoning Cape"  type="15150"> </item>
+<item members="true"  name="Dark bow"  type="15156"> </item>
+<item members="true"  name="Dragonfire shield"  type="15185"> </item>
+<item members="true"  name="Dragonic visage"  type="15187"> </item>
+<item members="true"  name="Dragon Full Helm"  type="15195"> </item>
+<item members="true"  name="Slayer Sword"  type="15234"> </item>
+<item members="true"  name="Armadyl Godsword"  type="15333"> </item>
+<item members="true"  name="Bandos godsword "  type="15334"> </item>
+<item members="true"  name="Saradomin Godsword"  type="15335"> </item>
+<item members="true"  name="Zamorak Godsword"  type="15336"> </item>
+<item members="true"  name="Armadyl helm"  type="15345"> </item>
+<item members="true"  name="Armadyl chestplate"  type="15346"> </item>
+<item members="true"  name="Armadyl plateskirt"  type="15347"> </item>
+<item members="true"  name="Bandos Chestplate"  type="15348"> </item>
+<item members="true"  name="Bandos tassets"  type="15349"> </item>
+<item members="true"  name="Bandos boots"  type="15350"> </item>
+<item members="true"  name="Dragon Boots"  type="15352"> </item>
+</newitemdb>

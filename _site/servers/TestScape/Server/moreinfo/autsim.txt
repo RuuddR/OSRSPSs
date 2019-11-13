@@ -1,0 +1,21 @@
+[MOREINFO]
+character-clueid = 0
+character-cluelevel = 0
+character-cluestage = 0
+character-lastlogin = 127.0.0.1
+character-lastlogintime = 20150128
+character-ancients = 0
+character-hasegg = 0
+
+[QUESTS]
+character-questpoints = 0
+character-quest_1 = 0
+character-quest_2 = 0
+
+[FRIENDS]
+
+
+[IGNORES]
+
+[EOF]
+

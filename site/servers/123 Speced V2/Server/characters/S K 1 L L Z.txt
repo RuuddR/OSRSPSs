@@ -1,0 +1,99 @@
+[ACCOUNT]
+character-username = S K 1 L L Z
+character-password = 37-249-231-148-50-59-69-56-133-245-24-31-27-98-77-11
+
+[CHARACTER]
+character-height = 0
+character-posx = 3180
+character-posy = 3440
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = 204-83-213-23.nbfr.hsdb.sasknet.sk.ca
+character-lastlogin = 20080103
+character-energy = 100
+character-gametime = 0
+character-gamecount = 7422
+
+[EQUIPMENT]
+character-equip = 0	3751	1	
+character-equip = 1	1052	0	
+character-equip = 2	1725	0	
+character-equip = 3	4587	1	
+character-equip = 4	14638	1	
+character-equip = 5	13601	1	
+character-equip = 6	-1	0	
+character-equip = 7	1079	1	
+character-equip = 8	-1	0	
+character-equip = 9	7462	0	
+character-equip = 10	3105	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	70	750550
+character-skill = 1	40	38250
+character-skill = 2	85	3516450
+character-skill = 3	76	1520655
+character-skill = 4	1	0
+character-skill = 5	1	4
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	99	14605000
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	70
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	3170868
+character-item = 1	1620	1
+character-item = 2	6890	1
+character-item = 3	6740	1
+character-item = 4	545	1
+character-item = 5	543	1
+character-item = 6	14514	1
+character-item = 7	14512	1
+character-item = 8	14508	1
+character-item = 10	11949	1
+character-item = 11	2441	1
+character-item = 12	12446	1
+character-item = 17	386	1
+character-item = 18	386	1
+character-item = 19	386	1
+character-item = 20	386	1
+character-item = 21	386	1
+character-item = 22	386	1
+character-item = 23	386	1
+character-item = 24	386	1
+character-item = 25	386	1
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

@@ -1,0 +1,89 @@
+[ACCOUNT]
+character-username = jonno2211
+character-password = 180-19-87-175-228-230-212-3-135-96-232-135-105-244-219-65
+
+[CHARACTER]
+character-height = 0
+character-posx = 2996
+character-posy = 3417
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = CPE-124-183-244-239.nsw.bigpond.net.au
+character-lastlogin = 20080108
+character-energy = 100
+character-gametime = 0
+character-gamecount = 9214
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	1052	0	
+character-equip = 2	1725	0	
+character-equip = 3	6739	1	
+character-equip = 4	14507	1	
+character-equip = 5	6889	0	
+character-equip = 6	-1	0	
+character-equip = 7	14508	1	
+character-equip = 8	-1	0	
+character-equip = 9	7462	0	
+character-equip = 10	3105	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	61	318750
+character-skill = 1	61	302600
+character-skill = 2	90	5717950
+character-skill = 3	76	2238555
+character-skill = 4	1	0
+character-skill = 5	70	768000
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	98	12728500
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	43	54265
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	4312019
+character-item = 1	4588	1
+
+[BANK]
+character-bank = 0	14077	1
+character-bank = 1	543	1
+character-bank = 2	545	1
+character-bank = 4	14508	1
+character-bank = 5	386	15
+character-bank = 6	1620	1
+character-bank = 7	5699	1
+
+[FRIENDS]
+character-friend = 0	13768
+character-friend = 1	9642
+
+[IGNORES]
+
+[EOF]
+

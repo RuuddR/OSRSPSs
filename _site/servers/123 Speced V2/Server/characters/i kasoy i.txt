@@ -1,0 +1,122 @@
+[ACCOUNT]
+character-username = i kasoy i
+character-password = 12345678
+
+[CHARACTER]
+character-height = 0
+character-posx = 2896
+character-posy = 3509
+character-rights = 2
+character-ismember = 0
+character-messages = 0
+character-lastconnection = ool-457b1548.dyn.optonline.net
+character-lastlogin = 20080014
+character-energy = 100
+character-gametime = 0
+character-gamecount = 9379
+
+[EQUIPMENT]
+character-equip = 0	1046	1	
+character-equip = 1	14085	1	
+character-equip = 2	6585	1	
+character-equip = 3	6527	1	
+character-equip = 4	6916	1	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	6924	1	
+character-equip = 8	-1	0	
+character-equip = 9	6922	1	
+character-equip = 10	15352	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	892	999999999	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	99	15187950
+character-skill = 1	99	14910000
+character-skill = 2	99	15431050
+character-skill = 3	99	15194181
+character-skill = 4	99	15207000
+character-skill = 5	99	14910000
+character-skill = 6	99	21402100
+character-skill = 7	99	14910000
+character-skill = 8	99	14910000
+character-skill = 9	99	14910000
+character-skill = 10	99	14910000
+character-skill = 11	99	14910000
+character-skill = 12	99	14910000
+character-skill = 13	99	14910000
+character-skill = 14	99	14910000
+character-skill = 15	99	14910000
+character-skill = 16	99	14910000
+character-skill = 17	99	14934750
+character-skill = 18	99	14910000
+character-skill = 19	99	14910000
+character-skill = 20	99	14910000
+character-skill = 21	99	14910000
+character-skill = 22	99	14910000
+character-skill = 23	99	14910000
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	555	999112
+character-item = 1	556	1000500
+character-item = 2	561	999408
+character-item = 3	4279	4614
+character-item = 4	15335	1
+character-item = 5	15157	1
+character-item = 9	392	1
+character-item = 10	392	1
+character-item = 11	392	1
+character-item = 12	392	1
+character-item = 13	392	1
+character-item = 14	392	1
+character-item = 15	392	1
+character-item = 16	392	1
+character-item = 17	392	1
+character-item = 18	392	1
+character-item = 19	392	1
+character-item = 20	392	1
+character-item = 21	392	1
+character-item = 22	392	1
+character-item = 23	392	1
+character-item = 24	392	1
+character-item = 25	392	1
+character-item = 26	392	1
+character-item = 27	392	1
+
+[BANK]
+character-bank = 0	561	998999999
+character-bank = 1	556	998999999
+character-bank = 2	6529	2
+character-bank = 3	567	999904999
+character-bank = 4	555	998999999
+character-bank = 5	563	999999999
+character-bank = 6	1705	1
+character-bank = 7	1324	1
+character-bank = 8	1172	1
+character-bank = 9	6919	1
+character-bank = 10	1022	1
+character-bank = 11	4588	1
+character-bank = 12	996	790060034
+character-bank = 13	15157	1
+character-bank = 14	392	999999864
+character-bank = 15	13602	1
+character-bank = 16	4215	1
+
+[FRIENDS]
+character-friend = 0	1832602813435
+character-friend = 1	2414416583387480
+
+[IGNORES]
+
+[EOF]
+

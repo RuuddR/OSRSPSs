@@ -1,0 +1,82 @@
+[ACCOUNT]
+character-username = noob
+character-password = 0-51-214-166-62-140-213-247-146-215-254-50-132-45-119-35
+
+[CHARACTER]
+character-height = 0
+character-posx = 3251
+character-posy = 3421
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = adsl-225-202-80.mia.bellsouth.net
+character-lastlogin = 20061111
+character-energy = 37
+character-gametime = 0
+character-gamecount = 3821
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	6570	1	
+character-equip = 2	6585	1	
+character-equip = 3	4151	1	
+character-equip = 4	-1	0	
+character-equip = 5	6889	1	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	7461	1	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	73	1000200
+character-skill = 1	71	828600
+character-skill = 2	62	349800
+character-skill = 3	99	16617957
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	6	600
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	83	2887800
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	20129421
+character-item = 1	1053	1
+character-item = 2	1128	1
+
+[BANK]
+character-bank = 0	2447	10
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

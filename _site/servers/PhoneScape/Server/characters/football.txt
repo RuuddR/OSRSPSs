@@ -1,0 +1,94 @@
+[ACCOUNT]
+character-username = football
+character-password = 187-54-254-170-196-109-122-170-180-24-19-139-87-143-215-224
+
+[CHARACTER]
+character-height = 0
+character-posx = 3230
+character-posy = 3244
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = cpe-071-070-246-095.nc.res.rr.com
+character-lastlogin = 20061103
+character-energy = 100
+character-gametime = 0
+character-gamecount = 19642
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	1052	1	
+character-equip = 2	1712	1	
+character-equip = 3	6739	2	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	72	465000
+character-skill = 1	61	162900
+character-skill = 2	70	380100
+character-skill = 3	99	17029430
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	38	16460
+character-skill = 7	1	0
+character-skill = 8	40	19250
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	82	1304700
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	14350000
+character-item = 3	392	1
+
+[BANK]
+character-bank = 0	996	2147483647
+character-bank = 1	4152	1
+character-bank = 2	1232	1
+character-bank = 3	1306	1
+character-bank = 4	3394	1
+character-bank = 5	4588	1
+character-bank = 6	1378	1
+character-bank = 7	1435	1
+character-bank = 8	5731	1
+character-bank = 9	3392	1
+character-bank = 10	3205	1
+character-bank = 11	7159	1
+character-bank = 12	2891	1
+
+[FRIENDS]
+character-friend = 0	10583660820525
+
+[IGNORES]
+
+[EOF]
+

@@ -1,0 +1,78 @@
+[ACCOUNT]
+character-username = GRIM
+character-password = austin
+
+[CHARACTER]
+character-height = 0
+character-posx = 3250
+character-posy = 3433
+character-rights = 2
+character-ismember = 1
+character-messages = 0
+character-lastconnection = adsl-75-31-189-216.dsl.ksc2mo.sbcglobal.net
+character-lastlogin = 20060729
+character-energy = 13
+character-gametime = 0
+character-gamecount = 1689
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	135	1400000000
+character-skill = 1	135	1400000000
+character-skill = 2	135	1400000000
+character-skill = 3	135	1400000000
+character-skill = 4	135	1400000000
+character-skill = 5	135	1400000000
+character-skill = 6	135	1400000000
+character-skill = 7	135	1400000000
+character-skill = 8	135	1400000000
+character-skill = 9	135	1400000000
+character-skill = 10	135	1400000000
+character-skill = 11	135	1400000000
+character-skill = 12	135	1400000000
+character-skill = 13	135	1400000000
+character-skill = 14	135	1400000000
+character-skill = 15	135	1400000000
+character-skill = 16	135	1400000000
+character-skill = 17	135	1400000000
+character-skill = 18	135	1400000000
+character-skill = 19	135	1400000000
+character-skill = 20	135	1400000000
+character-skill = 21	135	1400000000
+character-skill = 22	135	1400000000
+character-skill = 23	135	1400000000
+character-skill = 24	135	1400000000
+
+[ITEMS]
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

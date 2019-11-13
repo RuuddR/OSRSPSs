@@ -1,0 +1,94 @@
+[ACCOUNT]
+character-username = sir goodboy
+character-password = qwertyuio
+
+[CHARACTER]
+character-height = 0
+character-posx = 102
+character-posy = -53
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = 196.205.196.234
+character-lastlogin = 20080029
+character-energy = 100
+character-gametime = 0
+character-gamecount = 1900
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	0
+character-look = 2	4
+character-look = 3	1
+character-look = 4	2
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	74	560150
+character-skill = 1	60	150450
+character-skill = 2	76	674350
+character-skill = 3	72	494955
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	392	1
+
+[BANK]
+character-bank = 0	996	12234795
+character-bank = 1	392	1472
+character-bank = 2	1705	1
+character-bank = 3	4132	1
+character-bank = 4	14539	1
+character-bank = 5	1022	1
+character-bank = 6	14540	1
+character-bank = 7	15351	1
+character-bank = 8	1053	1
+character-bank = 9	15350	1
+character-bank = 10	13602	1
+character-bank = 11	14639	1
+character-bank = 12	15349	1
+character-bank = 13	1334	1
+character-bank = 14	4588	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

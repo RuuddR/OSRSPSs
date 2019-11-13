@@ -1,0 +1,109 @@
+[ACCOUNT]
+character-username = jcd1827
+character-password = 225-10-220-57-73-186-89-171-190-86-224-87-242-15-136-62
+
+[CHARACTER]
+character-height = 0
+character-posx = 3253
+character-posy = 3421
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = pool-70-19-162-17.bos.east.verizon.net
+character-lastlogin = 20061104
+character-energy = 21
+character-gametime = 0
+character-gamecount = 74830
+
+[EQUIPMENT]
+character-equip = 0	1057	1	
+character-equip = 1	6568	1	
+character-equip = 2	6585	1	
+character-equip = 3	6739	1	
+character-equip = 4	4101	1	
+character-equip = 5	3842	1	
+character-equip = 6	-1	0	
+character-equip = 7	4103	1	
+character-equip = 8	-1	0	
+character-equip = 9	6922	1	
+character-equip = 10	6920	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	99	8867388
+character-skill = 1	99	6594450
+character-skill = 2	99	6609300
+character-skill = 3	99	48742855
+character-skill = 4	1	35
+character-skill = 5	1	0
+character-skill = 6	99	7494930
+character-skill = 7	1	0
+character-skill = 8	41	21125
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	14	1200
+character-skill = 18	99	24001125
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	1223879
+character-item = 18	6925	1
+character-item = 19	6917	1
+character-item = 20	6917	1
+character-item = 21	6919	1
+character-item = 24	4722	1
+
+[BANK]
+character-bank = 0	996	9115089
+character-bank = 1	1056	1
+character-bank = 2	1054	1
+character-bank = 16	4676	3
+character-bank = 17	7401	1
+character-bank = 18	7400	1
+character-bank = 19	7399	1
+character-bank = 20	392	140
+character-bank = 29	6740	30
+character-bank = 37	4760	1
+character-bank = 38	4092	1
+character-bank = 39	4711	1
+character-bank = 40	7395	1
+character-bank = 41	7391	1
+character-bank = 42	7387	1
+character-bank = 46	4746	1
+character-bank = 47	4748	1
+character-bank = 48	4750	1
+character-bank = 49	4733	1
+character-bank = 50	4735	1
+character-bank = 51	4737	1
+character-bank = 52	4752	1
+character-bank = 53	4739	1
+
+[FRIENDS]
+character-friend = 0	25649506673288998
+character-friend = 1	20618452794
+
+[IGNORES]
+
+[EOF]
+

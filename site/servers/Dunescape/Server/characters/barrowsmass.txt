@@ -1,0 +1,80 @@
+[ACCOUNT]
+character-username = barrowsmass
+character-password = 251-56-148-89-205-192-58-176-239-96-207-31-1-225-6-166
+
+[CHARACTER]
+character-height = 0
+character-posx = 3252
+character-posy = 3434
+character-rights = 1
+character-ismember = 1
+character-messages = 0
+character-lastconnection = 74.129.86.138
+character-lastlogin = 20060803
+character-energy = 46
+character-gametime = 0
+character-gamecount = 4333
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	1	0
+character-skill = 2	1	0
+character-skill = 3	54	14000068
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	106	27238750
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	499200
+
+[BANK]
+
+[FRIENDS]
+character-friend = 0	48235692173599
+
+[IGNORES]
+
+[EOF]
+

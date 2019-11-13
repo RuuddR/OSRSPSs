@@ -1,0 +1,7 @@
+@yel@   Where Am I?                        Quest
+
+@red@ I need to find Rope.
+@red@ Its somewhere in the back of the docks.
+@red@ Maybe a crate or something?
+
+@yel@@str@ Hans talked to me.

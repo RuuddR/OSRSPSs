@@ -1,0 +1,108 @@
+[ACCOUNT]
+character-username = The Beast
+character-password = 104-143-33-48-193-82-11-77-148-42-38-3-49-67-89-112
+
+[CHARACTER]
+character-height = 0
+character-posx = 3254
+character-posy = 3435
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = ool-457dae29.dyn.optonline.net
+character-lastlogin = 20061103
+character-energy = 3
+character-gametime = 0
+character-gamecount = 13775
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	1	16
+character-skill = 1	3	0
+character-skill = 2	1	0
+character-skill = 3	99	14000004
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	79	929703
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	40
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	35599
+character-item = 1	380	1
+character-item = 2	386	1
+
+[BANK]
+character-bank = 0	3390	1
+character-bank = 1	1053	1
+character-bank = 2	3394	1
+character-bank = 3	3392	1
+character-bank = 4	3386	1
+character-bank = 5	3388	1
+character-bank = 6	2891	1
+character-bank = 7	1713	1
+character-bank = 8	4711	1
+character-bank = 9	4709	1
+character-bank = 10	4713	1
+character-bank = 11	4715	1
+character-bank = 12	7400	1
+character-bank = 13	7595	1
+character-bank = 14	7320	1
+character-bank = 15	7401	1
+character-bank = 16	7326	1
+character-bank = 17	7324	1
+character-bank = 18	7322	1
+character-bank = 19	7399	1
+character-bank = 20	7593	1
+character-bank = 21	4106	1
+character-bank = 22	7597	1
+character-bank = 23	1420	1
+character-bank = 24	1990	1
+character-bank = 25	982	1
+character-bank = 26	7594	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

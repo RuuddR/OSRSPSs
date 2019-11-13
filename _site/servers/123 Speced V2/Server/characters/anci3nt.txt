@@ -1,0 +1,110 @@
+[ACCOUNT]
+character-username = anci3nt
+character-password = jared
+
+[CHARACTER]
+character-height = 0
+character-posx = 3113
+character-posy = 9836
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = 121.218.86.74
+character-lastlogin = 20080029
+character-energy = 100
+character-gametime = 0
+character-gamecount = 10270
+
+[EQUIPMENT]
+character-equip = 0	2643	1	
+character-equip = 1	1021	1	
+character-equip = 2	1725	1	
+character-equip = 3	15334	1	
+character-equip = 4	15348	1	
+character-equip = 5	15185	1	
+character-equip = 6	-1	0	
+character-equip = 7	15349	1	
+character-equip = 8	-1	0	
+character-equip = 9	2491	1	
+character-equip = 10	15350	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	892	206	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	83	1386100
+character-skill = 1	81	1200400
+character-skill = 2	99	6630000
+character-skill = 3	86	1950270
+character-skill = 4	99	8582950
+character-skill = 5	74	552000
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	4719	1
+character-item = 1	996	33564576
+character-item = 2	176	1
+character-item = 3	15336	1
+character-item = 4	862	1
+character-item = 5	2582	1
+character-item = 6	2578	1
+character-item = 7	15157	1
+character-item = 8	2498	1
+character-item = 9	2504	1
+character-item = 15	392	1
+character-item = 16	392	1
+character-item = 17	392	1
+character-item = 18	392	1
+character-item = 19	392	1
+character-item = 20	392	1
+
+[BANK]
+character-bank = 0	15155	10
+character-bank = 1	392	1444
+character-bank = 2	1705	1
+character-bank = 3	7391	2
+character-bank = 5	7387	2
+character-bank = 6	5699	12
+character-bank = 7	1039	8
+character-bank = 8	4727	2
+character-bank = 9	14540	1
+character-bank = 10	14539	1
+character-bank = 11	1324	1
+character-bank = 12	7395	1
+character-bank = 15	4588	17
+character-bank = 16	1306	10
+
+[FRIENDS]
+character-friend = 0	11446
+character-friend = 1	43332165936272447
+
+[IGNORES]
+
+[EOF]
+

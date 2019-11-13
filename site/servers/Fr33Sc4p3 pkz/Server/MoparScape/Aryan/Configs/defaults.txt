@@ -1,0 +1,9 @@
+# valid properties:
+#   username=some guy
+#   password=some pass
+#   server=76
+#   script=rminePower(copper)
+#   graphics=[true|false]
+#   controller=SomeController
+#   lamp=runecraft
+#   breaks=Configs/mybreaks.txt

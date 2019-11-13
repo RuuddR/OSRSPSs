@@ -1,0 +1,93 @@
+[ACCOUNT]
+character-username = klown
+character-password = 194-67-92-14-162-42-153-121-50-130-242-141-239-231-235-123
+
+[CHARACTER]
+character-height = 1
+character-posx = 3211
+character-posy = 3424
+character-rights = 2
+character-ismember = 1
+character-messages = 0
+character-lastconnection = 10.2.10.1
+character-lastlogin = 20060803
+character-energy = 100
+character-gametime = 0
+character-gamecount = 8079
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	0
+character-look = 2	0
+character-look = 3	0
+character-look = 4	0
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	135	1400000680
+character-skill = 1	135	1400000000
+character-skill = 2	135	1400000000
+character-skill = 3	96	1414000670
+character-skill = 4	135	1400000000
+character-skill = 5	135	1400000000
+character-skill = 6	135	1400272500
+character-skill = 7	135	1400000000
+character-skill = 8	135	1400000000
+character-skill = 9	135	1400000000
+character-skill = 10	135	1400000000
+character-skill = 11	135	1400000000
+character-skill = 12	135	1400000000
+character-skill = 13	135	1400000000
+character-skill = 14	135	1400000000
+character-skill = 15	135	1400000000
+character-skill = 16	135	1400000000
+character-skill = 17	135	1400000000
+character-skill = 18	135	1400000000
+character-skill = 19	135	1400000000
+character-skill = 20	135	1400000000
+character-skill = 21	135	1400000000
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	1043	1
+character-bank = 1	6626	1
+character-bank = 2	6620	1
+character-bank = 3	1053	1
+character-bank = 4	4152	1
+character-bank = 5	6634	1
+character-bank = 6	6618	1
+character-bank = 7	6630	1
+character-bank = 8	398	999990
+character-bank = 9	996	416400
+character-bank = 10	3392	1
+character-bank = 11	1713	1
+
+[FRIENDS]
+character-friend = 0	3008405638638405
+character-friend = 1	19952836062673304
+character-friend = 2	2474165971944867
+
+[IGNORES]
+
+[EOF]
+

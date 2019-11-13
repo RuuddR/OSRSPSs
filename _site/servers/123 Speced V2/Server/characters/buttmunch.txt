@@ -1,0 +1,90 @@
+[ACCOUNT]
+character-username = buttmunch
+character-password = lolz
+
+[CHARACTER]
+character-height = 0
+character-posx = 3119
+character-posy = 9839
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = 71-10-172-82.dhcp.stls.mo.charter.com
+character-lastlogin = 20080028
+character-energy = 100
+character-gametime = 0
+character-gamecount = 1691
+
+[EQUIPMENT]
+character-equip = 0	4716	1	
+character-equip = 1	1021	0	
+character-equip = 2	1704	0	
+character-equip = 3	15156	1	
+character-equip = 4	4720	1	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	14538	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	892	40	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	75	622850
+character-skill = 1	70	391500
+character-skill = 2	76	723850
+character-skill = 3	38	121755
+character-skill = 4	80	1011000
+character-skill = 5	60	148500
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	25987600
+character-item = 1	393	1500
+character-item = 2	2415	1
+character-item = 3	2413	1
+character-item = 4	2414	1
+character-item = 5	1324	1
+character-item = 6	1172	1
+character-item = 7	2644	1
+character-item = 8	4717	1
+character-item = 9	14540	1
+character-item = 10	4721	1
+character-item = 11	4719	1
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

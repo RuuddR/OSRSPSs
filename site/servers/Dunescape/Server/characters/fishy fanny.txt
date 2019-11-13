@@ -1,0 +1,81 @@
+[ACCOUNT]
+character-username = fishy fanny
+character-password = 234-38-176-7-93-41-83-12-99-109-103-145-187-93-115-244
+
+[CHARACTER]
+character-height = 0
+character-posx = 3250
+character-posy = 3432
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = host86-130-93-50.range86-130.btcentralplus.com
+character-lastlogin = 20060803
+character-energy = 52
+character-gametime = 0
+character-gamecount = 11739
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	79	1912800
+character-skill = 1	57	208200
+character-skill = 2	1	0
+character-skill = 3	100	15486014
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	115	64462280
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	64	434550
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	1053	1
+character-bank = 1	996	7682000
+character-bank = 2	4152	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

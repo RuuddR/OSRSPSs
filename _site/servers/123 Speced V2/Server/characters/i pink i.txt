@@ -1,0 +1,116 @@
+[ACCOUNT]
+character-username = i pink i
+character-password = 113-61-212-208-178-232-66-192-141-166-45-222-236-135-35-49
+
+[CHARACTER]
+character-height = 0
+character-posx = 3181
+character-posy = 3446
+character-rights = 6
+character-ismember = 1
+character-messages = 0
+character-lastconnection = CPE-124-177-39-199.vic.bigpond.net.au
+character-lastlogin = 20080108
+character-energy = 100
+character-gametime = 0
+character-gamecount = 6491
+
+[EQUIPMENT]
+character-equip = 0	15309	1	
+character-equip = 1	14591	1	
+character-equip = 2	1725	0	
+character-equip = 3	13800	1	
+character-equip = 4	13591	1	
+character-equip = 5	7336	1	
+character-equip = 6	-1	0	
+character-equip = 7	13592	1	
+character-equip = 8	-1	0	
+character-equip = 9	7457	1	
+character-equip = 10	4125	1	
+character-equip = 11	-1	0	
+character-equip = 12	6575	1	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	1
+character-look = 2	1
+character-look = 3	2
+character-look = 4	0
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	99	486000000
+character-skill = 1	1	0
+character-skill = 2	99	486349350
+character-skill = 3	99	486125513
+character-skill = 4	99	486000000
+character-skill = 5	1	0
+character-skill = 6	99	486020500
+character-skill = 7	99	486000000
+character-skill = 8	99	486000000
+character-skill = 9	99	486000000
+character-skill = 10	99	486000000
+character-skill = 11	99	486000000
+character-skill = 12	99	486000000
+character-skill = 13	99	486000000
+character-skill = 14	99	486000000
+character-skill = 15	99	486000000
+character-skill = 16	99	486000000
+character-skill = 17	99	486000000
+character-skill = 18	99	486000000
+character-skill = 19	99	486000000
+character-skill = 20	99	486000000
+character-skill = 21	99	486000000
+character-skill = 22	99	486000000
+character-skill = 23	99	486000000
+character-skill = 24	99	486000000
+
+[ITEMS]
+character-item = 0	5699	1
+character-item = 1	4279	9999720
+character-item = 2	555	999580
+character-item = 3	561	9999720
+character-item = 4	2413	1
+character-item = 5	2662	1
+character-item = 6	2664	1
+character-item = 7	2666	1
+character-item = 8	2668	1
+character-item = 9	996	999950000
+character-item = 10	545	1
+character-item = 11	543	1
+character-item = 12	13595	1
+character-item = 13	4588	1
+character-item = 14	15311	1
+character-item = 15	3752	1
+character-item = 16	6571	1
+character-item = 17	392	1
+character-item = 18	392	1
+character-item = 19	392	1
+character-item = 20	392	1
+character-item = 21	392	1
+character-item = 22	392	1
+character-item = 23	392	1
+character-item = 24	392	1
+character-item = 25	392	1
+character-item = 26	392	1
+character-item = 27	392	1
+
+[BANK]
+character-bank = 0	392	99999901
+character-bank = 1	7463	1
+character-bank = 2	3106	1
+character-bank = 3	6890	1
+
+[FRIENDS]
+character-friend = 0	84370404181502
+character-friend = 1	765631393
+character-friend = 2	1603650907558768857
+character-friend = 3	6865
+character-friend = 4	695407666878
+character-friend = 5	1045637535832
+
+[IGNORES]
+
+[EOF]
+

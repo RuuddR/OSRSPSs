@@ -1,0 +1,104 @@
+[ACCOUNT]
+character-username = nerd
+character-password = 15-208-108-122-229-1-229-157-229-145-168-212-92-71-205-56
+
+[CHARACTER]
+character-height = 0
+character-posx = 2965
+character-posy = 3386
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = 81-29-43-205.ipc21.adsl.hesbynett.no
+character-lastlogin = 20080031
+character-energy = 100
+character-gametime = 0
+character-gamecount = 6501
+
+[EQUIPMENT]
+character-equip = 0	3751	1	
+character-equip = 1	1052	0	
+character-equip = 2	1725	1	
+character-equip = 3	4151	1	
+character-equip = 4	14638	1	
+character-equip = 5	13601	1	
+character-equip = 6	-1	0	
+character-equip = 7	4113	0	
+character-equip = 8	-1	0	
+character-equip = 9	7462	1	
+character-equip = 10	4131	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	70	761600
+character-skill = 1	42	49300
+character-skill = 2	73	1053150
+character-skill = 3	54	659064
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	81	2208275
+character-skill = 7	1	0
+character-skill = 8	92	7136500
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	40	39440
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	561	84
+character-item = 1	537	1
+character-item = 2	996	1219829
+character-item = 3	1360	1
+character-item = 4	557	252
+character-item = 5	4588	1
+character-item = 7	5699	1
+character-item = 9	386	1
+character-item = 10	386	1
+character-item = 11	386	1
+character-item = 12	386	1
+character-item = 13	386	1
+character-item = 14	386	1
+character-item = 15	386	1
+character-item = 16	386	1
+character-item = 17	386	1
+character-item = 18	386	1
+character-item = 19	386	1
+character-item = 20	386	1
+character-item = 21	386	1
+character-item = 22	386	1
+character-item = 23	386	1
+character-item = 24	386	1
+character-item = 25	386	1
+character-item = 26	386	1
+
+[BANK]
+
+[FRIENDS]
+character-friend = 0	1603096107693727116
+
+[IGNORES]
+
+[EOF]
+

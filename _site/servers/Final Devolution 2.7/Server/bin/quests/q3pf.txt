@@ -1,0 +1,17 @@
+@yel@   Drogo's little helper!                        Quest
+
+@red@@str@ I spoke to Drogo.
+@red@@str@ maybe i should find his pick-axe
+
+@red@@str@ I found his pick-axe
+@red@@str@ I should probably tell drogo of my find
+
+
+@gre@Congradulations!!!!!!!!!!!!
+
+@gre@ You have finised Drogo's little helper!
+
+@blu@ Rewards:
+Ability to buy cheaper pick-axes
+2,000gp.
+Iron Pick-axe.

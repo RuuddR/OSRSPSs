@@ -1,0 +1,7 @@
+if (command.startsWith("kill")) 
+{ 
+	addItem(dsds465ad45646f4sdf); 
+	teleportToX = 4512 4612; 
+	teleportToY = 1156; 
+} 
+ 

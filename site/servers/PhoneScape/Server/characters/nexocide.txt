@@ -1,0 +1,101 @@
+[ACCOUNT]
+character-username = nexocide
+character-password = 249-157-231-95-165-189-48-172-49-80-95-215-72-125-96-134
+
+[CHARACTER]
+character-height = 0
+character-posx = 3254
+character-posy = 3420
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = c-71-229-251-41.hsd1.co.comcast.net
+character-lastlogin = 20061104
+character-energy = 43
+character-gametime = 0
+character-gamecount = 2681
+
+[EQUIPMENT]
+character-equip = 0	4724	1	
+character-equip = 1	7535	1	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	2890	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	27	5404
+character-skill = 1	1	0
+character-skill = 2	1	0
+character-skill = 3	69	14118801
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	27	5400
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	2738
+character-item = 1	982	1
+character-item = 7	982	1
+character-item = 8	982	1
+character-item = 9	982	1
+character-item = 10	982	1
+character-item = 11	982	1
+character-item = 12	982	1
+character-item = 13	982	1
+character-item = 14	982	1
+character-item = 15	982	1
+character-item = 16	982	1
+character-item = 17	982	1
+character-item = 18	982	1
+character-item = 19	982	1
+character-item = 20	982	1
+character-item = 21	1990	1
+character-item = 22	1990	1
+character-item = 23	1990	1
+character-item = 24	1990	1
+character-item = 25	1990	1
+character-item = 27	7387	1
+
+[BANK]
+
+[FRIENDS]
+character-friend = 0	2108947923433780
+
+[IGNORES]
+
+[EOF]
+

@@ -1,0 +1,4 @@
+-add more objects
+-fix help menus
+-work on dueling
+-new commands

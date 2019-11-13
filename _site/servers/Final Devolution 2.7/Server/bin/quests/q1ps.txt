@@ -1,0 +1,5 @@
+@red@   Where Am I?                        Quest
+
+@red@ Wow, I dont know where I am...
+@red@ But I need to find the way out.
+@red@ Hans.. talked to me.

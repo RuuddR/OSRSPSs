@@ -1,0 +1,110 @@
+[ACCOUNT]
+character-username = domenica
+character-password = 103-127-182-56-21-211-172-125-30-48-93-219-97-172-196-19
+
+[CHARACTER]
+character-height = 0
+character-posx = 2966
+character-posy = 3398
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = dslb-084-056-064-016.pools.arcor-ip.net
+character-lastlogin = 20080101
+character-energy = 100
+character-gametime = 0
+character-gamecount = 5544
+
+[EQUIPMENT]
+character-equip = 0	1153	1	
+character-equip = 1	-1	0	
+character-equip = 2	1725	1	
+character-equip = 3	1305	1	
+character-equip = 4	1115	1	
+character-equip = 5	6889	1	
+character-equip = 6	-1	0	
+character-equip = 7	5576	1	
+character-equip = 8	-1	0	
+character-equip = 9	775	1	
+character-equip = 10	3105	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	70	777750
+character-skill = 1	39	34000
+character-skill = 2	86	3624400
+character-skill = 3	40	1566855
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	7463	1
+character-item = 1	14639	1
+character-item = 2	2664	1
+character-item = 3	1435	1
+character-item = 4	5576	1
+character-item = 25	996	4087
+
+[BANK]
+character-bank = 1	4709	1
+character-bank = 2	4715	1
+character-bank = 3	4717	1
+character-bank = 4	4733	1
+character-bank = 5	4725	2
+character-bank = 6	4752	1
+character-bank = 7	4719	2
+character-bank = 9	1726	1
+character-bank = 10	3106	3
+character-bank = 11	4727	2
+character-bank = 12	2668	1
+character-bank = 13	545	1
+character-bank = 15	543	1
+character-bank = 16	4588	1
+character-bank = 17	1082	5
+character-bank = 18	1324	2
+character-bank = 19	1084	5
+character-bank = 20	1306	1
+character-bank = 21	1158	1
+character-bank = 22	1070	1
+character-bank = 23	1120	1
+character-bank = 24	1068	2
+character-bank = 25	2662	1
+character-bank = 26	2666	1
+character-bank = 27	2413	1
+character-bank = 28	5699	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

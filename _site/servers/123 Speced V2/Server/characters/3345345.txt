@@ -1,0 +1,81 @@
+[ACCOUNT]
+character-username = 3345345
+character-password = 92-175-174-44-251-46-154-169-182-217-33-177-237-247-238-132
+
+[CHARACTER]
+character-height = 0
+character-posx = 3107
+character-posy = 3961
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = 74-61-32-105.sea.clearwire-dns.net
+character-lastlogin = 20080031
+character-energy = 100
+character-gametime = 0
+character-gamecount = 356
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	34	21250
+character-skill = 1	1	0
+character-skill = 2	38	30600
+character-skill = 3	33	19455
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+
+[FRIENDS]
+character-friend = 0	1603096107715456428
+character-friend = 1	1603096107693727116
+character-friend = 2	1603096107693726497
+
+[IGNORES]
+
+[EOF]
+

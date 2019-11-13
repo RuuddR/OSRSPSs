@@ -1,0 +1,102 @@
+[ACCOUNT]
+character-username = we.twinz.own
+character-password = 101-131-140-168-92-89-91-192-154-244-209-191-5-255-8-237
+
+[CHARACTER]
+character-height = 0
+character-posx = 3074
+character-posy = 3417
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = 71-17-176-251.regn.hsdb.sasknet.sk.ca
+character-lastlogin = 20061103
+character-energy = 2
+character-gametime = 0
+character-gamecount = 10696
+
+[EQUIPMENT]
+character-equip = 0	1055	1	
+character-equip = 1	6568	1	
+character-equip = 2	6585	1	
+character-equip = 3	4151	1	
+character-equip = 4	7390	1	
+character-equip = 5	3488	1	
+character-equip = 6	-1	0	
+character-equip = 7	7386	1	
+character-equip = 8	-1	0	
+character-equip = 9	7461	1	
+character-equip = 10	3105	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	70	369600
+character-skill = 1	1	0
+character-skill = 2	60	144750
+character-skill = 3	98	16030100
+character-skill = 4	1	14
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	17	1675
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	5	225
+character-skill = 18	75	619600
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	2713660
+character-item = 1	2437	1
+character-item = 2	3752	1
+character-item = 3	3843	1
+
+[BANK]
+character-bank = 0	3394	1
+character-bank = 1	3392	1
+character-bank = 2	3390	1
+character-bank = 3	1713	1
+character-bank = 4	2891	1
+character-bank = 5	3386	1
+character-bank = 6	2437	4
+character-bank = 7	7395	1
+character-bank = 8	5577	1
+character-bank = 9	7536	1
+character-bank = 10	6923	1
+character-bank = 11	1053	1
+character-bank = 12	6525	1
+character-bank = 13	6921	1
+character-bank = 14	5576	1
+character-bank = 15	3388	1
+character-bank = 16	4676	1
+character-bank = 17	392	25
+character-bank = 18	4152	1
+
+[FRIENDS]
+character-friend = 0	14573707511707
+
+[IGNORES]
+
+[EOF]
+

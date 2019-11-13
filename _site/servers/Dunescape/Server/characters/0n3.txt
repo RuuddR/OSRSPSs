@@ -1,0 +1,88 @@
+[ACCOUNT]
+character-username = 0n3
+character-password = 33-39-103-4-92-195-112-65-41-42-87-230-51-90-178-241
+
+[CHARACTER]
+character-height = 0
+character-posx = 3254
+character-posy = 3420
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = adsl-75-28-165-71.dsl.pltn13.sbcglobal.net
+character-lastlogin = 20060803
+character-energy = 100
+character-gametime = 0
+character-gamecount = 19855
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	1	0
+character-skill = 2	77	1538400
+character-skill = 3	100	14836844
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	126	204087530
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	59	267900
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	10498800
+
+[BANK]
+character-bank = 0	3386	1
+character-bank = 1	3390	1
+character-bank = 2	3388	1
+character-bank = 3	4676	1
+character-bank = 4	1053	1
+character-bank = 5	3392	1
+character-bank = 6	2891	1
+character-bank = 7	1713	1
+character-bank = 8	3394	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

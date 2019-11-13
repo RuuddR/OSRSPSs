@@ -1,0 +1,86 @@
+[ACCOUNT]
+character-username = dtay08
+character-password = 190-254-187-189-65-50-61-209-192-27-146-96-117-133-15-173
+
+[CHARACTER]
+character-height = 0
+character-posx = 2975
+character-posy = 3400
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = cpe-75-85-232-235.bak.res.rr.com
+character-lastlogin = 20080104
+character-energy = 100
+character-gametime = 0
+character-gamecount = 1561
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	1052	0	
+character-equip = 2	1725	0	
+character-equip = 3	1359	1	
+character-equip = 4	544	0	
+character-equip = 5	6889	0	
+character-equip = 6	-1	0	
+character-equip = 7	542	0	
+character-equip = 8	-1	0	
+character-equip = 9	7462	0	
+character-equip = 10	3105	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	54	157250
+character-skill = 1	45	65450
+character-skill = 2	44	61200
+character-skill = 3	100	101355
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	30	13500
+character-skill = 9	28	11840
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	4152	1
+character-item = 1	996	133918
+character-item = 2	4588	1
+character-item = 3	1358	1
+character-item = 7	49	1
+character-item = 11	49	1
+character-item = 15	49	1
+character-item = 25	947	1
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

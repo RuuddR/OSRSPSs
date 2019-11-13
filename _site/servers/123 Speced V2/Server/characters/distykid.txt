@@ -1,0 +1,94 @@
+[ACCOUNT]
+character-username = distykid
+character-password = 158-157-122-8-224-72-233-214-4-183-148-96-181-73-105-195
+
+[CHARACTER]
+character-height = 0
+character-posx = 2976
+character-posy = 3398
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = d149-67-189-43.nap.wideopenwest.com
+character-lastlogin = 20080102
+character-energy = 100
+character-gametime = 0
+character-gamecount = 9250
+
+[EQUIPMENT]
+character-equip = 0	1147	1	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	4587	1	
+character-equip = 4	1109	1	
+character-equip = 5	1181	1	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	69	731850
+character-skill = 1	61	313650
+character-skill = 2	86	3672850
+character-skill = 3	58	1666525
+character-skill = 4	1	0
+character-skill = 5	18	3888
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	16	2820
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	50000000
+
+[BANK]
+character-bank = 0	475	2
+character-bank = 1	996	5
+character-bank = 2	218	4
+character-bank = 3	1526	1
+character-bank = 4	274	2
+character-bank = 5	412	3
+character-bank = 6	1618	1
+character-bank = 7	593	1
+character-bank = 8	1354	1
+character-bank = 9	1624	1
+character-bank = 10	1196	1
+character-bank = 11	563	1
+character-bank = 12	1326	1
+
+[FRIENDS]
+character-friend = 0	49861107011
+character-friend = 1	305718633352835
+
+[IGNORES]
+
+[EOF]
+

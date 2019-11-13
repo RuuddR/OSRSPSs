@@ -1,0 +1,110 @@
+[ACCOUNT]
+character-username = it
+character-password = 183-200-181-132-82-21-222-232-67-5-244-49-50-5-98-132
+
+[CHARACTER]
+character-height = 0
+character-posx = 3252
+character-posy = 3429
+character-rights = 3
+character-ismember = 1
+character-messages = 0
+character-lastconnection = 127.0.0.1
+character-lastlogin = 20141124
+character-energy = 7
+character-gametime = 0
+character-gamecount = 4985
+
+[EQUIPMENT]
+character-equip = 0	4716	1	
+character-equip = 1	6570	1	
+character-equip = 2	6585	1	
+character-equip = 3	4718	1	
+character-equip = 4	4720	1	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	4722	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	3105	1	
+character-equip = 11	-1	0	
+character-equip = 12	6735	1	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	135	487148328
+character-skill = 1	135	486000000
+character-skill = 2	135	487368500
+character-skill = 3	15	502856273
+character-skill = 4	135	486000000
+character-skill = 5	135	486000000
+character-skill = 6	135	486000000
+character-skill = 7	135	486000000
+character-skill = 8	135	486000000
+character-skill = 9	135	486000000
+character-skill = 10	135	486000000
+character-skill = 11	135	486000000
+character-skill = 12	135	486000000
+character-skill = 13	135	486000000
+character-skill = 14	135	486000000
+character-skill = 15	135	486000000
+character-skill = 16	135	486000000
+character-skill = 17	135	486010125
+character-skill = 18	135	488516000
+character-skill = 19	135	486000000
+character-skill = 20	135	486000000
+character-skill = 21	135	486000000
+character-skill = 22	135	486000000
+character-skill = 23	135	486000000
+character-skill = 24	135	486000000
+
+[ITEMS]
+character-item = 0	4152	1
+character-item = 1	6525	1
+
+[BANK]
+character-bank = 0	1043	200000000
+character-bank = 1	1047	342342
+character-bank = 2	1039	2000000
+character-bank = 3	1049	200000000
+character-bank = 4	1041	100000
+character-bank = 5	1045	20000
+character-bank = 6	1051	20000000
+character-bank = 7	1054	200000
+character-bank = 8	1056	200000000
+character-bank = 9	1058	20000000
+character-bank = 10	1038	1
+character-bank = 11	6921	1
+character-bank = 12	1960	1
+character-bank = 13	1962	1
+character-bank = 14	774	1
+character-bank = 15	6584	1
+character-bank = 16	4758	1
+character-bank = 17	6529	1
+character-bank = 18	6923	1
+character-bank = 19	4088	1
+character-bank = 20	4717	19999
+character-bank = 21	4723	199999
+character-bank = 22	4719	199999
+character-bank = 23	4721	9999
+character-bank = 24	3106	1999
+character-bank = 25	1188	1
+character-bank = 26	6578	1
+character-bank = 27	6573	10
+character-bank = 28	996	852587942
+character-bank = 29	1620	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

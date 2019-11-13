@@ -1,0 +1,80 @@
+import java.io.IOException;
+import java.net.Socket;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+public class SocketManager implements Functions {
+    public SocketManager() {
+	bans.add("SYIPkpker");
+    }
+
+    /**
+     * The array list of bans, and then the bans in a 2D array, just so it's
+     * easier to read.
+     */
+    List<String> bans = new ArrayList<String>();
+    String[] banList = (String[]) bans.toArray();
+    List<String> ipBans = new ArrayList<String>();
+    String[] ipBanList = (String[]) ipBans.toArray();
+
+    /**
+     * Bans the username/ip, depending on the type. Type 1: Username ban, Type
+     * 2: IP ban.
+     */
+    public void ban(String name, int type, String optional) {
+	switch (type) {
+	case -1:
+	    // Undefined, lets do both
+	    ipBans.add(optional);
+	    bans.add(name);
+	    break;
+	case 1:
+	    bans.add(name);
+	    break;
+	case 2:
+	    ipBans.add(optional);
+	    break;
+	default:
+	    System.out.print("Fail, l2 use the type parameter.");
+	    return;
+	}
+    }
+
+    /**
+     * Gets if the player is banned, using Regex patterns
+     */
+    public boolean isBanned(CharSequence str, int type, String optional) {
+	if (type == 1) {
+	    String pattern = "[a-Z][A-z][0-9]";
+	    Pattern regPattern = Pattern.compile(pattern);
+	    Matcher matcher = regPattern.matcher(str);
+	    if (matcher.find())
+		return true;
+	} else if (type == 2) {
+	    for (int i = 0; i < 250; i++) {
+		if (ipBanList[i] == optional)
+		    return true;
+	    }
+	} else {
+	    return false;
+	}
+	return true;
+    }
+
+    /**
+     * Shuts down aSocket, aSocket being the current socket "name" has open.
+     */
+    public Socket shutdown(String name, boolean ban, Socket aSocket) {
+	try {
+	    aSocket.close();
+	} catch (IOException e) {
+	    System.err.print("Socket already closed, Throwing IOException");
+	}
+	if (ban)
+	    ban(name, -1, aSocket.toString());
+	return aSocket;
+    }
+
+}

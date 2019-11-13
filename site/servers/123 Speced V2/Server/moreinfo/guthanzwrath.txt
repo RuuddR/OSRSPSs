@@ -1,0 +1,100 @@
+[MOREINFO]
+character-clueid = 0
+character-cluelevel = 0
+character-cluestage = 0
+character-lastlogin = 226-188.96-97.tampabay.res.rr.com
+character-lastlogintime = 20060101
+character-reputation = 0
+character-ancients = 0
+character-starter = 0
+character-hasegg = 0
+character-hasset = 0
+character-pkpoints = 0
+character-killcount = 1
+character-deathcount = 0
+character-mutedate = 0
+character-height = 0
+
+[QUESTS]
+character-questpoints = 0
+character-quest_1 = 0
+character-quest_2 = 0
+character-quest_3 = 0
+
+[LOOK]
+character-look = 0	0
+character-head = 5
+character-torso = 25
+character-arms = 27
+character-hands = 33
+character-legs = 38
+character-feet = 42
+character-beard = 17
+
+character-look = 1	3
+character-head = 5
+character-torso = 25
+character-arms = 27
+character-hands = 33
+character-legs = 38
+character-feet = 42
+character-beard = 17
+
+character-look = 2	1
+character-head = 5
+character-torso = 25
+character-arms = 27
+character-hands = 33
+character-legs = 38
+character-feet = 42
+character-beard = 17
+
+character-look = 3	2
+character-head = 5
+character-torso = 25
+character-arms = 27
+character-hands = 33
+character-legs = 38
+character-feet = 42
+character-beard = 17
+
+character-look = 4	3
+character-head = 5
+character-torso = 25
+character-arms = 27
+character-hands = 33
+character-legs = 38
+character-feet = 42
+character-beard = 17
+
+character-look = 5	0
+character-head = 5
+character-torso = 25
+character-arms = 27
+character-hands = 33
+character-legs = 38
+character-feet = 42
+character-beard = 17
+
+
+[FRIENDS]
+
+[IGNORES]
+
+[HIDDEN]
+character-points = 0
+character-foundz[1] = 0
+character-foundz[2] = 0
+character-foundz[3] = 0
+character-foundz[4] = 0
+character-foundz[5] = 0
+character-foundz[6] = 0
+character-foundz[7] = 0
+character-foundz[8] = 0
+character-foundz[9] = 0
+character-foundz[10] = 0
+character-foundz[11] = 0
+character-foundz[12] = 0
+
+[EOF]
+

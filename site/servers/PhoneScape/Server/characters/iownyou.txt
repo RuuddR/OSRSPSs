@@ -1,0 +1,104 @@
+[ACCOUNT]
+character-username = iownyou
+character-password = 70-238-22-205-108-117-54-28-153-7-151-154-78-181-99-250
+
+[CHARACTER]
+character-height = 0
+character-posx = 2679
+character-posy = 3425
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = 6532234hfc228.tampabay.res.rr.com
+character-lastlogin = 20061105
+character-energy = 100
+character-gametime = 0
+character-gamecount = 25027
+
+[EQUIPMENT]
+character-equip = 0	5574	1	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	4587	1	
+character-equip = 4	5575	1	
+character-equip = 5	6524	1	
+character-equip = 6	-1	0	
+character-equip = 7	5576	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	80	1003658
+character-skill = 1	1	0
+character-skill = 2	80	1001100
+character-skill = 3	99	19879320
+character-skill = 4	25	3976
+character-skill = 5	0	1002
+character-skill = 6	74	588110
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	14	1215
+character-skill = 18	88	2312050
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	3273	24
+character-item = 1	996	2147483646
+
+[BANK]
+character-bank = 0	4676	1
+character-bank = 1	1053	1
+character-bank = 2	1713	1
+character-bank = 3	3388	1
+character-bank = 4	3390	1
+character-bank = 5	1232	1
+character-bank = 6	5575	2
+character-bank = 7	5577	2
+character-bank = 8	6525	2
+character-bank = 9	4588	4
+character-bank = 10	1306	1
+character-bank = 11	7159	1
+character-bank = 12	5576	5
+character-bank = 13	1435	1
+character-bank = 14	1378	1
+character-bank = 15	3845	1
+character-bank = 16	3841	1
+character-bank = 17	3843	1
+character-bank = 18	4152	1
+character-bank = 19	1918	1
+character-bank = 20	4752	1
+character-bank = 22	3272	15
+
+[FRIENDS]
+character-friend = 0	583904849
+character-friend = 1	1601810156202723994
+
+[IGNORES]
+
+[EOF]
+

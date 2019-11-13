@@ -1,0 +1,78 @@
+[ACCOUNT]
+character-username = xx oops xx
+character-password = 112-96-172-46-8-119-145-113-21-111-151-92-103-246-33-126
+
+[CHARACTER]
+character-height = 0
+character-posx = 3234
+character-posy = 3218
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = ool-4356f7c0.dyn.optonline.net
+character-lastlogin = 20061104
+character-energy = 100
+character-gametime = 0
+character-gamecount = 7021
+
+[EQUIPMENT]
+character-equip = 0	6918	1	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	6924	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	6920	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	1	0
+character-skill = 2	63	190650
+character-skill = 3	17	14831753
+character-skill = 4	40	18844
+character-skill = 5	1	0
+character-skill = 6	94	4104612
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	65	240405
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

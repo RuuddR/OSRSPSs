@@ -1,0 +1,25 @@
+    @whi@-Commands-
+@blu@ ::pkarm - Gives you some good pking armour
+@red@ ::Anti - anti poisen
+@blU@ ::food1 -Inventory of food
+@red@ ::food- Noted food
+@blu@ ::pureeq - Pure set
+@red@ ::pker -pk armour
+@blu@ ::melee - Melee armour
+@red@ ::mage - Mage armour
+@blu@ ::barrows - 10k noted barrows
+@red@ ::rep (playername) - Need 5 rep or admin or mod
+@blu@ ::checkrep - Check your own rep
+@red@ ::showrep (playername) - Bit bugged atm
+@blu@ ::duelarena2 - takes you to duelarena
+@red@ ::pkbox - takes you to the pk box
+@blu@ ::zammy - zam armour
+@red@ ::sara - Sara armour
+@blu@ ::guthix - guthix armour
+@red@ ::dweps - dragon wepons
+@blu@ ::pits - fight pits         
+       @gre@Please suggest more commands
+       @whi@To.. @red@ Thug life
+       @cya@Thanks
+
+    

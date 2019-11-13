@@ -1,0 +1,84 @@
+[ACCOUNT]
+character-username = hootnnuts
+character-password = 98-9-128-73-82-34-90-179-209-67-72-48-123-90-74-39
+
+[CHARACTER]
+character-height = 0
+character-posx = 3215
+character-posy = 3423
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = CPE00080d53194c-CM00080d53184c.cpe.net.cable.rogers.com
+character-lastlogin = 20061105
+character-energy = 98
+character-gametime = 0
+character-gamecount = 12762
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	64	219150
+character-skill = 2	87	2171550
+character-skill = 3	99	17334515
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	40
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	41	22800
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	2	50
+character-skill = 18	89	2582250
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	882852
+character-item = 1	2348	1
+
+[BANK]
+
+[FRIENDS]
+character-friend = 0	1813643468
+character-friend = 1	2108947923433780
+character-friend = 2	40498899407837997
+character-friend = 3	19451920553
+
+[IGNORES]
+
+[EOF]
+

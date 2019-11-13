@@ -1,0 +1,100 @@
+[ACCOUNT]
+character-username = dragon scim
+character-password = 53-223-163-58-108-222-43-248-134-214-75-238-3-112-22-86
+
+[CHARACTER]
+character-height = 0
+character-posx = 3228
+character-posy = 3368
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = cpe-24-59-206-217.twcny.res.rr.com
+character-lastlogin = 20080103
+character-energy = 100
+character-gametime = 0
+character-gamecount = 7859
+
+[EQUIPMENT]
+character-equip = 0	3751	1	
+character-equip = 1	6568	1	
+character-equip = 2	1725	1	
+character-equip = 3	4587	1	
+character-equip = 4	544	1	
+character-equip = 5	13601	1	
+character-equip = 6	-1	0	
+character-equip = 7	542	1	
+character-equip = 8	-1	0	
+character-equip = 9	775	1	
+character-equip = 10	3105	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	61	314500
+character-skill = 1	1	0
+character-skill = 2	74	1133900
+character-skill = 3	18	512355
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	99	19511000
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	2	140
+character-skill = 18	60	276125
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	5477694
+character-item = 1	5699	1
+character-item = 2	6740	1
+
+[BANK]
+character-bank = 0	11947	1
+character-bank = 1	11946	5
+character-bank = 2	7463	1
+character-bank = 3	6525	1
+character-bank = 4	15349	1
+character-bank = 5	11948	1
+character-bank = 6	11949	1
+character-bank = 7	15350	1
+character-bank = 8	15351	1
+character-bank = 9	15185	1
+character-bank = 10	15184	1
+character-bank = 11	15196	1
+character-bank = 12	13889	1
+character-bank = 13	13890	1
+character-bank = 17	6890	1
+character-bank = 18	6183	1
+character-bank = 19	14639	1
+character-bank = 20	7054	1
+character-bank = 22	4154	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

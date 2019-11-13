@@ -1,0 +1,7 @@
+@yel@   Ancients Rules!                        Quest
+
+@red@@str@ I talked to davey.
+@red@@str@ I read Davey's Notes
+
+@red@ Um his notes didnt make sence.
+@red@ But lets see. Where would I go?

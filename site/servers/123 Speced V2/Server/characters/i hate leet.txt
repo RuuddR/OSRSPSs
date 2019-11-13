@@ -1,0 +1,106 @@
+[ACCOUNT]
+character-username = i hate leet
+character-password = pooppo
+
+character-starter = 1
+[CHARACTER]
+character-height = 0
+character-posx = 2845
+character-posy = 4832
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = pool-71-184-158-224.bstnma.fios.verizon.net
+character-lastlogin = 20080017
+character-energy = 100
+character-gametime = 0
+character-gamecount = 2778
+
+[EQUIPMENT]
+character-equip = 0	2581	1	
+character-equip = 1	1052	1	
+character-equip = 2	6585	1	
+character-equip = 3	861	1	
+character-equip = 4	4091	1	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	2497	1	
+character-equip = 8	-1	0	
+character-equip = 9	2491	1	
+character-equip = 10	2577	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	892	973	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	1	0
+character-skill = 2	1	0
+character-skill = 3	87	518748
+character-skill = 4	83	1414500
+character-skill = 5	1	0
+character-skill = 6	99	486000000
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	23348800
+character-item = 1	393	3000
+character-item = 2	6109	1
+character-item = 3	6111	1
+character-item = 4	6110	1
+character-item = 5	6107	1
+character-item = 6	854	1
+character-item = 7	1324	1
+character-item = 8	1705	1
+character-item = 9	1022	1
+character-item = 10	6112	1
+character-item = 11	4215	1
+character-item = 12	789	1
+character-item = 13	1172	1
+character-item = 14	6586	1
+character-item = 15	6108	1
+character-item = 16	2416	1
+character-item = 17	4094	1
+character-item = 18	4090	1
+character-item = 19	4096	1
+character-item = 20	4098	1
+character-item = 21	862	1
+character-item = 22	392	1
+character-item = 23	4279	50
+character-item = 24	1022	1
+character-item = 25	893	1
+character-item = 26	15334	1
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

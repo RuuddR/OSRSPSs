@@ -1,0 +1,87 @@
+[ACCOUNT]
+character-username = Big Shady
+character-password = 199-38-105-134-32-118-45-136-247-56-190-74-41-79-174-121
+
+[CHARACTER]
+character-height = 34
+character-posx = 2729
+character-posy = 3462
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = 5.100.136.109
+character-lastlogin = 20061109
+character-energy = 100
+character-gametime = 0
+character-gamecount = 9741
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	4755	1	
+character-equip = 4	-1	0	
+character-equip = 5	3840	1	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	70	768016
+character-skill = 1	1	0
+character-skill = 2	78	1644484
+character-skill = 3	80	18744080
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	50
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	84	3256000
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	1460322701
+character-item = 1	6524	1
+character-item = 2	392	1
+
+[BANK]
+character-bank = 0	6108	1
+character-bank = 2	392	100
+character-bank = 3	6107	1
+character-bank = 4	6111	1
+character-bank = 6	6109	1
+character-bank = 7	6570	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

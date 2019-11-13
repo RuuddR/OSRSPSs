@@ -1,0 +1,85 @@
+[ACCOUNT]
+character-username = honer
+character-password = 180-88-118-74-89-252-115-229-230-48-215-94-105-24-30-185
+
+[CHARACTER]
+character-height = 0
+character-posx = 3219
+character-posy = 3416
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = pool-72-85-189-236.bstnma.east.verizon.net
+character-lastlogin = 20080103
+character-energy = 100
+character-gametime = 0
+character-gamecount = 2530
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	1052	1	
+character-equip = 2	1725	1	
+character-equip = 3	4587	1	
+character-equip = 4	14507	1	
+character-equip = 5	6889	1	
+character-equip = 6	-1	0	
+character-equip = 7	14508	1	
+character-equip = 8	-1	0	
+character-equip = 9	7462	1	
+character-equip = 10	3105	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	70	763300
+character-skill = 1	70	748000
+character-skill = 2	72	942650
+character-skill = 3	71	867255
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	14	2250
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	12	1610
+character-skill = 18	45	63685
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	2047
+character-item = 1	5699	1
+character-item = 2	2348	1
+character-item = 3	1080	1
+character-item = 6	1080	1
+character-item = 13	545	1
+character-item = 14	543	1
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

@@ -1,0 +1,105 @@
+[ACCOUNT]
+character-username = sushi pl0x
+character-password = taylor
+
+[CHARACTER]
+character-height = 0
+character-posx = 3254
+character-posy = 3433
+character-rights = 2
+character-ismember = 1
+character-messages = 0
+character-lastconnection = c-71-228-203-28.hsd1.tn.comcast.net
+character-lastlogin = 20060729
+character-energy = 100
+character-gametime = 0
+character-gamecount = 31922
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	775	1	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	60	279136
+character-skill = 1	60	274260
+character-skill = 2	60	274948
+character-skill = 3	45	158482
+character-skill = 4	1	15
+character-skill = 5	1	0
+character-skill = 6	55	170480
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	56	189925
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	4	350
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	5557	1
+character-bank = 1	5555	1
+character-bank = 2	5554	1
+character-bank = 3	996	968999999
+character-bank = 4	1838	3
+character-bank = 5	5558	1
+character-bank = 6	5556	1
+character-bank = 7	4566	2
+character-bank = 9	1038	1
+character-bank = 10	776	1
+character-bank = 12	429	1
+character-bank = 13	427	1
+character-bank = 14	3141	1
+character-bank = 15	1053	2
+character-bank = 16	1420	1
+character-bank = 17	4088	1
+character-bank = 18	6586	2
+character-bank = 19	386	8
+character-bank = 20	1036	1
+character-bank = 21	3272	1
+character-bank = 22	1188	1
+character-bank = 23	6562	1
+character-bank = 26	555	50
+
+[FRIENDS]
+character-friend = 0	21245007
+character-friend = 1	434740043661
+character-friend = 2	909778362096791
+character-friend = 3	841860227
+
+[IGNORES]
+
+[EOF]
+

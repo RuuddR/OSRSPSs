@@ -1,0 +1,88 @@
+[MOREINFO]
+character-lastlogin = localhost
+character-lastlogintime = 20070109
+character-ancients = 0
+character-hasegg = 0
+character-hasset = 0
+character-pkpoints = 0
+character-killcount = 0
+character-mutedate = 0
+character-height = 0
+
+[LOOK]
+character-look = 0	1
+character-head = 50
+character-torso = 60
+character-arms = 61
+character-hands = 68
+character-legs = 72
+character-feet = 79
+character-beard = -1
+
+character-look = 1	1
+character-head = 50
+character-torso = 60
+character-arms = 61
+character-hands = 68
+character-legs = 72
+character-feet = 79
+character-beard = -1
+
+character-look = 2	10
+character-head = 50
+character-torso = 60
+character-arms = 61
+character-hands = 68
+character-legs = 72
+character-feet = 79
+character-beard = -1
+
+character-look = 3	6
+character-head = 50
+character-torso = 60
+character-arms = 61
+character-hands = 68
+character-legs = 72
+character-feet = 79
+character-beard = -1
+
+character-look = 4	3
+character-head = 50
+character-torso = 60
+character-arms = 61
+character-hands = 68
+character-legs = 72
+character-feet = 79
+character-beard = -1
+
+character-look = 5	0
+character-head = 50
+character-torso = 60
+character-arms = 61
+character-hands = 68
+character-legs = 72
+character-feet = 79
+character-beard = -1
+
+
+[FRIENDS]
+
+[IGNORES]
+
+[HIDDEN]
+character-points = 0
+character-foundz[1] = 0
+character-foundz[2] = 0
+character-foundz[3] = 0
+character-foundz[4] = 0
+character-foundz[5] = 0
+character-foundz[6] = 0
+character-foundz[7] = 0
+character-foundz[8] = 0
+character-foundz[9] = 0
+character-foundz[10] = 0
+character-foundz[11] = 0
+character-foundz[12] = 0
+
+[EOF]
+

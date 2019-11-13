@@ -1,0 +1,85 @@
+[ACCOUNT]
+character-username = warriorman
+character-password = 116-215-56-2-13-202-34-167-49-227-0-88-172-114-66-238
+
+[CHARACTER]
+character-height = 0
+character-posx = 3247
+character-posy = 3439
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = user-24-236-106-139.knology.net
+character-lastlogin = 20061101
+character-energy = 26
+character-gametime = 0
+character-gamecount = 1680
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	1052	0	
+character-equip = 2	1712	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	47	39150
+character-skill = 1	1	0
+character-skill = 2	58	118350
+character-skill = 3	92	14828000
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	64	209550
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	3386	1
+character-item = 1	3388	1
+character-item = 2	4676	1
+character-item = 3	3390	1
+character-item = 4	3394	1
+character-item = 5	3392	1
+character-item = 6	2891	1
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

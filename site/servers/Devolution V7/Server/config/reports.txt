@@ -1,0 +1,5 @@
+abuser = stop_my_str for rule 10 muted? no
+abuser = balla_eli for rule 0 muted? no
+abuser = pked for rule 0 muted? no
+abuser = bakatool for rule 3 muted? no
+abuser = suphmeslic for rule 9 muted? no

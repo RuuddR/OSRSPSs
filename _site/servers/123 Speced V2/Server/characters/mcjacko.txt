@@ -1,0 +1,91 @@
+[ACCOUNT]
+character-username = mcjacko
+character-password = 107-27-54-203-176-75-65-73-11-252-10-178-191-162-111-134
+
+[CHARACTER]
+character-height = 0
+character-posx = 2973
+character-posy = 3342
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = 79-77-126-58.dynamic.dsl.as9105.com
+character-lastlogin = 20080031
+character-energy = 100
+character-gametime = 0
+character-gamecount = 3278
+
+[EQUIPMENT]
+character-equip = 0	15195	1	
+character-equip = 1	6568	1	
+character-equip = 2	1725	1	
+character-equip = 3	5698	1	
+character-equip = 4	15348	1	
+character-equip = 5	1201	1	
+character-equip = 6	-1	0	
+character-equip = 7	15349	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	15350	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	60	284750
+character-skill = 1	71	829600
+character-skill = 2	64	414800
+character-skill = 3	64	540855
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	12444	1
+character-item = 1	13889	1
+character-item = 2	1726	1
+character-item = 3	4154	1
+character-item = 4	996	908
+character-item = 5	1128	1
+character-item = 6	5577	1
+character-item = 7	3106	1
+character-item = 9	2441	1
+character-item = 10	11948	1
+character-item = 25	386	1
+character-item = 26	386	1
+character-item = 27	386	1
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

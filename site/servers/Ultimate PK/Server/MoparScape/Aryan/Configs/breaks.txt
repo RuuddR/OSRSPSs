@@ -1,0 +1,24 @@
+# format:
+#   breakName=runTime, breakLength
+# where runTime and breakLength are:
+#   [minimum|]maximum
+# if no minimum is specified, they are:
+#   runTimeMin = runTimeMax - runTimeMax / 4
+#   breakLengthMin = breakLengthMax / 2
+# if a breakLength of 0 is specified, the bot
+# will shutdown.
+
+# these breaks are cyclical, meaning, once the final
+# break has been taken, the handler will start over
+# from the beginning. this allows the bot to run for
+# an indefinite period of time, simulating a human
+# schedule (albeit an addict's schedule):
+
+# after two to three hours, 15-20 minute break
+breakfast=120|180, 15|20
+# after five to six hours, 45-60 minute break
+lunch=300|360, 45|60
+# after ten to twelve hours, 90-120 minute break
+dinner=600|720, 90|120
+# after fifteen to sixteen hours, sleep for 6-8 hours
+sleep=900|960, 360|480

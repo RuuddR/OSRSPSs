@@ -1,0 +1,50 @@
+Agility Emotes; 
+1106 - Climb over(Fail) 
+1115 - Jump out of the way(Succed) 
+1117 - (Right)Climb along ledge and stop in the middle 
+1118 - (Right)Climg along ledge(?) 
+1119 - (Right)Climb along ledge(Fail) 
+1120 - (Right)Climb along ledge(Succed) 
+1121 - Dangle on ledge(Move a little) 
+1122 - Dangle on ledge 
+1123 - (Left)Climb along ledge(Fail) 
+1124 - (Left)Climg along ledge 
+1125 - Falling rocks? 
+1252 - Walk then climb over 
+1258 - Fall, then get up slowly 
+1440 - Crawling 
+1603 - Long jump
+1604 - Short quick jump
+1606 - Kicking Skullball?
+1762 - Jump on monkey bars and start crawling
+1763 - Crawl along monkey bars
+1764 - Climb down from monkey bars
+1765 - Crawl all the way across monkey bars
+1766 - Rope swing
+1769 - Rope descent(Start)
+1770 - Rope descent
+1772 - Climb down and start to descend by rope
+1851 - Middle of jumping through air
+1852 - Fly, land then rub yourself off
+1950 - Walk then fall down a hole
+2146 - Grab item from Agility pyramid
+2247 - Open Rogues den safe(start)
+2248 - Open Rogues den safe
+2249 - Open Rogues den safe(Finish)
+2581 - Fall off balancing log(Left)
+2582 - Fall off balancing log(Right)
+2585 - Jump onto object
+2586 - Jump down from object
+2588 - Jump down and land
+2049 - Climb then crawl(Possible agility) 
+2050 - Climb then crawl(Faster) 
+3063 - climb up a wall, then climb down
+744 - fast monkey bar cross emote
+745 - part of the monkey bar crossing emote (right arm back)
+746 - Pipe climb starting emote
+747 - entrance part of pipe emote, (non-animated)
+748 - Pipe climb exiting emote
+749 - full pipe climb emote, only in one sq though
+770 - Falling emote, as if off of a rope or log (agility)
+839 - Climb over something
+844 - Crawling

@@ -1,0 +1,89 @@
+[ACCOUNT]
+character-username = ace archer65
+character-password = 149-91-65-68-202-75-173-52-212-152-130-225-239-21-23-207
+
+[CHARACTER]
+character-height = 0
+character-posx = 3250
+character-posy = 3435
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = adsl-66-72-207-183.dsl.clevoh.ameritech.net
+character-lastlogin = 20061104
+character-energy = 83
+character-gametime = 0
+character-gamecount = 9310
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	3
+character-look = 2	1
+character-look = 3	2
+character-look = 4	3
+character-look = 5	4
+
+[SKILLS]
+character-skill = 0	70	369604
+character-skill = 1	1	0
+character-skill = 2	72	454200
+character-skill = 3	99	16971217
+character-skill = 4	1	0
+character-skill = 5	0	0
+character-skill = 6	96	5156544
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	79	977400
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	4676	1
+character-bank = 1	1053	1
+character-bank = 2	1713	1
+character-bank = 3	3386	1
+character-bank = 4	3388	1
+character-bank = 5	3390	1
+character-bank = 6	3394	1
+character-bank = 7	3392	1
+character-bank = 8	2891	1
+character-bank = 9	6586	1
+character-bank = 10	996	61200
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

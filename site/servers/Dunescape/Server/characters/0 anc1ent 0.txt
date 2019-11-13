@@ -1,0 +1,89 @@
+[ACCOUNT]
+character-username = 0 anc1ent 0
+character-password = 121-41-167-128-175-179-129-108-202-205-78-187-232-140-238-244
+
+[CHARACTER]
+character-height = 0
+character-posx = 3253
+character-posy = 3426
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = cc321827-a.deven1.ov.home.nl
+character-lastlogin = 20060803
+character-energy = 54
+character-gametime = 0
+character-gamecount = 3446
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	70	744600
+character-skill = 1	1	0
+character-skill = 2	66	541800
+character-skill = 3	83	14314400
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	7	760
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	60	276750
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	3386	1
+character-bank = 1	3390	1
+character-bank = 2	3392	1
+character-bank = 3	3394	1
+character-bank = 4	1713	1
+character-bank = 5	3388	1
+character-bank = 6	2891	1
+character-bank = 7	1053	1
+character-bank = 8	4676	1
+character-bank = 9	996	114000
+character-bank = 10	4566	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

@@ -1,0 +1,10 @@
+2019-11-13 | 17:21:09 | Socket connection established:
+2019-11-13 | 17:21:09 | Hostname: DESKTOP-L3OCDT2
+2019-11-13 | 17:21:09 | Address: 127.0.0.1
+2019-11-13 | 17:21:09 | Auto-close: false
+
+2019-11-13 | 17:22:36 | Socket connection established:
+2019-11-13 | 17:22:36 | Hostname: DESKTOP-L3OCDT2
+2019-11-13 | 17:22:36 | Address: 127.0.0.1
+2019-11-13 | 17:22:36 | Auto-close: false
+

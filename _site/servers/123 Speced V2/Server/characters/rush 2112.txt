@@ -1,0 +1,84 @@
+[ACCOUNT]
+character-username = rush 2112
+character-password = 149-47-81-78-52-75-49-219-102-217-96-3-172-154-120-87
+
+[CHARACTER]
+character-height = 0
+character-posx = 3183
+character-posy = 3442
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = d47-69-163-218.try.wideopenwest.com
+character-lastlogin = 20080105
+character-energy = 100
+character-gametime = 0
+character-gamecount = 8968
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	38	31450
+character-skill = 1	1	0
+character-skill = 2	41	43350
+character-skill = 3	58	233055
+character-skill = 4	67	561700
+character-skill = 5	0	80
+character-skill = 6	85	3557605
+character-skill = 7	1	0
+character-skill = 8	99	13223000
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	543	1
+character-bank = 1	12446	1
+character-bank = 2	6740	1
+character-bank = 7	6569	1
+character-bank = 14	386	1
+character-bank = 24	527	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

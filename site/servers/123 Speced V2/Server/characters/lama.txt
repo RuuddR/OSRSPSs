@@ -1,0 +1,79 @@
+[ACCOUNT]
+character-username = lama
+character-password = 11-85-27-135-67-148-9-221-38-90-7-230-136-170-240-77
+
+[CHARACTER]
+character-height = 0
+character-posx = 2991
+character-posy = 3385
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = sl-237.splius.lt
+character-lastlogin = 20080101
+character-energy = 100
+character-gametime = 0
+character-gamecount = 1258
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	1052	0	
+character-equip = 2	1725	0	
+character-equip = 3	4587	0	
+character-equip = 4	544	0	
+character-equip = 5	6889	0	
+character-equip = 6	-1	0	
+character-equip = 7	542	0	
+character-equip = 8	-1	0	
+character-equip = 9	7462	0	
+character-equip = 10	3105	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	1	0
+character-skill = 2	58	233600
+character-skill = 3	93	83955
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	43	53955
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	161000
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

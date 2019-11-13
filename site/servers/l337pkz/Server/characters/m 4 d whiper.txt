@@ -1,0 +1,84 @@
+[ACCOUNT]
+character-username = m 4 d whiper
+character-password = 177-54-238-108-121-124-26-133-18-96-185-193-171-95-244-20
+
+[CHARACTER]
+character-height = 0
+character-posx = 3254
+character-posy = 3420
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = 212.85.1.9
+character-lastlogin = 20061111
+character-energy = 27
+character-gametime = 0
+character-gamecount = 6027
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	70	786600
+character-skill = 1	1	0
+character-skill = 2	98	2491800
+character-skill = 3	100	15361528
+character-skill = 4	27	10000
+character-skill = 5	1	0
+character-skill = 6	103	19768645
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	86	3922172
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	705784375
+character-item = 1	6586	1
+character-item = 2	392	1
+
+[BANK]
+character-bank = 1	1053	1
+character-bank = 3	778	1
+character-bank = 4	3205	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

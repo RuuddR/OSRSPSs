@@ -1,0 +1,83 @@
+[ACCOUNT]
+character-username = this owns
+character-password = 54-36-100-78-205-166-251-192-203-230-214-16-202-15-147-192
+
+[CHARACTER]
+character-height = 0
+character-posx = 3233
+character-posy = 3429
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = cpc2-leat1-0-0-cust598.hers.cable.ntl.com
+character-lastlogin = 20061101
+character-energy = 67
+character-gametime = 0
+character-gamecount = 10040
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	75	641852
+character-skill = 1	72	486600
+character-skill = 2	70	369600
+character-skill = 3	45	17105613
+character-skill = 4	22	3164
+character-skill = 5	0	0
+character-skill = 6	66	271640
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	2	65
+character-skill = 18	86	1918045
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	784511
+
+[BANK]
+character-bank = 0	4739	1
+character-bank = 1	4733	1
+character-bank = 2	4735	1
+character-bank = 3	4737	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

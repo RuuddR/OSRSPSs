@@ -1,0 +1,89 @@
+[ACCOUNT]
+character-username = MOD Roscoe
+character-password = 98-13-227-76-237-193-186-69-158-227-219-119-187-241-251-208
+
+[CHARACTER]
+character-height = 0
+character-posx = 3252
+character-posy = 3422
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = 5.73.107.94
+character-lastlogin = 20060913
+character-energy = 58
+character-gametime = 0
+character-gamecount = 11472
+
+[EQUIPMENT]
+character-equip = 0	1163	1	
+character-equip = 1	1052	1	
+character-equip = 2	6585	1	
+character-equip = 3	4151	1	
+character-equip = 4	1127	1	
+character-equip = 5	1201	1	
+character-equip = 6	-1	0	
+character-equip = 7	1079	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	70	744604
+character-skill = 1	48	84000
+character-skill = 2	71	828600
+character-skill = 3	54	14810492
+character-skill = 4	1	0
+character-skill = 5	0	0
+character-skill = 6	110	38790428
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	63	396450
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	996	8963993
+character-bank = 1	4566	1
+character-bank = 2	3386	1
+character-bank = 3	3394	1
+character-bank = 4	2891	1
+character-bank = 5	1713	1
+character-bank = 6	3392	1
+character-bank = 7	4676	1
+character-bank = 9	3388	1
+character-bank = 10	3390	1
+
+[FRIENDS]
+character-friend = 0	2094917
+
+[IGNORES]
+
+[EOF]
+

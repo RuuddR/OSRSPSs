@@ -1,0 +1,88 @@
+[ACCOUNT]
+character-username = made in dade
+character-password = 50-165-133-233-57-48-220-59-113-166-227-57-21-116-137-146
+
+[CHARACTER]
+character-height = 0
+character-posx = 2976
+character-posy = 3399
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = adsl-233-188-120.mia.bellsouth.net
+character-lastlogin = 20080030
+character-energy = 100
+character-gametime = 0
+character-gamecount = 1953
+
+[EQUIPMENT]
+character-equip = 0	2637	1	
+character-equip = 1	1052	0	
+character-equip = 2	1725	1	
+character-equip = 3	-1	0	
+character-equip = 4	6107	1	
+character-equip = 5	3840	0	
+character-equip = 6	-1	0	
+character-equip = 7	6108	1	
+character-equip = 8	-1	0	
+character-equip = 9	775	0	
+character-equip = 10	3105	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	1	0
+character-skill = 2	63	401200
+character-skill = 3	33	142755
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	65	478500
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	12	1610
+character-skill = 18	8	940
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	200462
+character-item = 1	1322	1
+character-item = 2	1838	1
+character-item = 3	1360	1
+character-item = 4	13374	1
+character-item = 5	15196	1
+character-item = 6	7463	1
+character-item = 7	4114	1
+character-item = 8	4112	1
+character-item = 9	3843	1
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

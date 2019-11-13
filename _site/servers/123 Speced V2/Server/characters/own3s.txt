@@ -1,0 +1,83 @@
+[ACCOUNT]
+character-username = own3s
+character-password = 183-63-199-150-37-180-197-227-78-110-89-213-235-172-125-73
+
+[CHARACTER]
+character-height = 0
+character-posx = 3172
+character-posy = 3248
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = 12-218-139-78.client.mchsi.com
+character-lastlogin = 20080101
+character-energy = 100
+character-gametime = 0
+character-gamecount = 3664
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	1052	0	
+character-equip = 2	1725	0	
+character-equip = 3	4587	1	
+character-equip = 4	544	1	
+character-equip = 5	6889	0	
+character-equip = 6	-1	0	
+character-equip = 7	542	1	
+character-equip = 8	-1	0	
+character-equip = 9	7462	0	
+character-equip = 10	3105	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	1
+character-look = 2	1
+character-look = 3	1
+character-look = 4	1
+character-look = 5	3
+
+[SKILLS]
+character-skill = 0	78	1662600
+character-skill = 1	70	761600
+character-skill = 2	81	2245700
+character-skill = 3	93	1649355
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	5699	1
+character-item = 1	5699	1
+
+[BANK]
+character-bank = 0	14508	1
+character-bank = 1	14509	1
+character-bank = 2	5699	2
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

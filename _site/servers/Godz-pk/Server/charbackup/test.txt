@@ -1,0 +1,81 @@
+[ACCOUNT]
+character-username = test
+character-password = qxz112
+
+[CHARACTER]
+character-height = 0
+character-posx = 2793
+character-posy = 3188
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = 127.0.0.1
+character-lastlogin = 20060101
+character-energy = 100
+character-gametime = 0
+character-gamecount = 0
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	4587	0	
+character-equip = 4	1115	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	1067	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	7
+character-look = 1	21
+character-look = 2	28
+character-look = 3	33
+character-look = 4	40
+character-look = 5	44
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	1	0
+character-skill = 2	1	0
+character-skill = 3	10	2255
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	6	605
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	893	5
+character-item = 1	996	7600
+character-item = 2	3862	1
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

@@ -1,0 +1,85 @@
+[ACCOUNT]
+character-username = george
+character-password = george
+
+[CHARACTER]
+character-height = 0
+character-posx = 2713
+character-posy = 4836
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = host217-43-103-169.range217-43.btcentralplus.com
+character-lastlogin = 20080029
+character-energy = 100
+character-gametime = 0
+character-gamecount = 4578
+
+[EQUIPMENT]
+character-equip = 0	1048	1	
+character-equip = 1	14094	1	
+character-equip = 2	1704	0	
+character-equip = 3	4587	1	
+character-equip = 4	15348	1	
+character-equip = 5	15185	1	
+character-equip = 6	-1	0	
+character-equip = 7	15349	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	15350	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	80	1005550
+character-skill = 1	62	170000
+character-skill = 2	80	1074400
+character-skill = 3	73	795255
+character-skill = 4	1	0
+character-skill = 5	61	162100
+character-skill = 6	99	486000000
+character-skill = 7	1	0
+character-skill = 8	99	12185500
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	19	2170
+character-skill = 18	40	19740
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	15334	1
+
+[BANK]
+character-bank = 0	14539	1
+character-bank = 1	14540	1
+character-bank = 2	392	1496
+character-bank = 3	996	49129114
+character-bank = 4	14134	1
+character-bank = 5	1360	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

@@ -1,0 +1,100 @@
+[ACCOUNT]
+character-username = Zaliron
+character-password = 11-244-213-134-78-163-42-54-56-168-36-125-214-215-106-39
+
+[CHARACTER]
+character-height = 0
+character-posx = 3254
+character-posy = 3420
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = WF-16
+character-lastlogin = 20061108
+character-energy = 100
+character-gametime = 0
+character-gamecount = 8999
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	1
+character-look = 1	3
+character-look = 2	1
+character-look = 3	2
+character-look = 4	3
+character-look = 5	7
+
+[SKILLS]
+character-skill = 0	60	277200
+character-skill = 1	60	277200
+character-skill = 2	80	2055776
+character-skill = 3	101	15936593
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	67	602250
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	4588	1
+character-item = 1	774	1
+character-item = 2	398	1
+
+[BANK]
+character-bank = 0	6525	2
+character-bank = 1	6108	1
+character-bank = 2	3843	1
+character-bank = 3	1053	1
+character-bank = 4	6109	1
+character-bank = 5	4152	2
+character-bank = 6	7159	1
+character-bank = 7	1713	1
+character-bank = 8	996	1133648569
+character-bank = 9	1036	1
+character-bank = 10	6107	1
+character-bank = 11	4715	1
+character-bank = 12	4318	1
+character-bank = 13	4709	1
+character-bank = 14	1705	1
+character-bank = 15	6111	1
+character-bank = 16	4713	1
+character-bank = 17	398	9981
+character-bank = 18	1034	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

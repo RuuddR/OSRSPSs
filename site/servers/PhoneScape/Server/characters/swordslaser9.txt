@@ -1,0 +1,104 @@
+[ACCOUNT]
+character-username = swordslaser9
+character-password = 9-40-101-76-5-14-124-25-234-223-7-30-62-10-203-2
+
+[CHARACTER]
+character-height = 0
+character-posx = 3228
+character-posy = 3437
+character-rights = 1
+character-ismember = 1
+character-messages = 0
+character-lastconnection = adsl-71-147-36-139.dsl.emhril.sbcglobal.net
+character-lastlogin = 20061105
+character-energy = 77
+character-gametime = 0
+character-gamecount = 71676
+
+[EQUIPMENT]
+character-equip = 0	4708	1	
+character-equip = 1	6568	1	
+character-equip = 2	6585	1	
+character-equip = 3	4710	1	
+character-equip = 4	4712	1	
+character-equip = 5	2997	1	
+character-equip = 6	-1	0	
+character-equip = 7	4714	1	
+character-equip = 8	-1	0	
+character-equip = 9	7462	1	
+character-equip = 10	3105	1	
+character-equip = 11	-1	0	
+character-equip = 12	6731	3	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	85	1782774
+character-skill = 1	99	8807100
+character-skill = 2	73	541200
+character-skill = 3	98	20464873
+character-skill = 4	2	84
+character-skill = 5	38	32240
+character-skill = 6	99	10272457
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	41	22500
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	25	4215
+character-skill = 18	99	12182505
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	2348	1
+character-item = 1	996	12449326
+character-item = 2	3484	1
+character-item = 3	3484	1
+character-item = 4	3484	1
+character-item = 5	3484	1
+character-item = 6	3484	1
+character-item = 7	3484	1
+character-item = 8	3484	1
+character-item = 9	3484	1
+character-item = 10	3484	1
+character-item = 11	3484	1
+character-item = 12	3484	1
+character-item = 13	3484	1
+character-item = 14	3484	1
+character-item = 15	3484	1
+
+[BANK]
+character-bank = 0	2447	49
+character-bank = 1	176	1
+character-bank = 2	392	86
+character-bank = 3	7462	1
+character-bank = 4	7461	1
+character-bank = 6	3106	1
+character-bank = 7	3778	1
+character-bank = 8	1232	1
+
+[FRIENDS]
+character-friend = 0	2108947923433780
+character-friend = 2	56541975319
+
+[IGNORES]
+
+[EOF]
+

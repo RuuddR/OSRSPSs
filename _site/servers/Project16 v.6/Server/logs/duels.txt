@@ -1,0 +1,84 @@
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+X91 wins item: -1 amount: 0 from new test
+new test wins item: 1149 amount: 1 from X91
+new test wins item: 3140 amount: 1 from X91
+new test wins item: 1187 amount: 1 from X91
+new test wins item: 4087 amount: 1 from X91
+new test wins item: -1 amount: 0 from X91
+new test wins item: -1 amount: 0 from X91
+new test wins item: -1 amount: 0 from X91
+new test wins item: -1 amount: 0 from X91
+new test wins item: -1 amount: 0 from X91
+new test wins item: -1 amount: 0 from X91
+new test wins item: -1 amount: 0 from X91
+new test wins item: -1 amount: 0 from X91
+new test wins item: -1 amount: 0 from X91
+new test wins item: -1 amount: 0 from X91
+new test wins item: -1 amount: 0 from X91
+new test wins item: -1 amount: 0 from X91
+new test wins item: -1 amount: 0 from X91
+new test wins item: -1 amount: 0 from X91
+new test wins item: -1 amount: 0 from X91
+new test wins item: -1 amount: 0 from X91
+new test wins item: -1 amount: 0 from X91
+new test wins item: -1 amount: 0 from X91
+new test wins item: -1 amount: 0 from X91
+new test wins item: -1 amount: 0 from X91
+new test wins item: -1 amount: 0 from X91
+new test wins item: -1 amount: 0 from X91
+new test wins item: -1 amount: 0 from X91
+new test wins item: -1 amount: 0 from X91
+Wolf wins item: 859 amount: 1 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter
+Wolf wins item: -1 amount: 0 from cheeter

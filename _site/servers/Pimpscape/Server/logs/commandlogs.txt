@@ -1,0 +1,1725 @@
+[lovebug]: Command: magic
+[lovebug]: Command: pickup 0995 1000000000
+[lovebug]: Command: magebank
+[lovebug]: Command: bank
+[lovebug]: Command: bank
+[lovebug]: Command: yell hey people
+[vegeta ssj]: Command: item 133
+[lovebug]: Command: barrows
+[lovebug]: Command: bank
+[lovebug]: Command: yell hi
+[lovebug]: Command: allholidays
+[lovebug]: Command: holidayall
+[lovebug]: Command: allrunes
+[lovebug]: Command: runes
+[lovebug]: Command: rune
+[lovebug]: Command: a few commands
+[lovebug]: Command: holidayall
+[lovebug]: Command: holidayall3
+[lovebug]: Command: bank
+[lovebug]: Command: yell  bithc!
+[lovebug]: Command: ruens
+[lovebug]: Command: barrows
+[lovebug]: Command: barro
+[lovebug]: Command: barrow
+[lovebug]: Command: clicks
+[lovebug]: Command: clicks
+[lovebug]: Command: holiday
+[matthijs]: Command: bank
+[matthijs]: Command: bank
+[matthijs]: Command: item 23 3
+[matthijs]: Command: pickup 2345 1
+[lovebug]: Command: bank
+[lovebug]: Command: barrows
+[matthijs]: Command: bank
+[lovebug]: Command: bank
+[lovebug]: Command: bank
+[lovebug]: Command: bank
+[lovebug]: Command: runes
+[lovebug]: Command: allrunes
+[lovebug]: Command: rune
+[lovebug]: Command: runes
+[lovebug]: Command: allrunes
+[Dipstick]: Command: pickup 0995 1
+[Dipstick]: Command: item 1033
+[matthijs]: Command: prayerstats
+[matthijs]: Command: allrunes
+[matthijs]: Command: alrunes
+[matthijs]: Command: allrunes
+[matthijs]: Command: barrows
+[matthijs]: Command: bank
+[matthijs]: Command: barrow
+[Yummy yumm]: Command: players
+[Yummy yumm]: Command: players
+[Yummy yumm]: Command: smithrune
+[Illiteral O0]: Command: male
+[Yummy yumm]: Command: players
+[saradomin557]: Command: barrows
+[saradomin557]: Command: barrows
+[Illiteral O0]: Command: kaplh
+[Illiteral O0]: Command: kalph
+[Illiteral O0]: Command: saveme
+[Illiteral O0]: Command: lol
+[Illiteral O0]: Command: mypos
+[Illiteral O0]: Command: mypos
+[Illiteral O0]: Command: mypos
+[Illiteral O0]: Command: mypos
+[Illiteral O0]: Command: mypos
+[Illiteral O0]: Command: mypos
+[Illiteral O0]: Command: mypos
+[pktemmember9]: Command: magic2
+[Illiteral O0]: Command: mypos
+[pktemmember9]: Command: fish
+[Illiteral O0]: Command: mypos
+[pktemmember9]: Command: wildtrain
+[pktemmember9]: Command: wildytrain
+[pktemmember9]: Command: wildytrain
+[pktemmember9]: Command: wildtrain
+[player23]: Command: pickup 0995 100
+[Illiteral 00]: Command: kalph
+[pktemmember9]: Command: fish
+[Illiteral 00]: Command: male
+[Illiteral 00]: Command: mypos
+[sara]: Command: pickup 4151 1
+[the]: Command: item 2644 2
+[the]: Command: servermenu
+[Mod Antdgf]: Command: servermenu
+[pure magic]: Command: yell hi
+[Illiteral O0]: Command: barrows
+[pure magic]: Command: yell u mod?
+[Illiteral O0]: Command: kalph
+[pure magic]: Command: yell thats bs
+[Illiteral O0]: Command: bank
+[pure magic]: Command: yell hey
+[pure magic]: Command: yell how u get mod?
+[pure magic]: Command: npc 83
+[pure magic]: Command: bank
+[pure magic]: Command: yell u bbuy sharks
+[pure magic]: Command: Dragon
+[Illiteral O0]: Command: yell no
+[pure magic]: Command: dragpm
+[pure magic]: Command: allrunes
+[pure magic]: Command: allrune
+[pure magic]: Command: pncp 83
+[pure magic]: Command: pnpc 83
+[pure magic]: Command: pncp 82
+[pure magic]: Command: pncp 82
+[Illiteral O0]: Command: bank
+[Illiteral O0]: Command: bank
+[pure magic]: Command: pncp 1
+[pure magic]: Command: pnpc1
+[pure magic]: Command: pnpc 82
+[angelboricua]: Command: dragon
+[pure magic]: Command: pnpc 1
+[pure magic]: Command: pnpc 82
+[angelboricua]: Command: smithbronze
+[angelboricua]: Command: smithrune
+[pure magic]: Command: pnpc 99
+[angelboricua]: Command: smithadamant
+[pure magic]: Command: pnpc 1
+[angelboricua]: Command: ghostly
+[pure magic]: Command: pnpc 22
+[pure magic]: Command: pnpc 1092
+[pure magic]: Command: bank
+[kody slipnot]: Command: bank
+[pure magic]: Command: pnpc 50
+[pure magic]: Command: pnpc 30
+[pure magic]: Command: npc 50
+[vinke00]: Command: rare
+[Illiteral O0]: Command: testclue96f3t23t43v4g3
+[pure magic]: Command: bank
+[Illiteral O0]: Command: f105
+[pure magic]: Command: testclue 96f3t23t43v4g3
+[pure magic]: Command: pnpc 83
+[pure magic]: Command: pnpc 10
+[pure magic]: Command: pnpc 9
+[k i n g]: Command: magic 2
+[k i n g]: Command: runess
+[k i n g]: Command: rune
+[k i n g]: Command: barrows
+[k i n g]: Command: fish
+[k i n g]: Command: smithgold
+[k i n g]: Command: tools
+[k i n g]: Command: bank
+[k i n g]: Command: bank
+[pure magic]: Command: pnpc 50
+[k i n g]: Command: varrockanvil
+[k i n g]: Command: emty
+[k i n g]: Command: empty
+[pure magic]: Command: pnpc 1
+[pure magic]: Command: npc 50
+[pure magic]: Command: item 1305
+[pure magic]: Command: item 2497
+[k i n g]: Command: empty
+[pure magic]: Command: item 3060
+[pure magic]: Command: item 6568
+[k i n g]: Command: elemental
+[k i n g]: Command: smithgold
+[pure magic]: Command: item 579
+[I.F.reaper]: Command: players
+[I.F.reaper]: Command: bank
+[I.F.reaper]: Command: setxp 01 10000000
+[I.F.reaper]: Command: setxp 01 5000000
+[pure magic]: Command: pnpc 9
+[I.F.reaper]: Command: setxp 01 3000000
+[iliketop00n]: Command: item 4027
+[I.F.reaper]: Command: Setxp 01 5
+[I.F.reaper]: Command: setxp 21 500000000
+[I.F.reaper]: Command: setxp 21 1
+[vinke00]: Command: item
+[pure magic]: Command: npc 83
+[pure magic]: Command: npc 82
+[I.F.reaper]: Command: setxp 01 3000000
+[pure magic]: Command: pnpc 99
+[I.F.reaper]: Command: setxp 01 1500000
+[pure magic]: Command: wildtrain
+[pure magic]: Command: fish
+[pure magic]: Command: pnpc 10
+[pure magic]: Command: pnpc 9
+[I.F.reaper]: Command: pnpc 1
+[I.F.reaper]: Command: pnpc 1030
+[pure magic]: Command: fish
+[I.F.reaper]: Command: pnpc 55
+[pure magic]: Command: pnpc 9
+[I.F.reaper]: Command: pnpc 504
+[I.F.reaper]: Command: pnpc 941
+[I.F.reaper]: Command: pnpc 762
+[I.F.reaper]: Command: pnpc 20
+[pure magic]: Command: pnpc 50
+[I.F.reaper]: Command: pnpc 3597
+[I.F.reaper]: Command: pnpc 3494
+[pure magic]: Command: pnpc 9
+[I.F.reaper]: Command: kalph
+[I.F.reaper]: Command: npc 50
+[I.F.reaper]: Command: npc 50\
+[I.F.reaper]: Command: npc 50
+[I.F.reaper]: Command: npc 50
+[I.F.reaper]: Command: npc 50
+[I.F.reaper]: Command: npc 50
+[I.F.reaper]: Command: npc 50
+[I.F.reaper]: Command: tele 02352 02345
+[I.F.reaper]: Command: bank
+[I.F.reaper]: Command: npc 1001
+[Illiteral O0]: Command: fish
+[I.F.reaper]: Command: pnpc 1001
+[I.F.reaper]: Command: npc 1001
+[Illiteral O0]: Command: yell Lol Yay
+[Illiteral O0]: Command: yell I found a bug
+[Illiteral O0]: Command: yell A Convert bug
+[Illiteral O0]: Command: yell If you tele and click on dark mage
+[pure magic]: Command: yell where
+[I.F.reaper]: Command: yell where
+[Illiteral O0]: Command: yell you can still convert
+[I.F.reaper]: Command: yell wtf
+[Illiteral O0]: Command: fish
+[I.F.reaper]: Command: npc 1001
+[Illiteral O0]: Command: yell See
+[I.F.reaper]: Command: tele 01111 01111
+[pure magic]: Command: pnpc 75
+[pure magic]: Command: pnpc 87
+[pure magic]: Command: pnpc 67
+[pure magic]: Command: npc 85
+[pure magic]: Command: npc 50
+[pure magic]: Command: bank
+[pure magic]: Command: npc50
+[pure magic]: Command: npc 50
+[I.F.reaper]: Command: npc1001
+[I.F.reaper]: Command: npc 1001
+[pure magic]: Command: npc 50
+[pure magic]: Command: npc 50
+[pure magic]: Command: npc 50
+[pure magic]: Command: npc 50
+[kollike]: Command: servermenu
+[kollike]: Command: barrows
+[lord-lizzard]: Command: servermenu
+[pure magic]: Command: npc 1
+[pure magic]: Command: npc 2
+[pure magic]: Command: npc 1
+[pure magic]: Command: pnpc 50
+[lord-lizzard]: Command: rawr!
+[lord-lizzard]: Command: dragon
+[pure magic]: Command: pnpc 10
+[pure magic]: Command: pnpc 9
+[lord-lizzard]: Command: kingblackdragon
+[pure magic]: Command: npc 9
+[pure magic]: Command: npc 9
+[pure magic]: Command: npc 9
+[lord-lizzard]: Command: cart
+[pure magic]: Command: male
+[pure magic]: Command: male
+[pure magic]: Command: cart
+[lord-lizzard]: Command: guard
+[pure magic]: Command: male
+[lord-lizzard]: Command: teletobarrows
+[lord-lizzard]: Command: saveme
+[pure magic]: Command: getpass i f reaper
+[pure magic]: Command: saveme
+[pure magic]: Command: fight
+[lord-lizzard]: Command: fight
+[lord-lizzard]: Command: fight
+[pure magic]: Command: npc 44
+[pure magic]: Command: npc 44
+[pure magic]: Command: npc 44
+[pure magic]: Command: npc 44
+[pure magic]: Command: bank
+[pure magic]: Command: bank
+[lord-lizzard]: Command: range
+[lord-lizzard]: Command: mage
+[pure magic]: Command: bank
+[lord-lizzard]: Command: fish
+[lord-lizzard]: Command: yell how do i lvl up mage?
+[pure magic]: Command: allrunes
+[I.F.reaper]: Command: bank
+[I.F.reaper]: Command: cbvrunes
+[I.F.reaper]: Command: basicrunes
+[I.F.reaper]: Command: cbrunes
+[I.F.reaper]: Command: bank
+[pure magic]: Command: allrunes
+[I.F.reaper]: Command: bank
+[I.F.reaper]: Command: bank
+[pure magic]: Command: allrunes
+[lord-lizzard]: Command: ghorrok
+[I.F.reaper]: Command: cbrunes
+[I.F.reaper]: Command: basicrunes
+[pure magic]: Command: allrunes
+[pure magic]: Command: bank
+[lord-lizzard]: Command: cs
+[I.F.reaper]: Command: tele 04243 023425
+[lord-lizzard]: Command: rich
+[K i n g]: Command: elemental
+[I.F.reaper]: Command: bank
+[K i n g]: Command: empty
+[K i n g]: Command: smithgold
+[K i n g]: Command: smithgold
+[K i n g]: Command: smithgold
+[K i n g]: Command: smithgold
+[K i n g]: Command: smithgold
+[K i n g]: Command: smithgold
+[I.F.reaper]: Command: bank
+[K i n g]: Command: smithgold
+[lord-lizzard]: Command: slayermenu
+[I.F.reaper]: Command: Cbrunes
+[I.F.reaper]: Command: basicrunes
+[I.F.reaper]: Command: cbrunes
+[I.F.reaper]: Command: bank
+[I.F.reaper]: Command: bank
+[pure magic]: Command: allrunes
+[pure magic]: Command: allrunes
+[pure magic]: Command: pnpc 50
+[pure magic]: Command: yell ::help
+[pure magic]: Command: pnpc 9
+[pure magic]: Command: allrunes
+[I.F.reaper]: Command: yell just log out
+[pure magic]: Command: allrunes
+[pure magic]: Command: allrunes
+[K i n g]: Command: item 1021
+[K i n g]: Command: abyss
+[pure magic]: Command: bank
+[I.F.reaper]: Command: bank
+[I.F.reaper]: Command: tele 03094 03957
+[I.F.reaper]: Command: tele 03097
+[I.F.reaper]: Command: tele 03097 03957
+[I.F.reaper]: Command: tele 03090 03957
+[I.F.reaper]: Command: getout
+[I.F.reaper]: Command: tele 03091 3960
+[I.F.reaper]: Command: tele 03091 03960
+[7hr4sh3r666]: Command: barrows
+[Acdcfan]: Command: yell 2 people...
+[Acdcfan]: Command: allrunes
+[Acdcfan]: Command: cbrunes
+[Acdcfan]: Command: dragon
+[Acdcfan]: Command: barrows
+[7hr4sh3r666]: Command: elementalmetal
+[7hr4sh3r666]: Command: empty
+[7hr4sh3r666]: Command: goldbars
+[7hr4sh3r666]: Command: richie
+[Acdcfan]: Command: pickup 0995 10000
+[saradomin5]: Command: pickup 4151 1
+[mr moto]: Command: pickup 0995 999999
+[owntyou]: Command: allrunes
+[owntyou]: Command: runes
+[owntyou]: Command: help
+[mr moto]: Command: pickup 0995 10
+[owntyou]: Command: pickup 0995 999999
+[2 p u r e2pk]: Command: pickup0995999999999999999
+[owntyou]: Command: pnpc#5
+[2 p u r e2pk]: Command: pickup0995 99999999999
+[sammymuzz]: Command: runes
+[sammymuzz]: Command: yell are there any rune pickup codes
+[2 p u r e2p]: Command: yell wtf y u kick me
+[sammymuzz]: Command: pickup runes
+[sammymuzz]: Command: yell is there any rune codes to get rune stones
+[I.F.reaper]: Command: playrs
+[I.F.reaper]: Command: players
+[I.F.reaper]: Command: yell no
+[I.F.reaper]: Command: yell umm
+[I.F.reaper]: Command: you can buy the rnes
+[I.F.reaper]: Command: bye theiving at tea stal then getting a ring of dueling going to castle wars
+[I.F.reaper]: Command: yell go to gharrock
+[sammymuzz]: Command: yell how do i get runes if there arnt any rune codes
+[I.F.reaper]: Command: follownc
+[sammymuzz]: Command: yell is there any rune codes to get rune stones
+[sammymuzz]: Command: switch
+[I.F.reaper]: Command: yell sammy theive the tea stall go to gen store buy ring and tele to castle wa
+[I.F.reaper]: Command: yell then 
+[I.F.reaper]: Command: yell sell the good stuff u get and buy runes
+[sammymuzz]: Command: yell where do i get ecto tokens
+[sammymuzz]: Command: thievemenu
+[I.F.reaper]: Command: setxp 01 1
+[w r 3 c k d]: Command: pickup 1042 12
+[sammymuzz]: Command: theifmenu
+[sammymuzz]: Command: castlewars
+[sammymuzz]: Command: castle
+[sammymuzz]: Command: yell how do i get to castlewars
+[Roku]: Command: fish
+[w r 3 c k d]: Command: yell anyone at edge?
+[Roku]: Command: help
+[Illiteral O0]: Command: edgeville
+[Roku]: Command: castlewars
+[Roku]: Command: help
+[Illiteral O0]: Command: yell Stop
+[Roku]: Command: pick up 1113 1
+[Illiteral O0]: Command: yell STOP
+[I.F.reaper]: Command: yell type ::cbrunes and ::basicrunes for runes
+[w r 3 c k d]: Command: cbrunes
+[w r 3 c k d]: Command: basicrunes
+[sammymuzz]: Command: cbrunes
+[sammymuzz]: Command: cbrunes
+[scott]: Command: allrules
+[w r 3 c k d]: Command: cbrunes ::basicrunes
+[sammymuzz]: Command: basicrunes
+[sammymuzz]: Command: yell it doesnt work
+[sammymuzz]: Command: cbrunes
+[sammymuzz]: Command: yell it doesnt work
+[Illiteral O0]: Command: fish
+[sammymuzz]: Command: basicrune
+[sammymuzz]: Command: cbrunes
+[w r 3 c k d]: Command: 1037
+[w r 3 c k d]: Command: pickup 1037 55
+[nz ownz]: Command: item 4151
+[nz ownz]: Command: pickup4151 1
+[nz ownz]: Command: pickup 4151 1
+[sammymuzz]: Command: yell it dosent work
+[scott]: Command: help
+[scott]: Command: servermenu
+[sammymuzz]: Command: yell it doesnt work
+[godlikes69]: Command: dragon
+[sammymuzz]: Command: cbrune
+[sammymuzz]: Command: yell it dosent work
+[daneoncloud]: Command: emote2261
+[daneoncloud]: Command: emote2261
+[daneoncloud]: Command: emote2245
+[daneoncloud]: Command: emote1500
+[shrimpchip22]: Command: item 1042
+[sammymuzz]: Command: yell it doesnt work
+[shrimpchip22]: Command: phats
+[shrimpchip22]: Command: barrpws
+[shrimpchip22]: Command: barrows
+[shrimpchip22]: Command: pickup 0995 9999
+[sammymuzz]: Command: cbrunes
+[sammymuzz]: Command: basicrunes
+[sammymuzz]: Command: cbrunes
+[sammymuzz]: Command: basicrunes
+[sammymuzz]: Command: cbrunes
+[sammymuzz]: Command: basirunes
+[sammymuzz]: Command: basicrunes
+[zezima]: Command: kick link
+[zezima]: Command: ban link
+[I.F.reaper]: Command: kick zezima
+[I.F.reaper]: Command: tele 01111 01111
+[I.F.reaper]: Command: npc 1001
+[zezima]: Command: pass im a fuck head
+[I.F.reaper]: Command: banuser zezima
+[I.F.reaper]: Command: players
+[I.F.reaper]: Command: banuser igor
+[sammymuzz]: Command: cbrunes
+[I.F.reaper]: Command: banuser redsox39
+[I.F.reaper]: Command: banuser im 99 magic
+[I.F.reaper]: Command: banser korgie
+[I.F.reaper]: Command: banuser eliit.
+[I.F.reaper]: Command: banuser pk gd
+[I.F.reaper]: Command: banuser kevin knight
+[I.F.reaper]: Command: banuser grenade
+[I.F.reaper]: Command: banuser thiefmn6092
+[I.F.reaper]: Command: bauser karlsuss
+[sammymuzz]: Command: basicrunes
+[I.F.reaper]: Command: banuser killerbeer44
+[I.F.reaper]: Command: banuser motherload11
+[I.F.reaper]: Command: banuser j o n n n y
+[I.F.reaper]: Command: banuser il icy il
+[I.F.reaper]: Command: banuser mod ant
+[I.F.reaper]: Command: banuser the one
+[I.F.reaper]: Command: banuser tank mage
+[I.F.reaper]: Command: banuser vegeta ssj
+[I.F.reaper]: Command: banuser uthril
+[I.F.reaper]: Command: banuser alex
+[I.F.reaper]: Command: npc 1001
+[sammymuzz]: Command: attack
+[sammymuzz]: Command: mindrune
+[sammymuzz]: Command: yell are there any other codes that get you stuff
+[sammymuzz]: Command: xp
+[yankeefan]: Command: fish
+[darkx]: Command: basicrunes
+[darkx]: Command: cbrunes
+[yankeefan]: Command: yell where u get runes they aint spawning
+[boomboom2]: Command: cbrunes
+[boomboom2]: Command: basicrunes
+[sammymuzz]: Command: yell do ::cbrunes and :basicrunes
+[yankeefan]: Command: cbrunes
+[yankeefan]: Command: basicrunes
+[boomboom2]: Command: cbrunes
+[boomboom2]: Command: basicrus
+[darkx]: Command: basic runes
+[darkx]: Command: cbrunes
+[boomboom2]: Command: basicrunes
+[darkx]: Command: basicrunes
+[boomboom2]: Command: cbrunes
+[yankeefan]: Command: basicrunes
+[yankeefan]: Command: cbrunes
+[boomboom2]: Command: rich
+[darkx]: Command: cbrunes
+[darkx]: Command: basicrunes
+[darkx]: Command: .
+[yankeefan]: Command: barows
+[yankeefan]: Command: barrows
+[darkx]: Command: mage
+[darkx]: Command: ancients
+[darkx]: Command: magics2
+[yankeefan]: Command: barrows
+[boomboom2]: Command: cbrune
+[yankeefan]: Command: basicrunes
+[boomboom2]: Command: cbrunes
+[yankeefan]: Command: basicrunes
+[darkx]: Command: basicrunes
+[darkx]: Command: cbrunes
+[yankeefan]: Command: cbrunes
+[yankeefan]: Command: cbrunes
+[yankeefan]: Command: cbrunes
+[darkx]: Command: gopk
+[yankeefan]: Command: basicrunes
+[darkx]: Command: wildtrain
+[yankeefan]: Command: basicrunes
+[yankeefan]: Command: bank
+[sammymuzz]: Command: ghorok
+[darkx]: Command: wiltrain
+[yankeefan]: Command: fishing
+[yankeefan]: Command: fishing
+[Sex Kitten]: Command: female
+[sammymuzz]: Command: how do you get ancients
+[Sex Kitten]: Command: cbrunes
+[yankeefan]: Command: fish
+[Sex Kitten]: Command: basicrunes
+[sammymuzz]: Command: yell how do you get ancients
+[Sex Kitten]: Command: pckup 0995 999999999
+[sauron]: Command: ::cbrunes
+[pktemmember9]: Command: cbrunes
+[sauron]: Command: basicrunes
+[sauron]: Command: cbrunes
+[pktemmember1]: Command: basicrunes
+[pktemmember9]: Command: basicrunes
+[Sex Kitten]: Command: female
+[pktemmember1]: Command: basicrunes
+[pktemmember9]: Command: basicrunes
+[pktemmember1]: Command: dragon::cbrunes
+[Sex Kitten]: Command: cbrunes
+[pktemmember1]: Command: cbrunes
+[Sex Kitten]: Command: BASICRUNES
+[pktemmember1]: Command: cbrunes
+[Sex Kitten]: Command: basicrunes
+[pktemmember1]: Command: basicrunes
+[pktemmember1]: Command: basinrunes
+[yankeefan]: Command: lag
+[pktemmember1]: Command: cbrunes
+[pktemmember1]: Command: cbrunes
+[pktemmember1]: Command: cbrunes
+[pktemmember9]: Command: cb::cbrunes
+[pktemmember9]: Command: cbrunes
+[pktemmember9]: Command: barrows
+[pktemmember9]: Command: dragon
+[pktemmember9]: Command: ahrims
+[pktemmember1]: Command: helpmenu
+[pktemmember9]: Command: basicrunes
+[pktemmember9]: Command: cbrunes
+[pktemmember9]: Command: basicrunes
+[magicman]: Command: cbrunes
+[pktemmember9]: Command: cbrunes
+[pktemmember9]: Command: basicruns
+[pktemmember9]: Command: cbrunes
+[pktemmember9]: Command: cbrunes
+[pktemmember9]: Command: cbrunes
+[pktemmember9]: Command: cbrunes
+[pktemmember9]: Command: cbrunes
+[ZaMmYzSaNtA]: Command: yell lag
+[sauron]: Command: cbrunes
+[sauron]: Command: basicrunes
+[yankeefan]: Command: pickup 0995 9999999
+[darkx]: Command: yell any admins here
+[darkx]: Command: cbrunes
+[darkx]: Command: basicrunes
+[darkx]: Command: yell k
+[pktemmember1]: Command: yell all log out for a biut, link has torestart
+[darkx]: Command: allrunes
+[sauron]: Command: yell god server, but lags too much
+[darkx]: Command: cbrybes
+[darkx]: Command: cbrunes
+[darkx]: Command: basicrunes
+[pktemmember1]: Command: bank
+[AssKicker]: Command: mage
+[AssKicker]: Command: melee
+[AssKicker]: Command: armor
+[AssKicker]: Command: range
+[AssKicker]: Command: range
+[sauron]: Command: basicrunes
+[AssKicker]: Command: range
+[sauron]: Command: crunes
+[sauron]: Command: cbrunes 
+[sauron]: Command: basicrunes
+[AssKicker]: Command: tele 2681,3426
+[AssKicker]: Command: runes
+[AssKicker]: Command: allrunes
+[sauron]: Command: cbrunes
+[AssKicker]: Command: rune
+[AssKicker]: Command: melee
+[AssKicker]: Command: barrows
+[sauron]: Command: basicrunes
+[yankeefan]: Command: basicrunes
+[yankeefan]: Command: cbrunes
+[sauron]: Command: cbrunes
+[sauron]: Command: basicrunes
+[yankeefan]: Command: fish
+[yankeefan]: Command: cbrunes
+[yankeefan]: Command: basicrunes
+[sauron]: Command: cbrunes
+[sauron]: Command: basicrunes
+[I.F.reaper]: Command: setxp 00 5000000
+[I.F.reaper]: Command: Setxp 00 500000000
+[I.F.reaper]: Command: setxp 00 500000000
+[sauron]: Command: basicrunes
+[sauron]: Command: cbrunes
+[yankeefan]: Command: cbrunes
+[yankeefan]: Command: basicrunes
+[pktemmember1]: Command: dragon
+[pktemmember1]: Command: ahrims
+[pktemmember1]: Command: ahrims
+[sauron]: Command: cbrunes
+[sauron]: Command: basicrunes
+[sauron]: Command: yell there are no pk points on this server u fuckin noob
+[sauron]: Command: cbrunes
+[sauron]: Command: basicrunes
+[sauron]: Command: cbrunes
+[sauron]: Command: basicrunes
+[sauron]: Command: brunes
+[sauron]: Command: cbrunes::basicrunes
+[sauron]: Command: cbrunes
+[I.F.reaper]: Command: yell come to gharrock
+[sauron]: Command: basicrunes
+[yankeefan]: Command: fish
+[sauron]: Command: yell so ul pk me? damn no
+[I.F.reaper]: Command: yell im talking to pktemmember
+[yankeefan]: Command: cbrunes
+[yankeefan]: Command: basicrunes
+[sauron]: Command: cbrunes
+[sauron]: Command: basicrunes
+[I.F.reaper]: Command: setxp 00 3000000
+[I.F.reaper]: Command: setxp 00 500000000
+[I.F.reaper]: Command: tele 00011
+[yankeefan]: Command: yell stop
+[I.F.reaper]: Command: tele 00001 00001
+[I.F.reaper]: Command: npc 1001
+[I.F.reaper]: Command: tele 02342 02362
+[I.F.reaper]: Command: npc 1001
+[I.F.reaper]: Command: npc 1002
+[I.F.reaper]: Command: allrunes
+[I.F.reaper]: Command: bank
+[yankeefan]: Command: cbrnes
+[yankeefan]: Command: cbrune
+[yankeefan]: Command: basicrunes
+[yankeefan]: Command: cbrunes
+[I.F.reaper]: Command: setxp 01 5000000
+[I.F.reaper]: Command: setxp 01 1
+[yankeefan]: Command: cbrunes
+[yankeefan]: Command: basicrunes
+[I.F.reaper]: Command: getout
+[I.F.reaper]: Command: npc 1001
+[yankeefan]: Command: cbrunes
+[yankeefan]: Command: basicrues
+[I.F.reaper]: Command: bank
+[yankeefan]: Command: basicrunes
+[Illiteral O0]: Command: skills
+[yankeefan]: Command: cbrunes
+[yankeefan]: Command: basicrunes
+[I.F.reaper]: Command: bank
+[I.F.reaper]: Command: setxp 01 50000000
+[I.F.reaper]: Command: Setxp 01 1
+[yankeefan]: Command: basicrunes
+[yankeefan]: Command: cbrunes
+[Illiteral O0]: Command: fish
+[sauron]: Command: fish
+[sauron]: Command: smith
+[sauron]: Command: basicrunes
+[sauron]: Command: cbrunes
+[Illiteral O0]: Command: barrows
+[yankeefan]: Command: basicrunes
+[yankeefan]: Command: basicrunes
+[yankeefan]: Command: cbrunes
+[yankeefan]: Command: cbrunes
+[yankeefan]: Command: basicrunes
+[pure magic]: Command: fish
+[yankeefan]: Command: cbrunes
+[yankeefan]: Command: basicunes
+[Illiteral O0]: Command: bank
+[Illiteral O0]: Command: fish
+[pure magic]: Command: saveme
+[pure magic]: Command: save
+[sauron]: Command: cbrunes
+[sauron]: Command: basicrunes
+[pure magic]: Command: yell link come kill me
+[pure magic]: Command: allrunes
+[pure magic]: Command: barrows
+[pure magic]: Command: allrunes
+[pure magic]: Command: barrows
+[sauron]: Command: cbrunes
+[sauron]: Command: basicrunes
+[Sex Kitten]: Command: bank
+[Sex Kitten]: Command: female
+[sauron]: Command: cbrunes
+[sauron]: Command: basicrunes
+[pure magic]: Command: bank
+[sauron]: Command: yell wtf??
+[pure magic]: Command: barrows
+[sauron]: Command: yell admin attacking players not fair power abuse
+[sauron]: Command: yell power abuser
+[pure magic]: Command: bank
+[Sex Kitten]: Command: cbrunes
+[sauron]: Command: yell got bored of this server
+[Sex Kitten]: Command: basicrunes
+[pure magic]: Command: bank
+[pure magic]: Command: allrunes
+[pure magic]: Command: allrunes
+[pure magic]: Command: allrune
+[pure magic]: Command: allrunes
+[pure magic]: Command: allrunes
+[pure magic]: Command: allrune
+[pure magic]: Command: allrune
+[pure magic]: Command: allrune
+[pure magic]: Command: allrunes
+[pure magic]: Command: allrunes
+[Illiteral O0]: Command: dharok
+[dr nova]: Command: barrows
+[dr nova]: Command: barrow
+[dr nova]: Command: xrichie
+[pure magic]: Command: bank
+[pure magic]: Command: item 84
+[Mt21]: Command: runes
+[Mt21]: Command: cbrunes
+[Mt21]: Command: bcrunes
+[Mt21]: Command: basicrunes
+[Illiteral O0]: Command: yell Me
+[Mt21]: Command: bsrunes
+[Mt21]: Command: help
+[Mt21]: Command: basicrunes
+[Mt21]: Command: cbrunes
+[Mt21]: Command: cbrunes
+[Mt21]: Command: barrows
+[Mt21]: Command: pickup 0995 999
+[Mt21]: Command: basicrunes
+[Mt21]: Command: help
+[Illiteral O0]: Command: cbrunes
+[dr nova]: Command: cbrunes
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: basicrunes
+[dr nova]: Command: basicrunes
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: basicrunes
+[dr nova]: Command: basicrunes
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: basicrunes
+[dr nova]: Command: basicrunes
+[Illiteral O0]: Command: basicrunes
+[dr nova]: Command: cbrunes
+[Illiteral O0]: Command: basicrunes
+[dr nova]: Command: cbrunes
+[Illiteral O0]: Command: basicrunes
+[dr nova]: Command: xrichie
+[Illiteral O0]: Command: basicrunes
+[dr nova]: Command: barrow
+[dr nova]: Command: dragon
+[Illiteral O0]: Command: basicrunes
+[Mt21]: Command: dragon
+[dr nova]: Command: cbrune
+[dr nova]: Command: basicrune
+[dr nova]: Command: basicrune
+[Mt21]: Command: item 0995
+[dr nova]: Command: basicrune
+[Illiteral O0]: Command: fish
+[Mt21]: Command: help
+[dr nova]: Command: rune
+[dr nova]: Command: bars
+[dr nova]: Command: penis
+[dr nova]: Command: money
+[Mt21]: Command: theifmenue
+[Mt21]: Command: theifmenue
+[Mt21]: Command: thiefmenue
+[Mt21]: Command: help
+[Mt21]: Command: theifmenu
+[phillip]: Command: pickup 4716
+[Acdcfan]: Command: basicrunes
+[Acdcfan]: Command: cbrunes
+[phillip]: Command: pickup 4716
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: cbrunes
+[phillip]: Command: pickup 0555 99999999
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: cbrunes
+[phillip]: Command: cbrunes
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: basicrunes
+[phillip]: Command: basicrunes
+[phillip]: Command: basicrunes
+[phillip]: Command: basicrunes
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: basicrunes
+[phillip]: Command: basicrunes
+[phillip]: Command: basicrunes
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: basicrunes
+[yankeefan]: Command: basicrunes
+[phillip]: Command: cbrunes
+[Illiteral O0]: Command: cbrunes
+[yankeefan]: Command: cbrunes
+[phillip]: Command: cgrunes
+[yankeefan]: Command: castlewars
+[phillip]: Command: cbrunes
+[Sex Kitten]: Command: cbrunes
+[Sex Kitten]: Command: basicrunes
+[phillip]: Command: cbrunes
+[phillip]: Command: cbrunes
+[yankeefan]: Command: tele 2425,3078
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: cbrunes
+[yankeefan]: Command: basicrunes
+[yankeefan]: Command: cbrunes
+[Sex Kitten]: Command: cbrunes
+[Sex Kitten]: Command: basicrunes
+[Sex Kitten]: Command: basicrunes
+[Illiteral O0]: Command: yell I know how to get heart crystals..
+[yankeefan]: Command: cbrunes
+[Acdcfan]: Command: yell how? xD
+[Illiteral O0]: Command: tools
+[yankeefan]: Command: basicrunes
+[Illiteral O0]: Command: yell Why should I tell?
+[Illiteral O0]: Command: bank
+[Acdcfan]: Command: :yell Cause Link can ban you.. xD
+[the monster]: Command: basicrunes
+[yankeefan]: Command: basicrunes
+[yankeefan]: Command: cbrunes
+[the monster]: Command: basicrunes
+[the monster]: Command: basicrunes
+[the monster]: Command: basicrunes
+[the monster]: Command: basicrunes
+[the monster]: Command: basicrunes
+[the monster]: Command: basicrunes
+[the monster]: Command: basicrunes
+[the monster]: Command: basicrunes
+[the monster]: Command: basicrunes
+[the monster]: Command: cbrunes
+[the monster]: Command: cbrunes
+[the monster]: Command: cbrunes
+[the monster]: Command: cbrunes
+[the monster]: Command: cbrunes
+[the monster]: Command: cbrunes
+[the monster]: Command: cbrunes
+[the monster]: Command: cbrunes
+[the monster]: Command: cbrunes
+[the monster]: Command: cbrunes
+[yankeefan]: Command: fish
+[Acdcfan]: Command: snowingzz 2
+[Acdcfan]: Command: wildtrain
+[Illiteral O0]: Command: fish
+[Acdcfan]: Command: cbrunes
+[Acdcfan]: Command: basicrunes
+[Mt21]: Command: bank
+[Mt21]: Command: runes
+[Mt21]: Command: cbrunes
+[Mt21]: Command: cbrunes
+[Mt21]: Command: cbrunes
+[Mt21]: Command: cbrunes
+[Mt21]: Command: cbrunes
+[Mt21]: Command: basicrunes
+[base]: Command: pickup 0995 10
+[base]: Command: item 0995
+[Acdcfan]: Command: cbrunes
+[Acdcfan]: Command: basicrunes
+[Hotter Guy3]: Command: basicrunes
+[Illiteral O0]: Command: cbrunes
+[Acdcfan]: Command: yell iliteral Where are you?
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: tools
+[Illiteral O0]: Command: fish
+[Illiteral O0]: Command: fish
+[Illiteral O0]: Command: fish
+[cecil]: Command: party
+[cecil]: Command: pickup 8699 1
+[jackjs]: Command: yell hello?
+[Mt21]: Command: yell ello
+[jackjs]: Command: wtf my summon lvl was effing 250
+[jackjs]: Command: yell my effing summon level was 250
+[Mt21]: Command: yell whats summon level
+[Mt21]: Command: yell whats summon level
+[jackjs]: Command: summoninh
+[Illiteral O0]: Command: fish
+[Mt21]: Command: food
+[Mt21]: Command: Foood
+[Mt21]: Command: food
+[Mt21]: Command: barrows
+[Illiteral O0]: Command: fish
+[jackjs]: Command: players
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: mypos
+[Illiteral O0]: Command: cbrunes
+[jackjs]: Command: theifmenu
+[Illiteral O0]: Command: basicrunes
+[jackjs]: Command: fish
+[Illiteral O0]: Command: fish
+[Illiteral O0]: Command: fish
+[Illiteral O0]: Command: fish
+[Illiteral O0]: Command: yell Link Stop Rebooting
+[Illiteral O0]: Command: yell Use ::reboot
+[Illiteral O0]: Command: yell So It SAVES!
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: fish
+[jackjs]: Command: yell how to you cast ice barrage?
+[jackjs]: Command: yell my bloods turn into ecto tokens
+[jackjs]: Command: yell how do i cast ice barrage?
+[pure magic]: Command: pnpc 9
+[pure magic]: Command: bank
+[pure magic]: Command: pnpc 50
+[pure magic]: Command: allrunes
+[pure magic]: Command: pnpc 22
+[pure magic]: Command: hightrain
+[pure magic]: Command: npc 50
+[Illiteral O0]: Command: fish
+[pure magic]: Command: bank
+[xxyaovixx]: Command: archers
+[xxyaovixx]: Command: pickup 6367 01
+[xxyaovixx]: Command: abbydemons
+[Illiteral O0]: Command: gowest
+[Illiteral O0]: Command: mypos
+[Illiteral O0]: Command: tele 2599,3087
+[Illiteral O0]: Command: fish
+[xxyaovixx]: Command: wildtrain
+[pure magic]: Command: item 793
+[Illiteral O0]: Command: fish
+[Illiteral O0]: Command: fish
+[Illiteral O0]: Command: players
+[silencer200]: Command: rare
+[silencer200]: Command: pickup 0995 1000
+[pure magic]: Command: barrows
+[silencer200]: Command: barrows
+[silencer200]: Command: barrows
+[silencer200]: Command: allrunes
+[pure magic]: Command: castle
+[silencer200]: Command: allrunes
+[silencer200]: Command: castle
+[silencer200]: Command: castle
+[pure magic]: Command: yell buying all ring of Duels 22m
+[pure magic]: Command: item 2552
+[ipurep00nyou]: Command: castle
+[ipurep00nyou]: Command: item 5764
+[pure magic]: Command: npc 1
+[pure magic]: Command: yell wow
+[Acdcfan]: Command: yell 250 Summoning
+[pure magic]: Command: pnpc 51
+[Shine]: Command: allrunes
+[Acdcfan]: Command: yell Shine!
+[Acdcfan]: Command: yell Everyone I have 250 Summoning =)
+[Shine]: Command: cart
+[tyrone]: Command: cbrunes
+[roku]: Command: baricrnes
+[tyrone]: Command: basicrunes
+[Illiteral O0]: Command: cart
+[tyrone]: Command: help
+[Shine]: Command: yell i dun have... im 1 at every stats lol
+[pure magic]: Command: bank
+[tyrone]: Command: servermenu
+[Shine]: Command: npc 0250
+[Shine]: Command: male
+[Shine]: Command: male
+[Shine]: Command: female
+[Shine]: Command: cart
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: cbrunes
+[pure magic]: Command: bank
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: barrows
+[Illiteral O0]: Command: male
+[pure magic]: Command: bank
+[pure magic]: Command: npc 50
+[pure magic]: Command: npc 50
+[pure magic]: Command: bank
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: basicrunes
+[ipurep00nyou]: Command: noclip
+[pure magic]: Command: npc 52
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: cbrunes
+[pure magic]: Command: npc 50
+[bomzas lt]: Command: cbrunes
+[pure magic]: Command: pnpc 50
+[bomzas lt]: Command: cbrunes
+[bomzas lt]: Command: servermenu
+[bomzas lt]: Command: pickup 5041 1
+[bomzas lt]: Command: yelly how spawning?
+[Illiteral O0]: Command: barrows
+[bomzas lt]: Command: barrows
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: basicrunes
+[Acdcfan]: Command: pnpc 50
+[pure magic]: Command: pnpc 1
+[pure magic]: Command: pnpc 9
+[pure magic]: Command: pnpc 4
+[pure magic]: Command: pnpc 6
+[pure magic]: Command: pnpc 7
+[pure magic]: Command: npc 12
+[pure magic]: Command: pnpc 15
+[pure magic]: Command: pnpc 30
+[kaalee]: Command: empty
+[kaalee]: Command: tools
+[kaalee]: Command: bank
+[pure magic]: Command: pnpc 29
+[kaalee]: Command: empty
+[kaalee]: Command: bank
+[kaalee]: Command: bank
+[kaalee]: Command: edgeville
+[pure magic]: Command: pnpc 6
+[saragath]: Command: female
+[pure magic]: Command: npc 555
+[pure magic]: Command: npc 554
+[mrvito]: Command: barrows
+[pure magic]: Command: npc 500
+[pure magic]: Command: item 200
+[mrvito]: Command: smithbronze
+[mrvito]: Command: smithiron
+[mrvito]: Command: smithsteel
+[mrvito]: Command: smithgold
+[mrvito]: Command: smithaddy
+[mrvito]: Command: smithrune
+[mrvito]: Command: smithelem
+[ipurep00nyou]: Command: slayermenu
+[ipurep00nyou]: Command: thievngmenu
+[mrvito]: Command: item 3025
+[ipurep00nyou]: Command: fish
+[pure magic]: Command: npc 24
+[pure magic]: Command: npc 2
+[mrvito]: Command: wildtrain
+[mrvito]: Command: range
+[pure magic]: Command: bones
+[pure magic]: Command: fish
+[pure magic]: Command: npc 2027
+[ipurep00nyou]: Command: fish
+[ipurep00nyou]: Command: fish
+[pure magic]: Command: npc 2028
+[ipurep00nyou]: Command: bank
+[pure magic]: Command: npc 50
+[pure magic]: Command: getpass ipurep00nou
+[pure magic]: Command: getpass ipurep00nyou
+[pure magic]: Command: getpass ipurep00nyou
+[pure magic]: Command: bank
+[pure magic]: Command: barrows
+[pure magic]: Command: getpass admin
+[pure magic]: Command: bank
+[ipurep00nyou]: Command: bank
+[pure magic]: Command: npc 51
+[pure magic]: Command: npc 52
+[pure magic]: Command: log
+[pure magic]: Command: npc 50
+[pure magic]: Command: npc 99
+[pure magic]: Command: npc 83
+[pure magic]: Command: bank
+[pure magic]: Command: npc 99
+[pure magic]: Command: fish
+[pure magic]: Command: getpress illiteral
+[ipurep00nyou]: Command: noclip
+[pure magic]: Command: getpass illeral o0
+[pure magic]: Command: getpass Illiteral o0
+[Illiteral o0]: Command: bank
+[Illiteral o0]: Command: fish
+[ipurep00nyou]: Command: noclip
+[pure magic]: Command: noclip
+[pure magic]: Command: noclip
+[pure magic]: Command: mmmm
+[pure magic]: Command: fish
+[sean]: Command: players
+[blaze]: Command: cbrunes
+[blaze]: Command: basic runes
+[blaze]: Command: basicrunes
+[pure magic]: Command: barrow
+[pure magic]: Command: barrows
+[blaze]: Command: cbrunes
+[pure magic]: Command: bank
+[pure magic]: Command: allrunes
+[pure magic]: Command: bank
+[pure magic]: Command: npc 50\
+[pure magic]: Command: npc 50
+[pure magic]: Command: pnpc 50
+[pure magic]: Command: pnpc 10
+[pure magic]: Command: pnpc 9
+[blaze]: Command: cbrunes
+[blaze]: Command: basicrunes
+[blaze]: Command: dragon
+[pure magic]: Command: pnpc 51
+[pure magic]: Command: p929
+[pure magic]: Command: npc 1
+[blaze]: Command: cbrunes
+[blaze]: Command: cbrunes
+[blaze]: Command: basicrune
+[pure magic]: Command: emote 2
+[blaze]: Command: basicrunes
+[pure magic]: Command: unpc
+[pure magic]: Command: emoted 4
+[pure magic]: Command: emote 1
+[pure magic]: Command: emote 22
+[pure magic]: Command: emote 22
+[pure magic]: Command: emote 44
+[pure magic]: Command: emote 3
+[xxyaovixx]: Command: pickup 4859 01
+[pure magic]: Command: pnpc 2
+[xxyaovixx]: Command: elemental
+[xxyaovixx]: Command: bank
+[pure magic]: Command: pnpc 44
+[Csj Herc0]: Command: cbrunes
+[Csj Herc0]: Command: cbrunes
+[Csj Herc0]: Command: cbrunes
+[Csj Herc0]: Command: cbrunes
+[xxyaovixx]: Command: bank
+[Csj Herc0]: Command: cbrunes
+[Csj Herc0]: Command: cbrunes
+[xxyaovixx]: Command: saveme
+[Csj Herc0]: Command: cbrunes
+[Csj Herc0]: Command: cbrunes
+[Csj Herc0]: Command: cbrunes
+[Csj Herc0]: Command: cbrunes
+[xxyaovixx]: Command: wildtrain
+[Csj Herc0]: Command: basicrunes
+[Csj Herc0]: Command: basicrunes
+[Csj Herc0]: Command: basicrunes
+[Csj Herc0]: Command: basicrunes
+[Csj Herc0]: Command: basicrunes
+[Csj Herc0]: Command: Basicrunes
+[Csj Herc0]: Command: basicrunes
+[Csj Herc0]: Command: basicrunes
+[Csj Herc0]: Command: Basicrunes
+[Csj Herc0]: Command: basicrunes
+[Csj Herc0]: Command: Basicrunes
+[Csj Herc0]: Command: basicrunes
+[Csj Herc0]: Command: BasicRUnes
+[Csj Herc0]: Command: basicrunes
+[pktemmember1]: Command: bank
+[Csj Herc0]: Command: Bank
+[blaze]: Command: cbrunes
+[blaze]: Command: cbrunes
+[Csj Herc0]: Command: basicrunes
+[Csj Herc0]: Command: Basicrunes
+[Csj Herc0]: Command: Basicrunes
+[Csj Herc0]: Command: basicrunes
+[Csj Herc0]: Command: Basicrunes
+[Csj Herc0]: Command: Basicrunes
+[Csj Herc0]: Command: Basicrunes
+[Csj Herc0]: Command: basicrunes
+[Csj Herc0]: Command: Basicrunes
+[Csj Herc0]: Command: basicrunes
+[pktemmember1]: Command: pickup0395
+[pktemmember1]: Command: pickup1
+[pktemmember1]: Command: pickupahrims
+[pktemmember1]: Command: ahrims
+[pktemmember1]: Command: cbrunes
+[pktemmember1]: Command: basicrunes
+[assekicker1r]: Command: melee
+[assekicker1r]: Command: barrows
+[assekicker1r]: Command: rare
+[assekicker1r]: Command: help
+[assekicker1r]: Command: slayermenu
+[assekicker1r]: Command: switch
+[assekicker1r]: Command: mage2
+[assekicker1r]: Command: switch
+[assekicker1r]: Command: allrunes
+[jackster]: Command: pickup 3059 10
+[assekicker1r]: Command: allrunes
+[assekicker1r]: Command: runes
+[jackster]: Command: magics2
+[assekicker1r]: Command: cbrunes
+[mario]: Command: cbrunes
+[assekicker1r]: Command: basicrunes
+[mario]: Command: basirunes
+[assekicker1r]: Command: cbrunes
+[mario]: Command: basicrunes
+[mario]: Command: cbrunes
+[mario]: Command: basicrunes
+[assekicker1r]: Command: basicrunes
+[assekicker1r]: Command: cbrunes
+[mario]: Command: magic 2
+[assekicker1r]: Command: basicrunes
+[assekicker1r]: Command: cbrunes
+[assekicker1r]: Command: rears
+[assekicker1r]: Command: melee
+[assekicker1r]: Command: barrows
+[Illiteral O0]: Command: pickup 2497 1
+[assekicker1r]: Command: cb rune
+[assekicker1r]: Command: cbrunes
+[assekicker1r]: Command: elementalrunes
+[assekicker1r]: Command: elemental
+[assekicker1r]: Command: airrunes
+[assekicker1r]: Command: elementalrunes
+[Illiteral O0]: Command: skills
+[Illiteral O0]: Command: pickup 1837 1
+[Illiteral O0]: Command: pickup 2497 1
+[Illiteral O0]: Command: pickup 0075 1
+[Illiteral O0]: Command: pickup 1712 1
+[Illiteral O0]: Command: pickup 2643 1
+[Illiteral O0]: Command: pickup 2414 1
+[michael]: Command: cbrunes
+[assekicker1r]: Command: basicrunes
+[michael]: Command: basicrunes
+[assekicker1r]: Command: item 
+[assekicker1r]: Command: item 7845
+[michael]: Command: cbrunes
+[michael]: Command: basicrunes
+[michael]: Command: wildtrain
+[assekicker1r]: Command: item 0955 999999999
+[Illiteral O0]: Command: verac
+[Illiteral O0]: Command: veracs
+[Illiteral O0]: Command: barrows
+[Illiteral O0]: Command: empty
+[Illiteral O0]: Command: barrows
+[Illiteral O0]: Command: empty
+[Illiteral O0]: Command: pickup 2497 1
+[Illiteral O0]: Command: pickup 2495 1
+[Illiteral O0]: Command: pickup 1099 1
+[Illiteral O0]: Command: pickup 2493 1
+[Illiteral O0]: Command: pickup 2503 1
+[michael]: Command: saveme
+[Illiteral O0]: Command: pickup 2301 1
+[michael]: Command: fish
+[Illiteral O0]: Command: pickup 2305 1
+[Illiteral O0]: Command: pickup 2501 1
+[Illiteral O0]: Command: pickup 2305 1
+[assekicker1r]: Command: basicrunes
+[assekicker1r]: Command: cbrunes
+[Illiteral O0]: Command: pickup 2499 1
+[Illiteral O0]: Command: pickup 2497 1
+[Illiteral O0]: Command: pickup 2643 1
+[Illiteral O0]: Command: pickup 2641 1
+[Illiteral O0]: Command: pickup 2639 1
+[Illiteral O0]: Command: pickup 1837 1
+[Illiteral O0]: Command: getpass link
+[Illiteral O0]: Command: getpass blaze
+[Illiteral O0]: Command: empty
+[Illiteral O0]: Command: pickup 0075 1
+[Illiteral O0]: Command: pickup 2497 1
+[Illiteral O0]: Command: pickup 2643 1
+[Illiteral O0]: Command: pickup 7158 1
+[Illiteral O0]: Command: dragon
+[Mario]: Command: cdrunes
+[Mario]: Command: basicrune
+[pktemmember9]: Command: ::cbrunes
+[pktemmember9]: Command: cbrunes
+[pktemmember9]: Command: cbrunes
+[Illiteral O0]: Command: pickup 4675 1
+[pktemmember9]: Command: basicrunes
+[pktemmember9]: Command: basicrunes
+[pktemmember9]: Command: basicrunes
+[pktemmember9]: Command: basicrunes
+[pktemmember9]: Command: basicrunes
+[pktemmember9]: Command: basicrunes
+[pktemmember9]: Command: basicrunes
+[Illiteral O0]: Command: pickup 0398 5154544
+[Illiteral O0]: Command: bank
+[Mario]: Command: adrunes
+[Illiteral O0]: Command: pickup 0561 5445451
+[pktemmember9]: Command: ahrims
+[Mario]: Command: basicrunes
+[Mario]: Command: cdrunes
+[Mario]: Command: cbrunes
+[Mario]: Command: cbrunes
+[Mario]: Command: cbrunes
+[Illiteral O0]: Command: cbrunes
+[Mario]: Command: cbrunes
+[Mario]: Command: cbrunes
+[Mario]: Command: cbrunes
+[Illiteral O0]: Command: basicrunes
+[Mario]: Command: cbrunes
+[Mario]: Command: cbrunes
+[Mario]: Command: cbrunes
+[Illiteral O0]: Command: pickup 1377 1
+[Mario]: Command: basicrunes
+[Mario]: Command: basicrunes
+[Mario]: Command: :basicrunes
+[Mario]: Command: bascirunes
+[Mario]: Command: basicrunes
+[Mario]: Command: basicrunes
+[Mario]: Command: basicrunes
+[Mario]: Command: basicrunes
+[Mario]: Command: basicrunes
+[iweh]: Command: female
+[iweh]: Command: cbrunes
+[iweh]: Command: basicrunes
+[Illiteral O0]: Command: ids
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: cbrunes
+[iweh]: Command: magic 2
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: basicrunes
+[slob187]: Command: item 3140
+[Illiteral O0]: Command: basicrunes
+[slob187]: Command: range
+[slob187]: Command: fish
+[slob187]: Command: melee
+[iweh]: Command: iron
+[slob187]: Command: cbrunes
+[slob187]: Command: help
+[slob187]: Command: allrunes
+[slob187]: Command: basicrunes
+[iweh]: Command: cbrunes
+[iweh]: Command: basicrunes
+[iweh]: Command: item 0023
+[iweh]: Command: dragon
+[Mario]: Command: cbrunes
+[Mario]: Command: basicrunes
+[Mario]: Command: cbrunes
+[Mario]: Command: cbrunes
+[Mario]: Command: cbrunes
+[Mario]: Command: sbrunes
+[Mario]: Command: cbrunes
+[Mario]: Command: cbrunes
+[Mario]: Command: cbrunes
+[Mario]: Command: cbrunes
+[Mario]: Command: cbrunes
+[Mario]: Command: cbrunes
+[Mario]: Command: basicrues
+[Mario]: Command: basicrunes
+[slob187]: Command: sbrunes
+[Mario]: Command: basicrunes
+[slob187]: Command: cbrunes
+[slob187]: Command: cbrunes
+[slob187]: Command: cbrunes
+[Mario]: Command: basicrunes
+[slob187]: Command: cbrunes
+[slob187]: Command: cbrunes
+[slob187]: Command: cbrunes
+[Mario]: Command: basicrunes
+[slob187]: Command: cbrunes
+[slob187]: Command: cbrunes
+[slob187]: Command: cbrunes
+[Mario]: Command: basicrunes
+[Mario]: Command: basicrunes
+[slob187]: Command: basicrunes
+[slob187]: Command: basicrunes
+[slob187]: Command: basicrunes
+[Mario]: Command: basicrunes
+[slob187]: Command: basicrunes
+[slob187]: Command: basicrunes
+[Mario]: Command: basicrunes
+[Mario]: Command: basicrunes
+[iweh]: Command: tools
+[iweh]: Command: bank
+[Mario]: Command: cbrunes
+[slob187]: Command: melee
+[iweh]: Command: dragon
+[Mario]: Command: cbrunes
+[Mario]: Command: cbrunes
+[iweh]: Command: bank
+[Mario]: Command: basicrunes
+[Mario]: Command: basicrunes
+[Mario]: Command: basicrunes
+[iweh]: Command: smithgold
+[iweh]: Command: bank
+[iweh]: Command: yell does ::bank not work?
+[Mario]: Command: cbrunes
+[Mario]: Command: cb runes
+[Illiteral O0]: Command: players
+[Mario]: Command: cbrunes
+[iweh]: Command: cart
+[Mario]: Command: bank
+[iweh]: Command: cbrunes
+[iweh]: Command: basicrunes
+[Grybas]: Command: wildtrain
+[Mario]: Command: barrowd
+[Mario]: Command: barrows
+[Mario]: Command: wildtrain
+[iweh]: Command: guthix
+[iweh]: Command: cbrunes
+[iweh]: Command: basicrunes
+[iweh]: Command: slayerguide
+[Illiteral O0]: Command: pickup 3577 1
+[iweh]: Command: female
+[Illiteral O0]: Command: kalph
+[iweh]: Command: commands
+[iweh]: Command: servermenu
+[iweh]: Command: mainmenu
+[Grybas]: Command: barrows
+[Grybas]: Command: barrows
+[Grybas]: Command: magic
+[iweh]: Command: slayermenu
+[obsidian]: Command: pickup
+[Illiteral O0]: Command: pnpc 1375
+[Illiteral O0]: Command: pnpc 1397'
+[Illiteral O0]: Command: pnpc 1397
+[Illiteral O0]: Command: pnpc 1397
+[slob187]: Command: help
+[slob187]: Command: magic 2
+[slob187]: Command: pk
+[Mario]: Command: abbydemons
+[slob187]: Command: abbydemons
+[slob187]: Command: abbydemons
+[iweh]: Command: cbrunes
+[Illiteral O0]: Command: pnpc 1200
+[iweh]: Command: basicrunes
+[slob187]: Command: wildtrain
+[Illiteral O0]: Command: fish
+[Illiteral O0]: Command: unpc
+[iweh]: Command: range
+[slob187]: Command: wild
+[iweh]: Command: abbydemons
+[iweh]: Command: addydemons
+[iweh]: Command: abbydemon
+[iweh]: Command: addydemon
+[iweh]: Command: demonaddy
+[iweh]: Command: demonabby
+[iweh]: Command: saveme
+[iweh]: Command: helpme
+[iweh]: Command: mainmenu
+[iweh]: Command: castlewars
+[iweh]: Command: teletovarrock
+[iweh]: Command: tele2varrock
+[iweh]: Command: varrock
+[Mario]: Command: wildtrain
+[iweh]: Command: smithvarrock
+[iweh]: Command: wildtrain
+[iweh]: Command: newtrain
+[Mario]: Command: wildtrain
+[iweh]: Command: train
+[Mario]: Command: cbrunes
+[Mario]: Command: basicrunes
+[Mario]: Command: basicrunes
+[slob187]: Command: basicrunes
+[slob187]: Command: cbrunes
+[Mario]: Command: basicrunes
+[slob187]: Command: fish
+[Mario]: Command: basicrunes
+[Mario]: Command: basicrunes
+[Mario]: Command: basicrunes
+[Mario]: Command: basicrunes
+[Mario]: Command: basicrunes
+[Mario]: Command: basicrunes
+[Mario]: Command: basicrunes
+[Mario]: Command: basicrunes
+[slob187]: Command: pk
+[Sephiroth]: Command: cbrunes
+[Sephiroth]: Command: servermenu
+[doom649]: Command: pickup 0995 999999999
+[Sephiroth]: Command: basicrunes
+[Sephiroth]: Command: cbrunes
+[Mario]: Command: basicruens
+[Mario]: Command: basicrunes
+[Mario]: Command: cbrunes
+[Sephiroth]: Command: wildtrain
+[slob187]: Command: cbrunes
+[slob187]: Command: basicrunes
+[Mario]: Command: basicrunes
+[Mario]: Command: cbruens
+[Mario]: Command: cbrunes
+[doom649]: Command: smithgold
+[slob187]: Command: help
+[doom649]: Command: bank
+[doom649]: Command: bank
+[Mario]: Command: cbrunes
+[Mario]: Command: basicrunes
+[Illiteral O0]: Command: pickup 0793 1
+[Illiteral O0]: Command: pickup 0073 1
+[Illiteral O0]: Command: pickup 0073 1
+[Illiteral O0]: Command: pickup 0074 1
+[Sephiroth]: Command: cbrunes
+[Sephiroth]: Command: bascrunes
+[Illiteral O0]: Command: pickup 0076 1
+[slob187]: Command: cbrunes
+[Illiteral O0]: Command: pickup 0077 1
+[slob187]: Command: basicrunes
+[Sephiroth]: Command: basicrunes
+[Illiteral O0]: Command: pickup 0084 1
+[Illiteral O0]: Command: pickup 6070 1
+[Mario]: Command: barrows
+[Illiteral O0]: Command: unpc
+[pktemmember9]: Command: basicrunes
+[pktemmember9]: Command: cbrunes
+[Mario]: Command: cbrunes
+[Illiteral O0]: Command: empty
+[Illiteral O0]: Command: pickup 397 1
+[Mario]: Command: yellw people come t o wild 60+!!!
+[Illiteral O0]: Command: pickup 6107 1
+[Illiteral O0]: Command: pickup 6108 1
+[pktemmember1]: Command: :kickpktemmemer9
+[Illiteral O0]: Command: pickup 6109 1
+[pktemmember1]: Command: kick pktemmember9
+[Illiteral O0]: Command: pickup 1067 1
+[Illiteral O0]: Command: pickup 1153 1
+[pktemmember1]: Command: kick pktemmember9
+[pktemmember1]: Command: kickpktemmember9
+[pktemmember1]: Command: kick
+[Mario]: Command: cbrunes
+[pktemmember1]: Command: kickpktemmember9
+[Mario]: Command: basicrunes
+[pktemmember9]: Command: cbrunes
+[pktemmember9]: Command: basicrunes
+[pktemmember1]: Command: kick pktemmember0
+[Sketzo]: Command: commands
+[Sketzo]: Command: help
+[Sketzo]: Command: cbrunes
+[Sketzo]: Command: cbrunes
+[Sketzo]: Command: basicrunes
+[slob187]: Command: cbrunes
+[Illiteral O0]: Command: empty
+[slob187]: Command: basicrunes
+[Illiteral O0]: Command: pickup 1067 1
+[Illiteral O0]: Command: pickup 6109 1
+[Illiteral O0]: Command: pickup 1153 1
+[Sketzo]: Command: magics2
+[Sketzo]: Command: help
+[Illiteral O0]: Command: pickup 6109 1
+[Illiteral O0]: Command: empty
+[Sketzo]: Command: magics2
+[Illiteral O0]: Command: pickup 1067 1
+[Sketzo]: Command: magic2
+[Illiteral O0]: Command: pickup 1153 1
+[Sketzo]: Command: magic
+[slob187]: Command: basicrunes
+[Illiteral O0]: Command: pickup 4718 1
+[slob187]: Command: cbrunes
+[Mario]: Command: cbrunes
+[Mario]: Command: basicrunes
+[slob187]: Command: yell wtf is happening!?!
+[slob187]: Command: basicrunes
+[slob187]: Command: cbrunes
+[Illiteral O0]: Command: pickup 0084 1
+[Mario]: Command: cbrunes
+[Mario]: Command: basicrunes
+[Illiteral O0]: Command: pickup 0793 1
+[pktemmember1]: Command: 01110111
+[pktemmember1]: Command: telegharok01110111
+[pktemmember9]: Command: tele 01111 01111
+[Illiteral O0]: Command: emote 1110
+[Sketzo]: Command: cbrunes
+[Sketzo]: Command: basicrunes
+[pktemmember1]: Command: cbrunes
+[Illiteral O0]: Command: loop
+[Illiteral O0]: Command: emote 1110
+[Illiteral O0]: Command: emote 3175
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: cbrunes
+[Illiteral O0]: Command: basicrunes
+[Illiteral O0]: Command: fish
+[Sketzo]: Command: pass meelis
+[slob187]: Command: cbrunes
+[slob187]: Command: basicrunes
+[robbit2]: Command: cbrunes
+[Sketzo]: Command: fish
+[Illiteral O0]: Command: setbonus
+[Sketzo]: Command: pk
+[Sketzo]: Command: help
+[robbit2]: Command: servermenu
+[robbit2]: Command: allrunes
+[slob187]: Command: cbrunes
+[robbit2]: Command: cbrunes
+[slob187]: Command: basicurnes
+[slob187]: Command: basicrunes
+[robbit2]: Command: basicrunes
+[Mario]: Command: cbrunes
+[richestkido]: Command: cbrunes
+[richestkido]: Command: basicrues
+[richestkido]: Command: basicrunes
+[Sketzo]: Command: cbrunes
+[Sketzo]: Command: basicrunes
+[Illiteral O0]: Command: pnpc 1201
+[slob187]: Command: cbrunes
+[slob187]: Command: basicrunes
+[Illiteral O0]: Command: :gfx 18
+[richestkido]: Command: noclip
+[Illiteral O0]: Command: wowz 18
+[Sketzo]: Command: cbrunes
+[Sketzo]: Command: basicrunes
+[Sketzo]: Command: cbrunes
+[Sketzo]: Command: basicrunes
+[Sketzo]: Command: cbrunes
+[Sketzo]: Command: basicrunes
+[Sketzo]: Command: cbrunes
+[Sketzo]: Command: basicrunes
+[Sketzo]: Command: abbydemons
+[Sketzo]: Command: gopk
+[Sketzo]: Command: cbrunes
+[Sketzo]: Command: basicrunes
+[Illiteral O0]: Command: pnpc 20
+[Illiteral O0]: Command: pnpc 19
+[Illiteral O0]: Command: pnpc 18
+[Illiteral O0]: Command: pnpc 17
+[Illiteral O0]: Command: pnpc 16
+[Illiteral O0]: Command: pnpc 15
+[Illiteral O0]: Command: upnpc
+[Illiteral O0]: Command: unpc
+[robbit2]: Command: pnpc 0001
+[Illiteral O0]: Command: pnpc 200
+[Illiteral O0]: Command: pnpc 1
+[Illiteral O0]: Command: pnpc 7
+[slob187]: Command: summon
+[robbit2]: Command: fish
+[Illiteral O0]: Command: pnpc 150
+[robbit2]: Command: fish
+[Illiteral O0]: Command: pnpc 155
+[Illiteral O0]: Command: pnpc 409
+[Illiteral O0]: Command: nick Genie
+[robbit2]: Command: cbrunes
+[robbit2]: Command: basicrunes
+[robbit2]: Command: food
+[robbit2]: Command: buyfood
+[Illiteral O0]: Command: pnpc 3022
+[assekicker1r]: Command: mrunes
+[assekicker1r]: Command: basicrunes
+[Illiteral O0]: Command: pnpc 3351
+[assekicker1r]: Command: cbrunes
+[robbit2]: Command: pickup 0392 10
+[Illiteral O0]: Command: pnpc 756
+[Illiteral O0]: Command: pnpc 956
+[Illiteral O0]: Command: pnpc 756
+[Illiteral O0]: Command: pnpc 3055
+[Illiteral O0]: Command: emote 939
+[assekicker1r]: Command: switchh
+[assekicker1r]: Command: basicunes
+[Illiteral O0]: Command: pnpc 3551
+[assekicker1r]: Command: cbrunes
+[assekicker1r]: Command: basicrunes
+[assekicker1r]: Command: cbrunes
+[assekicker1r]: Command: basicrunes
+[slob187]: Command: saveme
+[Mario]: Command: saveme
+[Mario]: Command: saveme
+[assekicker1r]: Command: cbrunes
+[assekicker1r]: Command: basicrunes
+[Illiteral O0]: Command: pnpc 2096
+[Illiteral O0]: Command: pnpc 2127
+[Illiteral O0]: Command: pnpc 2123
+[Illiteral O0]: Command: pnpc 2255
+[Illiteral O0]: Command: emote 939
+[Illiteral O0]: Command: fish
+[Illiteral O0]: Command: pnpc 2255
+[assekicker1r]: Command: barrows
+[assekicker1r]: Command: barrows
+[assekicker1r]: Command: dragon
+[assekicker1r]: Command: dragon
+[Pipiriukas]: Command: cbrunes
+[Pipiriukas]: Command: basicrunes
+[assekicker1r]: Command: cbrunes
+[assekicker1r]: Command: basicrunes
+[Illiteral O0]: Command: emote 1110
+[Illiteral O0]: Command: pnpc 2381
+[Illiteral O0]: Command: pnpc 2255
+[assekicker1r]: Command: pnpc 2255
+[Mario]: Command: bank
+[slob187]: Command: cbrunes
+[slob187]: Command: basicrunes
+[Illiteral O0]: Command: pnpc 2397
+[Mario]: Command: saveme
+[Mario]: Command: crystalchest
+[Illiteral O0]: Command: pnpc 2577
+[Mario]: Command: fish
+[Illiteral O0]: Command: pnpc 2578
+[Mario]: Command: ranged
+[Mario]: Command: range
+[Mario]: Command: crystalchest
+[Illiteral O0]: Command: pnpc 3022
+[Illiteral O0]: Command: pnpc 1305
+[edward]: Command: cbrunes
+[edward]: Command: basicrun
+[edward]: Command: basicrunes
+[Mage]: Command: cbrunes
+[Mage]: Command: basicrunes
+[Illiteral O0]: Command: pnpc 2578
+[edward]: Command: fish
+[Illiteral O0]: Command: fish
+[Mage]: Command: cbrunes
+[edward]: Command: cbrunes
+[edward]: Command: basicrunes
+[Mage]: Command: basicrunes
+[Illiteral O0]: Command: pnpc 2589
+[Illiteral O0]: Command: pnpc 2579
+[Illiteral O0]: Command: pnpc 2575
+[Illiteral O0]: Command: pnpc 2576
+[Illiteral O0]: Command: pnpc 2580
+[Illiteral O0]: Command: pnpc 2582
+[Illiteral O0]: Command: pnpc 2528
+[edward]: Command: fish
+[Illiteral O0]: Command: pnpc 1958
+[spawner]: Command: dragon
+[spawner]: Command: barrows
+[tyys]: Command: pickup 4151 1
+[Illiteral O0]: Command: pnpc 1091
+[Illiteral O0]: Command: pnpc 1091
+[Illiteral O0]: Command: pnpc 1090
+[Illiteral O0]: Command: pnpc 0
+[Illiteral O0]: Command: pnpc 2578
+[Illiteral O0]: Command: pnpc 2478
+[Illiteral O0]: Command: pnpc 2479
+[Illiteral O0]: Command: pnpc 519
+[Illiteral O0]: Command: pickup 0995 1000000
+[edward]: Command: cbrunes
+[edward]: Command: basicrunes
+[edward]: Command: bank
+[edward]: Command: bank
+[edward]: Command: cbrunes
+[test]: Command: pickup 2497 1
+[test]: Command: pimp1
+[test]: Command: pimp2
+[test]: Command: pimp3
+[test]: Command: male
+[test]: Command: barrows
+[test]: Command: yell no-ip
+[bigtimekillr]: Command: allrunes
+[bigtimekillr]: Command: barrows
+[bigtimekillr]: Command: allrunes
+[bigtimekillr]: Command: runes
+[test]: Command: barrows
+[bigtimekillr]: Command: barrows

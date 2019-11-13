@@ -1,0 +1,99 @@
+[ACCOUNT]
+character-username = sabaflaba
+character-password = 164-81-148-80-8-122-11-21-193-107-130-61-181-197-67-159
+
+[CHARACTER]
+character-height = 0
+character-posx = 3253
+character-posy = 3420
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = pool-68-238-183-94.phil.east.verizon.net
+character-lastlogin = 20060803
+character-energy = 8
+character-gametime = 0
+character-gamecount = 13793
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	71	871488
+character-skill = 1	60	277200
+character-skill = 2	70	744632
+character-skill = 3	6	15093979
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	24	7816
+character-skill = 7	1	0
+character-skill = 8	1	25
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	50
+character-skill = 18	65	463500
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 1	4719	1
+
+[BANK]
+character-bank = 0	4088	1
+character-bank = 1	3390	2
+character-bank = 2	3388	2
+character-bank = 3	3392	2
+character-bank = 4	1053	1
+character-bank = 5	3394	2
+character-bank = 6	1713	2
+character-bank = 7	3386	2
+character-bank = 8	2891	1
+character-bank = 9	1512	1
+character-bank = 10	1352	1
+character-bank = 11	996	426938
+character-bank = 12	4676	3
+character-bank = 13	6919	1
+character-bank = 14	6925	1
+character-bank = 15	6917	1
+character-bank = 16	4085	1
+character-bank = 17	6921	1
+character-bank = 18	398	1
+character-bank = 19	1188	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

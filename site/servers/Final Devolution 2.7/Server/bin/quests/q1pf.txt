@@ -1,0 +1,18 @@
+@gre@   Where Am I?                        Quest
+
+@gre@Congradulations!!!!!!!!!!!!
+
+@gre@ You Have Gotten out of the docks! And now can
+@gre@ start your adventure!
+@gre@ Hans gave you some Items before you got teleported.
+@gre@ When you see him again thank him.
+
+@blu@ Rewards:
+75  -  Arrows
+1   -  Bow
+1   -  Bronze Sword
+50  -  Lobsters
+50k -  Gold Pieces
+100 -  Air Runes
+100 -  Mind Runes
+50  -  Chaos Runes

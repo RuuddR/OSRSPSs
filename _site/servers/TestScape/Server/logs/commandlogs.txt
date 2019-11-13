@@ -1,0 +1,3 @@
+[test]: Command: help
+[test]: Command: shopmenu
+[test]: Command: moneyshop

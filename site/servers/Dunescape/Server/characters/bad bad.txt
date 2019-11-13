@@ -1,0 +1,79 @@
+[ACCOUNT]
+character-username = bad bad
+character-password = 186-230-9-152-255-228-146-59-19-30-61-110-76-25-153-62
+
+[CHARACTER]
+character-height = 0
+character-posx = 3295
+character-posy = 3877
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = ppp-70-253-73-115.dsl.austtx.swbell.net
+character-lastlogin = 20060803
+character-energy = 50
+character-gametime = 0
+character-gamecount = 3101
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	1	4
+character-skill = 1	1	0
+character-skill = 2	1	0
+character-skill = 3	28	14000001
+character-skill = 4	1	0
+character-skill = 5	0	0
+character-skill = 6	74	1164470
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	213600
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

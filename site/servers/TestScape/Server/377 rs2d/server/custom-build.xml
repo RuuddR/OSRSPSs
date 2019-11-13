@@ -1,0 +1,45 @@
+<project name="rs2d" default="dist" basedir=".">
+	<description>
+		Varek's rs2d build file.
+	</description>
+	<!-- set global properties for this build -->
+	<property name="src" location="src"/>
+	<property name="build" location="build"/>
+	<property name="dist"  location="dist"/>
+	
+	<target name="init">
+		<!-- Create the time stamp -->
+		<tstamp/>
+	</target>
+	
+	<target name="compile" depends="init" description="compile the source">
+		<mkdir dir="${build}"/>
+		<!-- Compile the java code from ${src} into ${build} -->
+		<javac srcdir="${src}" destdir="${build}" listfiles="true">
+			<classpath>
+				<fileset dir="lib" includes="**/*.jar"/>
+			</classpath>
+		</javac>
+	</target>
+	
+	<target name="dist" depends="compile" description="generate the distribution" >
+		<mkdir dir="${dist}"/>
+		<jar jarfile="${dist}/rs2d.jar" basedir="${build}"/>
+	</target>
+	
+	<target name="run" description="run the rs2d server">
+		<java classname="${mainclass}" fork="true" maxmemory="200m">
+			<jvmarg line="-Djava.nio.channels.spi.SelectorProvider=sun.nio.ch.EPollSelectorProvider -XX:+AggressiveOpts -XX:+UseParallelGC -XX:+UseBiasedLocking -XX:NewSize=64m"/>
+			<classpath>
+				<fileset dir="lib" includes="**/*.jar"/>
+				<pathelement path="dist/rs2d.jar"/>
+			</classpath>
+		</java>
+	</target>
+	
+	<target name="clean" description="clean up" >
+		<!-- Delete the ${build} and ${dist} directory trees -->
+		<delete dir="${build}"/>
+		<delete dir="${dist}"/>
+	</target>
+</project>

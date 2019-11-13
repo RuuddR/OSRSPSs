@@ -1,0 +1,87 @@
+[ACCOUNT]
+character-username = lolnoob1
+character-password = 62-71-183-80-0-176-146-75-108-155-165-117-154-124-241-93
+
+[CHARACTER]
+character-height = 0
+character-posx = 3000
+character-posy = 3933
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = 84-50-22-101-dsl.kjj.estpak.ee
+character-lastlogin = 20061103
+character-energy = 24
+character-gametime = 0
+character-gamecount = 2986
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	1231	1	
+character-equip = 4	-1	0	
+character-equip = 5	2890	1	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	61	153750
+character-skill = 1	60	144750
+character-skill = 2	1	0
+character-skill = 3	99	14712800
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	4	162
+character-skill = 17	1	10
+character-skill = 18	70	380100
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	3394	1
+character-item = 1	3392	1
+character-item = 2	4676	1
+character-item = 3	3386	1
+character-item = 4	1713	1
+character-item = 5	3388	1
+character-item = 6	3390	1
+character-item = 7	1053	1
+character-item = 9	996	130080
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

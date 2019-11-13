@@ -1,0 +1,122 @@
+[ACCOUNT]
+character-username = magic z
+character-password = andreas
+
+[CHARACTER]
+character-height = 0
+character-posx = 2897
+character-posy = 3510
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = ti211110a081-4427.bb.online.no
+character-lastlogin = 20080030
+character-energy = 100
+character-gametime = 0
+character-gamecount = 7274
+
+[EQUIPMENT]
+character-equip = 0	1042	1	
+character-equip = 1	14079	1	
+character-equip = 2	1704	0	
+character-equip = 3	7158	1	
+character-equip = 4	15348	1	
+character-equip = 5	13601	1	
+character-equip = 6	-1	0	
+character-equip = 7	4751	1	
+character-equip = 8	-1	0	
+character-equip = 9	775	1	
+character-equip = 10	15352	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	95	4569600
+character-skill = 1	76	716550
+character-skill = 2	81	1136450
+character-skill = 3	88	2267955
+character-skill = 4	80	1011000
+character-skill = 5	65	240750
+character-skill = 6	99	1355359744
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	9	560
+character-skill = 18	40	19740
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	1437	1
+character-item = 1	1437	1
+character-item = 2	1437	1
+character-item = 3	1437	1
+character-item = 4	1437	1
+character-item = 5	1437	1
+character-item = 6	1437	1
+character-item = 7	1437	1
+character-item = 8	996	5013794
+character-item = 9	1437	1
+character-item = 10	1437	1
+character-item = 11	2553	1
+
+[BANK]
+character-bank = 0	392	1498
+character-bank = 1	1172	1
+character-bank = 2	14540	2
+character-bank = 3	14639	1
+character-bank = 4	1022	1
+character-bank = 5	3841	1
+character-bank = 6	14539	1
+character-bank = 7	1324	1
+character-bank = 8	14113	1
+character-bank = 9	1053	1
+character-bank = 10	14122	1
+character-bank = 11	14104	1
+character-bank = 12	14095	1
+character-bank = 13	14128	1
+character-bank = 14	14134	1
+character-bank = 15	14086	1
+character-bank = 16	14110	1
+character-bank = 17	14074	1
+character-bank = 18	14077	1
+character-bank = 19	14125	1
+character-bank = 20	15351	1
+character-bank = 21	7387	1
+character-bank = 22	14089	1
+character-bank = 23	15335	2
+character-bank = 24	1041	1
+character-bank = 25	1047	1
+character-bank = 26	1188	1
+character-bank = 27	1150	1
+character-bank = 28	15350	1
+character-bank = 29	1045	1
+character-bank = 30	4586	1
+
+[FRIENDS]
+character-friend = 0	2659219654695
+
+[IGNORES]
+
+[EOF]
+

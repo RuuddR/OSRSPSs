@@ -1,0 +1,84 @@
+[ACCOUNT]
+character-username = b-rock
+character-password = 38-10-115-138-228-135-253-160-158-83-245-88-68-229-166-216
+
+[CHARACTER]
+character-height = 0
+character-posx = 3254
+character-posy = 3420
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = 65-73-38-131.bras01.rnd.wi.frontiernet.net
+character-lastlogin = 20061105
+character-energy = 6
+character-gametime = 0
+character-gamecount = 15404
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	60	144750
+character-skill = 1	1	0
+character-skill = 2	57	109800
+character-skill = 3	99	15118664
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	99	14440680
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	68	328350
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	4100	3
+character-bank = 1	4108	5
+character-bank = 2	996	36135
+character-bank = 3	4719	1
+
+[FRIENDS]
+character-friend = 0	2108947923433780
+character-friend = 1	799019294424
+
+[IGNORES]
+
+[EOF]
+

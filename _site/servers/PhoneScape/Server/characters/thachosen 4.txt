@@ -1,0 +1,88 @@
+[ACCOUNT]
+character-username = thachosen 4
+character-password = 249-238-197-39-52-7-32-204-207-16-202-150-12-241-122-93
+
+[CHARACTER]
+character-height = 0
+character-posx = 3210
+character-posy = 3424
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = cpe-76-168-89-179.socal.res.rr.com
+character-lastlogin = 20061103
+character-energy = 14
+character-gametime = 0
+character-gamecount = 1670
+
+[EQUIPMENT]
+character-equip = 0	6918	1	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	3387	1	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	1	0
+character-skill = 2	1	0
+character-skill = 3	1	14000004
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	87	2025870
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	4566	1
+character-bank = 1	3386	1
+character-bank = 2	1713	1
+character-bank = 3	3388	1
+character-bank = 4	4676	1
+character-bank = 5	3392	1
+character-bank = 6	1053	1
+character-bank = 7	2891	1
+character-bank = 8	3394	1
+character-bank = 9	3390	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

@@ -1,0 +1,104 @@
+[ACCOUNT]
+character-username = croc
+character-password = 156-250-199-84-185-52-152-212-45-168-200-178-6-123-178-100
+
+[CHARACTER]
+character-height = 0
+character-posx = 2893
+character-posy = 3545
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = 5ac43623.bb.sky.com
+character-lastlogin = 20080103
+character-energy = 100
+character-gametime = 0
+character-gamecount = 16882
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	85	3445900
+character-skill = 1	70	741200
+character-skill = 2	99	13084050
+character-skill = 3	91	6096855
+character-skill = 4	1	0
+character-skill = 5	0	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	99	13280500
+character-skill = 9	65	452040
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	26	8990
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	386	1
+
+[BANK]
+character-bank = 0	7463	1
+character-bank = 1	6740	1
+character-bank = 2	14102	1
+character-bank = 3	1053	1
+character-bank = 4	6890	1
+character-bank = 5	545	1
+character-bank = 6	3106	1
+character-bank = 7	543	1
+character-bank = 9	15350	1
+character-bank = 10	15337	1
+character-bank = 11	2441	1
+character-bank = 12	2437	1
+character-bank = 13	15196	1
+character-bank = 14	14134	1
+character-bank = 15	13602	1
+character-bank = 16	14508	1
+character-bank = 17	14509	1
+character-bank = 18	14512	1
+character-bank = 19	14513	1
+character-bank = 20	5699	1
+character-bank = 21	14514	1
+character-bank = 22	15349	1
+character-bank = 23	996	1275017482
+
+[FRIENDS]
+character-friend = 0	1603650907558768857
+character-friend = 1	616153990307
+
+[IGNORES]
+
+[EOF]
+

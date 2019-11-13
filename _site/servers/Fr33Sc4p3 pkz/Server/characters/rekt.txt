@@ -1,0 +1,102 @@
+[ACCOUNT]
+character-username = rekt
+character-password = 183-200-181-132-82-21-222-232-67-5-244-49-50-5-98-132
+
+[CHARACTER]
+character-height = 0
+character-posx = 3100
+character-posy = 3939
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = 127.0.0.1
+character-lastlogin = 20141124
+character-energy = 23
+character-gametime = 0
+character-gamecount = 1798
+
+[EQUIPMENT]
+character-equip = 0	1055	1	
+character-equip = 1	6570	1	
+character-equip = 2	6585	0	
+character-equip = 3	-1	0	
+character-equip = 4	4757	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	4087	0	
+character-equip = 8	-1	0	
+character-equip = 9	6922	0	
+character-equip = 10	6920	1	
+character-equip = 11	-1	0	
+character-equip = 12	6735	1	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	25	8501
+character-skill = 1	1	1
+character-skill = 2	1	1
+character-skill = 3	50	14841501
+character-skill = 4	1	0
+character-skill = 5	99	13912619
+character-skill = 6	67	596100
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	25	8500
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	634571558
+character-item = 1	6584	1
+character-item = 2	2578	1
+character-item = 3	2582	1
+character-item = 4	1051	1
+character-item = 5	1054	1
+character-item = 6	1058	1
+character-item = 7	4833	1
+character-item = 8	4833	1
+character-item = 9	4833	1
+character-item = 10	4833	1
+character-item = 11	4833	1
+character-item = 13	4833	1
+character-item = 14	4833	1
+character-item = 15	4833	1
+character-item = 17	4833	1
+character-item = 18	4833	1
+character-item = 19	4833	1
+character-item = 20	4833	1
+character-item = 21	4833	1
+character-item = 22	4833	1
+character-item = 23	4833	1
+character-item = 26	4833	1
+character-item = 27	4833	1
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

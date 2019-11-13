@@ -1,0 +1,90 @@
+[ACCOUNT]
+character-username = Dakafall
+character-password = 38-185-65-170-129-39-0-75-79-207-181-163-249-17-69-107
+
+[CHARACTER]
+character-height = 2
+character-posx = 3237
+character-posy = 9525
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = DAKA
+character-lastlogin = 20061109
+character-energy = 100
+character-gametime = 0
+character-gamecount = 15798
+
+[EQUIPMENT]
+character-equip = 0	6621	1	
+character-equip = 1	1052	1	
+character-equip = 2	-1	0	
+character-equip = 3	6607	1	
+character-equip = 4	6617	1	
+character-equip = 5	6633	1	
+character-equip = 6	-1	0	
+character-equip = 7	6625	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	6619	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	96	10126608
+character-skill = 1	84	3239400
+character-skill = 2	83	2788268
+character-skill = 3	26	30817140
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	102	18769800
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	6917	1
+character-item = 1	6919	1
+character-item = 3	4152	1
+character-item = 4	6925	1
+character-item = 5	996	74951260
+character-item = 6	1713	1
+character-item = 7	6923	1
+character-item = 8	6921	1
+character-item = 9	6616	1
+character-item = 10	774	1
+character-item = 17	6107	1
+
+[BANK]
+
+[FRIENDS]
+character-friend = 0	527776
+
+[IGNORES]
+
+[EOF]
+

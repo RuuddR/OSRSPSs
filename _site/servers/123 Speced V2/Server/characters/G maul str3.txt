@@ -1,0 +1,101 @@
+[ACCOUNT]
+character-username = G maul str3
+character-password = 100-212-242-177-40-160-141-28-250-94-8-189-241-211-0-135
+
+[CHARACTER]
+character-height = 0
+character-posx = 3101
+character-posy = 3960
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = 53546135.cable.casema.nl
+character-lastlogin = 20080103
+character-energy = 100
+character-gametime = 0
+character-gamecount = 9154
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	60	280500
+character-skill = 1	1	0
+character-skill = 2	73	1022550
+character-skill = 3	70	737655
+character-skill = 4	70	756040
+character-skill = 5	1	0
+character-skill = 6	41	42640
+character-skill = 7	1	0
+character-skill = 8	99	15511500
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	2	140
+character-skill = 18	23	6580
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	557	36
+character-bank = 1	559	37
+character-bank = 2	6109	1
+character-bank = 3	5699	1
+character-bank = 4	1322	1
+character-bank = 5	6740	1
+character-bank = 6	6108	1
+character-bank = 7	3841	1
+character-bank = 8	1838	1
+character-bank = 9	14134	1
+character-bank = 10	13801	1
+character-bank = 11	3843	1
+character-bank = 12	3106	1
+character-bank = 13	862	1
+character-bank = 14	4588	1
+character-bank = 15	543	1
+character-bank = 16	545	1
+character-bank = 17	1726	1
+character-bank = 18	2498	1
+character-bank = 19	893	209
+character-bank = 20	2492	1
+character-bank = 21	996	4688995
+character-bank = 22	2652	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

@@ -1,0 +1,82 @@
+[ACCOUNT]
+character-username = turok
+character-password = 140-228-177-107-34-181-136-148-170-134-196-33-232-117-157-243
+
+[CHARACTER]
+character-height = 0
+character-posx = 3250
+character-posy = 3433
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = adsl-69-154-55-69.dsl.wacotx.swbell.net
+character-lastlogin = 20060101
+character-energy = 5
+character-gametime = 0
+character-gamecount = 2694
+
+[EQUIPMENT]
+character-equip = 0	7394	1	
+character-equip = 1	1052	0	
+character-equip = 2	1712	0	
+character-equip = 3	4675	1	
+character-equip = 4	7390	1	
+character-equip = 5	2890	0	
+character-equip = 6	-1	0	
+character-equip = 7	7386	1	
+character-equip = 8	-1	0	
+character-equip = 9	7460	1	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	71	411600
+character-skill = 1	1	0
+character-skill = 2	70	380100
+character-skill = 3	99	16880900
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	79	941850
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	30577
+
+[BANK]
+character-bank = 0	3392	1
+character-bank = 1	3386	1
+character-bank = 2	3388	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

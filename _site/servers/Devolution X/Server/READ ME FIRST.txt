@@ -1,0 +1,8 @@
+This server was made from devolution 7.0, I (killamess) have remade this server to be used for stable and common rsps
+
+YOU MUST COMPILE THE SERVER FIRST
+
+to change exp search for DAMAGENPC() { and DAMAGEPVP() {
+in there change the numbers.
+changing the port, go to server.ini and its in there, DO NOT change the one in server.java
+changing the max amount of players. open server.java and find maxconnections = 1000 and change the number to how many people you will allow to join, please note you must go 1 higher then the number you want, example 50 is 51.

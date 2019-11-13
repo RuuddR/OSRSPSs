@@ -1,0 +1,138 @@
+[ACCOUNT]
+character-username = gus bus
+character-password = 203-212-79-139-91-72-165-31-125-171-152-171-205-244-93-78
+
+[CHARACTER]
+character-height = 0
+character-posx = 3252
+character-posy = 3435
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = ip68-98-54-147.ph.ph.cox.net
+character-lastlogin = 20061105
+character-energy = 5
+character-gametime = 0
+character-gamecount = 29859
+
+[EQUIPMENT]
+character-equip = 0	7594	1	
+character-equip = 1	6570	1	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	7592	1	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	7593	1	
+character-equip = 8	-1	0	
+character-equip = 9	7595	1	
+character-equip = 10	7596	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	81	1170000
+character-skill = 1	77	791850
+character-skill = 2	79	906300
+character-skill = 3	76	20237000
+character-skill = 4	1	0
+character-skill = 5	39	16940
+character-skill = 6	99	7614274
+character-skill = 7	5	210
+character-skill = 8	16	1525
+character-skill = 9	1	0
+character-skill = 10	3	90
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	46	35555
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	9	580
+character-skill = 18	92	3507900
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	6740	1
+character-bank = 1	230	5
+character-bank = 2	953	1
+character-bank = 3	7159	1
+character-bank = 4	3205	1
+character-bank = 5	1378	1
+character-bank = 6	4588	1
+character-bank = 7	4835	63
+character-bank = 8	306	2
+character-bank = 9	2504	1
+character-bank = 10	2498	1
+character-bank = 11	2492	1
+character-bank = 12	6569	1
+character-bank = 13	6525	1
+character-bank = 14	5575	1
+character-bank = 15	1352	1
+character-bank = 16	302	1
+character-bank = 17	2947	1
+character-bank = 18	4180	1
+character-bank = 19	1439	1
+character-bank = 20	312	1
+character-bank = 21	2390	1
+character-bank = 22	591	1
+character-bank = 23	1756	1
+character-bank = 24	947	1
+character-bank = 25	1778	1
+character-bank = 26	2358	3
+character-bank = 27	2594	1
+character-bank = 28	3484	2
+character-bank = 29	2592	2
+character-bank = 30	3489	1
+character-bank = 31	2618	1
+character-bank = 32	2628	1
+character-bank = 33	2608	1
+character-bank = 34	2614	1
+character-bank = 35	2630	1
+character-bank = 36	2616	1
+character-bank = 37	2598	1
+character-bank = 38	3487	1
+character-bank = 39	2610	1
+character-bank = 40	2596	1
+character-bank = 41	2626	1
+character-bank = 42	2622	1
+character-bank = 43	2612	1
+character-bank = 44	2620	1
+character-bank = 45	5576	1
+character-bank = 46	5577	1
+character-bank = 47	2998	1
+character-bank = 48	3752	1
+character-bank = 49	7463	1
+character-bank = 50	4713	1
+character-bank = 51	4152	1
+character-bank = 52	2348	1
+character-bank = 53	996	10115154
+character-bank = 54	6586	1
+character-bank = 55	366	7
+character-bank = 56	4715	1
+character-bank = 57	3106	1
+character-bank = 58	7536	1
+
+[FRIENDS]
+character-friend = 0	2108947923433780
+
+[IGNORES]
+
+[EOF]
+

@@ -1,0 +1,81 @@
+[ACCOUNT]
+character-username = slayer68
+character-password = 112-4-75-217-124-167-255-216-89-16-13-10-88-84-147-215
+
+[CHARACTER]
+character-height = 0
+character-posx = 3253
+character-posy = 3422
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = adsl-1-96-192.bna.bellsouth.net
+character-lastlogin = 20061102
+character-energy = 100
+character-gametime = 0
+character-gamecount = 22830
+
+[EQUIPMENT]
+character-equip = 0	3751	1	
+character-equip = 1	6568	1	
+character-equip = 2	1712	1	
+character-equip = 3	4587	1	
+character-equip = 4	5575	1	
+character-equip = 5	6524	1	
+character-equip = 6	-1	0	
+character-equip = 7	5576	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	3105	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	90	2717172
+character-skill = 1	90	2905200
+character-skill = 2	90	2783700
+character-skill = 3	71	26085239
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	99	11116052
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	99	9831750
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	1232	1
+character-bank = 1	996	86369
+character-bank = 2	1053	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

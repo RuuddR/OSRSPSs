@@ -1,0 +1,87 @@
+[ACCOUNT]
+character-username = snowBaLL
+character-password = 117-22-195-179-85-128-179-73-2-72-98-156-255-94-73-140
+
+[CHARACTER]
+character-height = 1
+character-posx = 2964
+character-posy = 3378
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = cp342357-a.landg1.lb.home.nl
+character-lastlogin = 20061102
+character-energy = 34
+character-gametime = 0
+character-gamecount = 5002
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	70	401100
+character-skill = 1	1	0
+character-skill = 2	1	0
+character-skill = 3	99	15455300
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	93	3910530
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	70	401100
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	6571	1
+character-bank = 1	3106	1
+character-bank = 2	996	80004
+character-bank = 3	1053	1
+character-bank = 4	1713	1
+character-bank = 5	7461	1
+character-bank = 6	7387	1
+character-bank = 7	4676	1
+character-bank = 8	2891	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

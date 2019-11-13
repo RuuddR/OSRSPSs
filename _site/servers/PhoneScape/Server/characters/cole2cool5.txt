@@ -1,0 +1,81 @@
+[ACCOUNT]
+character-username = cole2cool5
+character-password = 135-179-82-125-148-164-0-52-221-134-68-22-194-81-138-178
+
+[CHARACTER]
+character-height = 0
+character-posx = 3250
+character-posy = 3435
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = 68-187-33-206.dhcp.ftwo.tx.charter.com
+character-lastlogin = 20061102
+character-energy = 58
+character-gametime = 0
+character-gamecount = 4746
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	20	2400
+character-skill = 1	4	150
+character-skill = 2	59	127050
+character-skill = 3	99	14713053
+character-skill = 4	1	14
+character-skill = 5	1	0
+character-skill = 6	99	13375250
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	61	163270
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	165600
+character-item = 1	4676	1
+character-item = 2	3388	1
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

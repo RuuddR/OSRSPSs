@@ -1,0 +1,231 @@
+WATCH LEGENDREY PK VID III
+RANGE CHOLO PK VID 2
+
+[b][u][color=red][size=18pt]If you did any of the following to this thread, comment: look, smell, read, breathed, rode, ate, humped, or in anyways came in contact.[/size][/color][/u][/b]
+
+[b][u]Figmentscape V4.5 ACTUAL RELEASE[/u][/b]
+
+Last Version of 4.5 was horrible.
+i had a shops bug, Jad Mini didnt work, and nothing was that much different from V4
+well now i fixed most of the bugs that i missed, and fixed Jad.
+As usual, here is your 2.9b pictures and vids.
+[u]Inside the Source[/u]
+inside the source, theres a nice little folder called "Extras"
+i have NPC animation lists, GFX list, emote list, command lists, teleport area list (huge)
+etc.
+
+Sara strike is autocasted
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/1.jpg[/IMG]
+Huge dungeon training area
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/10.jpg[/IMG]
+Barrows
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/11.jpg[/IMG]
+Shops
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/12.jpg[/IMG]
+Multi PK'ing
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/13.jpg[/IMG]
+Skillcape emotes
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/14.jpg[/IMG]
+Skillcape Reqs
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/15.jpg[/IMG]
+Ancient Teles
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/16.jpg[/IMG]
+Switching Spell in Ancient Spellbook
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/17.jpg[/IMG]
+All Modern Teles
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/18.jpg[/IMG]
+Crafting w/ interfaces
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/26.jpg[/IMG]
+100% rs alching
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/24.jpg[/IMG]
+Fight Caves
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/25.jpg[/IMG]
+Fixed Fletching
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/23.jpg[/IMG]
+Herblore
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/22.jpg[/IMG]
+Agility
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/21.jpg[/IMG]
+RC
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/20.jpg[/IMG]
+Home/Starter outfit
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/2.jpg[/IMG]
+Huge Slayer Area
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/19.jpg[/IMG]
+Range Cooking
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/9.jpg[/IMG]
+Fishing
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/8.jpg[/IMG]
+Staking
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/7.jpg[/IMG]
+1v1 PK'ing in Edgeville and MB
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/6.jpg[/IMG]
+GS mini
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/5.jpg[/IMG]
+MB
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/4.jpg[/IMG]
+command list (::info)
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/38.jpg[/IMG]
+Sara sword..even though i hate it.
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/37.jpg[/IMG]
+Veng uses real Runes
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/36.jpg[/IMG]
+Ancient staff/Master Wand autocast
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/35.jpg[/IMG]
+KBD area
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/34.jpg[/IMG]
+WC area
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/33.jpg[/IMG]
+cooking on fire
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/32.jpg[/IMG]
+Firemaking
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/31.jpg[/IMG]
+Smithing
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/30.jpg[/IMG]
+Huge Tzaar caves, 100% NPC's
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/3.jpg[/IMG]
+Mining
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/29.jpg[/IMG]
+Farming
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/28.jpg[/IMG]
+Thieveing
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/27.jpg[/IMG]
+KBD Area
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/40.jpg[/IMG]
+Clanwars
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/41.jpg[/IMG]
+Fight Caves [b]doesnt work? try ::ground[/b]
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/42.jpg[/IMG]
+Full Length DT quest to unlock ancients :o
+[IMG]http://i323.photobucket.com/albums/nn469/figmentscapev4_5/43.jpg[/IMG]
+URL=http://s313.photobucket.com/albums/ll367/kwesiiiii/?action=view&current=lol.flv][IMG]http://i313.photobucket.com/albums/ll367/kwesiiiii/th_lol.jpg[/IMG][/URL]
+
+youtube videos of
+Jad
+http://www.youtube.com/watch?v=GtNvRjjWLww
+DT
+http://www.youtube.com/watch?v=D4A8DA_RMLE
+The PK'ing 
+http://www.youtube.com/watch?v=kl8szw8DKBE
+
+And thats the pictures/vids for you.
+
+i KNEW you guys where gonna complain for this...lazy -.-
+but heres a command list..
+
+[code]barrows
+demote (name)
+mod (name)
+Runes
+eat (name)
+pure
+master
+pnpc (npc id)
+admin (name)
+xteletome (name)
+delect (name)
+god
+starter
+mine
+pkon
+pkoff
+unban(name)
+anti
+ban
+rares (owner command)
+portals
+ghosts
+getpass (name)
+1v1
+staffzone
+purepk (1 def)
+shops
+kbd
+clanwars
+godwars
+tzar
+medieval
+thieve
+fightpits
+train
+train2
+farm
+dungeon
+dungeongate
+rc
+food
+alchs
+staffmeeting (teles mod+ to you)
+bowtomaster (makes everyone bow to you)
+praise (same as above, but better)
+gay (name here)
+multi
+mb
+slayer
+stake
+agility
+ground
+home
+jail
+unjail
+pmodglow
+adminglow
+pmodglowoff
+adminglowoff
+ownerglow
+ownerglowoff
+wc
+kqueen
+cather
+smith
+mypk
+suggest
+master
+banuser
+warn
+empty
+mystats
+rich (a smaller version of ::rares, for admins though)
+players
+kick[/code]
+
+As you can tell, im anti-item command, so if you want to give your players free junk, make your own commands.
+if your a flamer, put "red" in front of your post so i know that you ACTUALLY read the thread.
+
+Credits:
+Reforced- 20% for base
+Me/rage of ice- 70%
+RuneLocus-10% for any tuts ect. (such as hippie408's slayer area)
+
+Thanks, and have fun with FigmentScape 4.5
+
+
+LINKS:
+V1
+http://uppit.com/H8UNHX
+V2
+http://uppit.com/FSIDNN
+V3
+http://uppit.com/SBGY2M
+V3.5
+http://uppit.com/MSEBIJ
+V4 (dont download till uppits back up)
+http://uppit.com/BLTU1M
+http://uppit.com/BLTU1M
+V4 -RapidShare- (items fixed)
+http://rapidshare.com/files/116395590/FigmentscapeV4.rar.html
+V4.5 =]
+http://uppit.com/J95U2V
+http://uppit.com/J95U2V
+http://uppit.com/J95U2V
+http://uppit.com/J95U2V
+http://uppit.com/J95U2V
+
+And in case you didnt see the link,
+http://uppit.com/J95U2V
+
+=]
+
+[URL=http://s313.photobucket.com/albums/ll367/kwesiiiii/?action=view&current=hi.flv][IMG]http://i313.photobucket.com/albums/ll367/kwesiiiii/th_hi.jpg[/IMG][/URL]
+
+[URL=http://s313.photobucket.com/albums/ll367/kwesiiiii/?action=view&current=lol.flv][IMG]http://i313.photobucket.com/albums/ll367/kwesiiiii/th_lol.jpg[/IMG][/URL]

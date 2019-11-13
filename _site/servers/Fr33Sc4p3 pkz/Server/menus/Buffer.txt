@@ -1,0 +1,17 @@
+ BufferedWriter bw = null;
+
+      try {
+         bw = new BufferedWriter(new FileWriter("logs/warned.txt", true));
+	bw.write(playerName+" warned "+name);
+	bw.newLine();
+	bw.flush();
+      } catch (IOException ioe) {
+	ioe.printStackTrace();
+      } finally {
+	if (bw != null) try {
+	    bw.close();
+	} catch (IOException ioe2) {
+	    sendMessage("Error logging warning!");
+	}
+      }
+}

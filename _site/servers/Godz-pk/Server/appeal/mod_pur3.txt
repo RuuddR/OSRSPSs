@@ -1,0 +1,6 @@
+mod_pur3 Has Appealed for Moderator !
+What Rule = 0
+99 : Level ; Points ; Yes ; No !
+
+====================
+

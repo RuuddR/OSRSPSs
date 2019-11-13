@@ -1,0 +1,81 @@
+[ACCOUNT]
+character-username = Haseo
+character-password = 42-107-33-190-225-211-136-91-5-33-91-179-247-139-248-201
+
+[CHARACTER]
+character-height = 0
+character-posx = 3161
+character-posy = 3671
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = adsl-69-208-249-223.dsl.lgtpmi.ameritech.net
+character-lastlogin = 20061102
+character-energy = 45
+character-gametime = 0
+character-gamecount = 3297
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	3
+character-look = 2	1
+character-look = 3	2
+character-look = 4	0
+character-look = 5	4
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	1	0
+character-skill = 2	70	390600
+character-skill = 3	45	15413335
+character-skill = 4	2	42
+character-skill = 5	1	0
+character-skill = 6	99	20731700
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	70	392700
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	1053	1
+character-bank = 1	4676	1
+character-bank = 2	1713	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

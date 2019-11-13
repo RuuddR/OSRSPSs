@@ -1,0 +1,89 @@
+[ACCOUNT]
+character-username = CrazyGirl
+character-password = 170-192-189-198-63-17-243-104-155-238-133-18-134-230-198-138
+
+[CHARACTER]
+character-height = 0
+character-posx = 2680
+character-posy = 3425
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = c-68-61-230-168.hsd1.mi.comcast.net
+character-lastlogin = 20061113
+character-energy = 88
+character-gametime = 0
+character-gamecount = 7284
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	6570	1	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	1
+character-look = 1	11
+character-look = 2	1
+character-look = 3	2
+character-look = 4	3
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	77	1538400
+character-skill = 1	76	1446600
+character-skill = 2	90	5706000
+character-skill = 3	105	23876844
+character-skill = 4	77	1622000
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	98	12927225
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	1059809022
+character-item = 1	4215	1
+character-item = 2	1188	1
+character-item = 3	399	54
+
+[BANK]
+character-bank = 0	6108	1
+character-bank = 1	4588	1
+character-bank = 2	6109	1
+character-bank = 3	3141	1
+character-bank = 4	1150	1
+character-bank = 5	1043	1
+character-bank = 6	4586	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

@@ -1,0 +1,9 @@
+@blu@ My Notes
+
+@red@ The book is red...
+@red@ Need to find pirates
+@red@ Look around
+@red@ That All I got..
+
+@red@ Some new information:
+@gre@ Close to water docks.

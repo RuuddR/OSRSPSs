@@ -1,0 +1,5 @@
+[FLAGGED]
+This account might contain duped items
+character-password = 51-188-234-97-255-126-218-193-230-199-119-181-214-96-112-118
+[EOF]
+

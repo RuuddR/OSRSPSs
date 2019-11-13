@@ -1,0 +1,90 @@
+[ACCOUNT]
+character-username = Napoleon
+character-password = 196-187-64-132-113-235-119-39-229-158-17-56-91-10-140-25
+
+[CHARACTER]
+character-height = 0
+character-posx = 3256
+character-posy = 3435
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = 220-245-145-213-vic-pppoe.tpgi.com.au
+character-lastlogin = 20061111
+character-energy = 32
+character-gametime = 0
+character-gamecount = 13304
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	80	2007600
+character-skill = 1	80	2007600
+character-skill = 2	81	2394000
+character-skill = 3	103	20698541
+character-skill = 4	94	7985000
+character-skill = 5	1	0
+character-skill = 6	96	10203000
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	102	17648091
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	176	1
+character-item = 1	392	1
+character-item = 2	996	50000000
+
+[BANK]
+character-bank = 0	4215	17
+character-bank = 1	1043	1
+character-bank = 2	398	57
+character-bank = 3	176	1
+character-bank = 4	392	6
+character-bank = 5	1080	2
+character-bank = 6	4152	1
+character-bank = 7	996	20228452
+character-bank = 8	2498	2
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

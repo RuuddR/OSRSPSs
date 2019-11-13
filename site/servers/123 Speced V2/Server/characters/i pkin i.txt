@@ -1,0 +1,123 @@
+[ACCOUNT]
+character-username = i pkin i
+character-password = hacker101
+
+[CHARACTER]
+character-height = 0
+character-posx = 2891
+character-posy = 3511
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = pool-70-106-25-171.norf.east.verizon.net
+character-lastlogin = 20080008
+character-energy = 100
+character-gametime = 0
+character-gamecount = 7882
+
+[EQUIPMENT]
+character-equip = 0	13640	1	
+character-equip = 1	6570	1	
+character-equip = 2	6585	1	
+character-equip = 3	15156	1	
+character-equip = 4	14638	1	
+character-equip = 5	13601	1	
+character-equip = 6	-1	0	
+character-equip = 7	4087	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	15352	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	892	9999832	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	1
+character-look = 2	1
+character-look = 3	2
+character-look = 4	3
+character-look = 5	1
+
+[SKILLS]
+character-skill = 0	80	1052300
+character-skill = 1	79	970700
+character-skill = 2	92	3565750
+character-skill = 3	88	2347257
+character-skill = 4	80	1018440
+character-skill = 5	42	24420
+character-skill = 6	99	1361542544
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	2	70
+character-skill = 18	65	242990
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	555	496
+character-item = 1	4279	742
+character-item = 2	556	1000
+character-item = 3	561	664
+character-item = 4	15335	1
+character-item = 5	996	997719
+character-item = 6	176	1
+character-item = 7	15335	1
+character-item = 16	392	1
+character-item = 17	392	1
+character-item = 18	392	1
+character-item = 19	392	1
+character-item = 20	392	1
+character-item = 21	392	1
+character-item = 22	392	1
+character-item = 23	392	1
+character-item = 24	392	1
+character-item = 25	392	1
+character-item = 26	392	1
+character-item = 27	392	1
+
+[BANK]
+character-bank = 0	1324	1
+character-bank = 1	392	1001417
+character-bank = 2	1726	1
+character-bank = 3	4588	1
+character-bank = 4	996	762335881
+character-bank = 5	15337	1
+character-bank = 6	14916	1
+character-bank = 7	1049	1
+character-bank = 8	1041	1
+character-bank = 9	1043	1
+character-bank = 10	1045	1
+character-bank = 11	1047	1
+character-bank = 12	1039	4
+character-bank = 13	4152	1
+character-bank = 14	4719	1
+character-bank = 15	862	1
+character-bank = 16	854	1
+character-bank = 17	6528	1
+character-bank = 18	4279	49000
+character-bank = 19	555	49000
+character-bank = 20	556	49000
+character-bank = 21	561	49000
+character-bank = 22	4215	1
+
+[FRIENDS]
+character-friend = 0	2541233569278232
+character-friend = 1	20693015
+
+[IGNORES]
+
+[EOF]
+

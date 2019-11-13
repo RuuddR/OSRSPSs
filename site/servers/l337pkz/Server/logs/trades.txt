@@ -1,0 +1,988 @@
+pure magic trades item: 558 amount: 20000 with Illiteral O0
+pure magic trades item: 559 amount: 2000000 with Illiteral O0
+pure magic trades item: 554 amount: 398912 with Illiteral O0
+pure magic trades item: 555 amount: 400000 with Illiteral O0
+pure magic trades item: 556 amount: 40000 with Illiteral O0
+pure magic trades item: 557 amount: 4000 with Illiteral O0
+pure magic trades item: 4694 amount: 40000 with Illiteral O0
+pure magic trades item: 4695 amount: 4000 with Illiteral O0
+pure magic trades item: 4699 amount: 40000 with Illiteral O0
+pure magic trades item: 4698 amount: 4000000 with Illiteral O0
+pure magic trades item: 4697 amount: 4000 with Illiteral O0
+pure magic trades item: 4696 amount: 400000 with Illiteral O0
+pure magic trades item: 564 amount: 4000000 with Illiteral O0
+pure magic trades item: 562 amount: 4000000 with Illiteral O0
+pure magic trades item: 560 amount: 3999310 with Illiteral O0
+pure magic trades item: 561 amount: 4000000 with Illiteral O0
+pure magic trades item: 4278 amount: 2399296 with Illiteral O0
+pure magic trades item: 566 amount: 3999920 with Illiteral O0
+pure magic trades item: 563 amount: 4000000 with Illiteral O0
+pure magic trades item: 398 amount: 500 with Illiteral O0
+pure magic trades item: 1305 amount: 1 with Illiteral O0
+pure magic trades item: 2497 amount: 1 with Illiteral O0
+pure magic trades item: 3060 amount: 1 with Illiteral O0
+pure magic trades item: 579 amount: 1 with Illiteral O0
+pure magic trades item: 6568 amount: 1 with Illiteral O0
+I.F.reaper trades item: 554 amount: 77000 with Illiteral O0
+I.F.reaper trades item: 555 amount: 77000 with Illiteral O0
+I.F.reaper trades item: 560 amount: 77000 with Illiteral O0
+I.F.reaper trades item: 4278 amount: 77000 with Illiteral O0
+pure magic trades item: 555 amount: 2200000 with Illiteral O0
+pure magic trades item: 561 amount: 12000000 with Illiteral O0
+pure magic trades item: 564 amount: 12000000 with Illiteral O0
+pure magic trades item: 562 amount: 12000000 with Illiteral O0
+pure magic trades item: 560 amount: 12000000 with Illiteral O0
+pure magic trades item: 565 amount: 12000000 with Illiteral O0
+pure magic trades item: 566 amount: 12000000 with Illiteral O0
+pure magic trades item: 563 amount: 12000000 with Illiteral O0
+pure magic trades item: 4698 amount: 12000000 with Illiteral O0
+pure magic trades item: 4697 amount: 12000 with Illiteral O0
+pure magic trades item: 4696 amount: 1200000 with Illiteral O0
+pure magic trades item: 4695 amount: 12000 with Illiteral O0
+pure magic trades item: 4699 amount: 120000 with Illiteral O0
+pure magic trades item: 554 amount: 1200000 with Illiteral O0
+pure magic trades item: 556 amount: 120000 with Illiteral O0
+pure magic trades item: 557 amount: 12000 with Illiteral O0
+pure magic trades item: 4694 amount: 120000 with Illiteral O0
+pure magic trades item: 559 amount: 12000000 with Illiteral O0
+pure magic trades item: 558 amount: 120000 with Illiteral O0
+pure magic trades item: 4278 amount: 9597030 with Illiteral O0
+dr nova trades item: 566 amount: 13999800 with Illiteral O0
+dr nova trades item: 563 amount: 14000000 with Illiteral O0
+dr nova trades item: 561 amount: 14000000 with Illiteral O0
+dr nova trades item: 560 amount: 13999460 with Illiteral O0
+dr nova trades item: 4696 amount: 1200000 with Illiteral O0
+dr nova trades item: 555 amount: 2200000 with Illiteral O0
+dr nova trades item: 4698 amount: 14000000 with Illiteral O0
+dr nova trades item: 4716 amount: 1 with Illiteral O0
+dr nova trades item: 4694 amount: 140000 with Illiteral O0
+dr nova trades item: 4695 amount: 12000 with Illiteral O0
+dr nova trades item: 554 amount: 2387935 with Illiteral O0
+dr nova trades item: 559 amount: 14000000 with Illiteral O0
+dr nova trades item: 558 amount: 1140000 with Illiteral O0
+dr nova trades item: 4697 amount: 12000 with Illiteral O0
+dr nova trades item: 562 amount: 14000000 with Illiteral O0
+dr nova trades item: 564 amount: 14000000 with Illiteral O0
+dr nova trades item: 556 amount: 1120000 with Illiteral O0
+dr nova trades item: 4714 amount: 1 with Illiteral O0
+dr nova trades item: 4710 amount: 1 with Illiteral O0
+pure magic trades item: 4716 amount: 1 with ipurep00nyou
+pure magic trades item: 4718 amount: 1 with ipurep00nyou
+pure magic trades item: 4720 amount: 1 with ipurep00nyou
+pure magic trades item: 4722 amount: 1 with ipurep00nyou
+pure magic trades item: 2552 amount: 1 with ipurep00nyou
+pure magic trades item: 995 amount: 2000050 with ipurep00nyou
+link trades item: 391 amount: 1 with Illiteral O0
+link trades item: 391 amount: 1 with Illiteral O0
+link trades item: 391 amount: 1 with Illiteral O0
+link trades item: 391 amount: 1 with Illiteral O0
+link trades item: 391 amount: 1 with Illiteral O0
+link trades item: 391 amount: 1 with Illiteral O0
+link trades item: 391 amount: 1 with Illiteral O0
+Illiteral O0 trades item: 2503 amount: 1 with link
+Illiteral O0 trades item: 2497 amount: 1 with link
+Illiteral O0 trades item: 2495 amount: 1 with link
+Illiteral O0 trades item: 1099 amount: 1 with link
+Illiteral O0 trades item: 2493 amount: 1 with link
+Illiteral O0 trades item: 2499 amount: 1 with link
+Illiteral O0 trades item: 2639 amount: 1 with link
+Illiteral O0 trades item: 2641 amount: 1 with link
+Illiteral O0 trades item: 1837 amount: 1 with link
+Illiteral O0 trades item: 2643 amount: 1 with link
+Illiteral O0 trades item: 2501 amount: 1 with link
+Illiteral O0 trades item: 1377 amount: 1 with blaze
+blaze trades item: 995 amount: 210000 with Illiteral O0
+Illiteral O0 trades item: 995 amount: 1000000 with edward
+Jorsa trades item: 995 amount: 1052800 with DreamCreeper
+Jorsa trades item: 4091 amount: 1 with DreamCreeper
+Jorsa trades item: 3844 amount: 1 with DreamCreeper
+Jorsa trades item: 4675 amount: 1 with DreamCreeper
+Jorsa trades item: 4095 amount: 1 with DreamCreeper
+Jorsa trades item: 4089 amount: 1 with DreamCreeper
+Jorsa trades item: 1712 amount: 1 with DreamCreeper
+Jorsa trades item: 4093 amount: 1 with DreamCreeper
+Jorsa trades item: 4097 amount: 1 with DreamCreeper
+Jorsa trades item: 1052 amount: 1 with DreamCreeper
+Jorsa trades item: 995 amount: 600072000 with colossus
+Jorsa trades item: 4093 amount: 1 with colossus
+Jorsa trades item: 4091 amount: 1 with colossus
+Jorsa trades item: 4089 amount: 1 with colossus
+Jorsa trades item: 4214 amount: 1 with colossus
+Jorsa trades item: 1712 amount: 1 with colossus
+Jorsa trades item: 4095 amount: 1 with colossus
+Jorsa trades item: 4097 amount: 1 with colossus
+Jorsa trades item: 6611 amount: 1 with colossus
+Jorsa trades item: 1049 amount: 1 with colossus
+Jorsa trades item: 995 amount: 10000000 with DreamCreeper
+DreamEater trades item: 1052 amount: 1 with colossus
+DreamEater trades item: 4093 amount: 1 with colossus
+DreamEater trades item: 4089 amount: 1 with colossus
+DreamEater trades item: 1712 amount: 1 with colossus
+DreamEater trades item: 4097 amount: 1 with colossus
+DreamEater trades item: 4091 amount: 1 with colossus
+DreamEater trades item: 4095 amount: 1 with colossus
+DreamEater trades item: 4675 amount: 1 with colossus
+DreamEater trades item: 3844 amount: 1 with colossus
+colossus trades item: 3844 amount: 1 with ChaosDream
+colossus trades item: 4097 amount: 1 with ChaosDream
+colossus trades item: 1052 amount: 1 with ChaosDream
+colossus trades item: 4093 amount: 1 with ChaosDream
+colossus trades item: 4091 amount: 1 with ChaosDream
+colossus trades item: 4095 amount: 1 with ChaosDream
+colossus trades item: 4089 amount: 1 with ChaosDream
+colossus trades item: 1712 amount: 1 with ChaosDream
+colossus trades item: 4675 amount: 1 with ChaosDream
+colossus trades item: 995 amount: 10000000 with ChaosDream
+MaoriMan trades item: 995 amount: 159600 with jordan
+jordy trades item: 4095 amount: 1 with jorsa
+jordy trades item: 4091 amount: 1 with jorsa
+jordy trades item: 3844 amount: 1 with jorsa
+jordy trades item: 4093 amount: 1 with jorsa
+jordy trades item: 4097 amount: 1 with jorsa
+jordy trades item: 4675 amount: 1 with jorsa
+jordy trades item: 1052 amount: 1 with jorsa
+jordy trades item: 1712 amount: 1 with jorsa
+jordy trades item: 4089 amount: 1 with jorsa
+jimbo trades item: 4089 amount: 1 with jorsa
+jimbo trades item: 1712 amount: 1 with jorsa
+jimbo trades item: 1052 amount: 1 with jorsa
+jimbo trades item: 4675 amount: 1 with jorsa
+jimbo trades item: 4097 amount: 1 with jorsa
+jimbo trades item: 4093 amount: 1 with jorsa
+jimbo trades item: 3844 amount: 1 with jorsa
+jimbo trades item: 4091 amount: 1 with jorsa
+jimbo trades item: 4095 amount: 1 with jorsa
+jimmy trades item: 4089 amount: 1 with Jorsa
+jimmy trades item: 1712 amount: 1 with Jorsa
+jimmy trades item: 1052 amount: 1 with Jorsa
+jimmy trades item: 4675 amount: 1 with Jorsa
+jimmy trades item: 4097 amount: 1 with Jorsa
+jimmy trades item: 4093 amount: 1 with Jorsa
+jimmy trades item: 3844 amount: 1 with Jorsa
+jimmy trades item: 4091 amount: 1 with Jorsa
+jimmy trades item: 4095 amount: 1 with Jorsa
+Jorsa trades item: 4095 amount: 1 with Jordan
+Jorsa trades item: 4091 amount: 1 with Jordan
+Jorsa trades item: 3844 amount: 1 with Jordan
+Jorsa trades item: 4093 amount: 1 with Jordan
+Jorsa trades item: 1712 amount: 1 with Jordan
+Jorsa trades item: 1052 amount: 1 with Jordan
+Jorsa trades item: 1712 amount: 1 with Jordan
+Jorsa trades item: 1052 amount: 1 with Jordan
+Jorsa trades item: 4675 amount: 1 with Jordan
+Jorsa trades item: 4097 amount: 1 with Jordan
+Jorsa trades item: 4089 amount: 1 with Jordan
+Jorsa trades item: 4089 amount: 1 with Jordan
+Jorsa trades item: 4675 amount: 1 with Jordan
+Jorsa trades item: 4097 amount: 1 with Jordan
+Jorsa trades item: 4093 amount: 1 with Jordan
+Jorsa trades item: 3844 amount: 1 with Jordan
+Jorsa trades item: 1712 amount: 1 with Jordan
+Jorsa trades item: 4089 amount: 1 with Jordan
+Jorsa trades item: 4095 amount: 1 with Jordan
+Jorsa trades item: 4091 amount: 1 with Jordan
+Jorsa trades item: 1052 amount: 1 with Jordan
+Jorsa trades item: 4675 amount: 1 with Jordan
+Jorsa trades item: 4097 amount: 1 with Jordan
+Jorsa trades item: 4093 amount: 1 with Jordan
+Jorsa trades item: 4095 amount: 1 with Jordan
+Jorsa trades item: 4091 amount: 1 with Jordan
+Jorsa trades item: 3844 amount: 1 with Jordan
+Jorsa trades item: 4857 amount: 1 with Jordan
+Jorsa trades item: 6611 amount: 1 with Jordan
+Jordan trades item: 6611 amount: 1 with Jorsa
+Jordan trades item: 4585 amount: 1 with Jorsa
+jorsa trades item: 3140 amount: 1 with Jordan
+jorsa trades item: 3204 amount: 1 with Jordan
+zezima. trades item: 4091 amount: 1 with jorsa
+zezima. trades item: 4675 amount: 1 with jorsa
+zezima. trades item: 4093 amount: 1 with jorsa
+zezima. trades item: 1712 amount: 1 with jorsa
+zezima. trades item: 4089 amount: 1 with jorsa
+zezima. trades item: 4095 amount: 1 with jorsa
+zezima. trades item: 4097 amount: 1 with jorsa
+zezima. trades item: 3844 amount: 1 with jorsa
+zezima. trades item: 3140 amount: 1 with jorsa
+jorsa trades item: 3140 amount: 1 with zezima.
+jorsa trades item: 4087 amount: 1 with zezima.
+jorsa trades item: 3141 amount: 100 with zezima.
+jorsa trades item: 4087 amount: 1 with zezima.
+jorsa trades item: 3140 amount: 1 with zezima.
+jorsa trades item: 577 amount: 1 with zezima.
+zezima. trades item: 995 amount: 1198646 with safturento
+zezima. trades item: 657 amount: 50 with safturento
+zezima. trades item: 4091 amount: 1 with safturento
+zezima. trades item: 4089 amount: 1 with safturento
+zezima. trades item: 4095 amount: 1 with safturento
+zezima. trades item: 4097 amount: 1 with safturento
+zezima. trades item: 4093 amount: 1 with safturento
+zezima. trades item: 1052 amount: 1 with safturento
+zezima. trades item: 4857 amount: 1 with safturento
+Jorsa trades item: 6611 amount: 1 with colossus
+Jorsa trades item: 3141 amount: 101 with colossus
+Jorsa trades item: 4675 amount: 1 with colossus
+Jorsa trades item: 6611 amount: 5 with colossus
+Jorsa trades item: 995 amount: 100000000 with qq
+Jorsa trades item: 6829 amount: 1 with xXSquallXx
+Jorsa trades item: 6611 amount: 1 with tryme
+Jorsa trades item: 4565 amount: 1 with hiei the pk
+Jorsa trades item: 175 amount: 1 with tryme
+colossus trades item: 4097 amount: 1 with tryme
+colossus trades item: 4153 amount: 1 with tryme
+colossus trades item: 1712 amount: 1 with tryme
+colossus trades item: 4091 amount: 1 with tryme
+colossus trades item: 2446 amount: 1 with tryme
+colossus trades item: 175 amount: 1 with tryme
+colossus trades item: 4089 amount: 1 with tryme
+colossus trades item: 4093 amount: 1 with tryme
+colossus trades item: 4095 amount: 1 with tryme
+colossus trades item: 175 amount: 1 with tryme
+colossus trades item: 1712 amount: 1 with tryme
+colossus trades item: 4089 amount: 1 with tryme
+colossus trades item: 4091 amount: 1 with tryme
+colossus trades item: 4093 amount: 1 with tryme
+colossus trades item: 4095 amount: 1 with tryme
+colossus trades item: 4097 amount: 1 with tryme
+colossus trades item: 4153 amount: 1 with tryme
+colossus trades item: 2446 amount: 1 with tryme
+Jorsa trades item: 995 amount: 54000 with tryme
+Jorsa trades item: 4084 amount: 1 with colossus
+Jorsa trades item: 6585 amount: 1 with colossus
+Jorsa trades item: 7462 amount: 1 with colossus
+Jorsa trades item: 6611 amount: 1 with colossus
+Jorsa trades item: 995 amount: 10000000 with ukilledme
+Jorsa trades item: 995 amount: 10000000 with el nubzor
+Jorsa trades item: 391 amount: 1 with colossus
+Jorsa trades item: 3141 amount: 1 with colossus
+Jorsa trades item: 4087 amount: 1 with colossus
+Jorsa trades item: 1052 amount: 1 with colossus
+Jorsa trades item: 1187 amount: 1 with colossus
+Jorsa trades item: 1149 amount: 1 with colossus
+Jorsa trades item: 4151 amount: 1 with str monk
+Jorsa trades item: 391 amount: 1 with str monk
+Jorsa trades item: 391 amount: 1 with str monk
+Jorsa trades item: 391 amount: 1 with str monk
+Jorsa trades item: 177 amount: 1 with mark
+Jorsa trades item: 392 amount: 100 with pur3dud3
+Jorsa trades item: 391 amount: 1 with pur3dud3
+pur3dud3 trades item: 995 amount: 49578 with Jorsa
+Jorsa trades item: 175 amount: 1 with pur3dud3
+colossus trades item: 4151 amount: 1 with pur3dud3
+pur3dud3 trades item: 3140 amount: 1 with colossus
+Mod Kutumi trades item: 4093 amount: 1 with scorpion
+Mod Kutumi trades item: 1712 amount: 1 with scorpion
+mark trades item: 4730 amount: 1 with Jorsa
+Jorsa trades item: 995 amount: 10000000 with mark
+dark magikz trades item: 4206 amount: 1 with Pur3 H 0 0 D
+dark magikz trades item: 6733 amount: 1 with Pur3 H 0 0 D
+dark magikz trades item: 4830 amount: 1 with Pur3 H 0 0 D
+Jorsa trades item: 177 amount: 1 with colossus
+Jorsa trades item: 995 amount: 1000000 with 0ddball
+Jorsa trades item: 2339 amount: 1 with zoss0
+colossus trades item: 995 amount: 30000000 with Keaten
+Keaten trades item: 3751 amount: 1 with colossus
+hope trades item: 3844 amount: 1 with colossus
+hope trades item: 3385 amount: 1 with colossus
+hope trades item: 1712 amount: 1 with colossus
+hope trades item: 3387 amount: 1 with colossus
+hope trades item: 3391 amount: 1 with colossus
+hope trades item: 4675 amount: 1 with colossus
+hope trades item: 3393 amount: 1 with colossus
+hope trades item: 3389 amount: 1 with colossus
+hope trades item: 1052 amount: 1 with colossus
+yo momma trades item: 3385 amount: 1 with colossus
+yo momma trades item: 1712 amount: 1 with colossus
+yo momma trades item: 3387 amount: 1 with colossus
+yo momma trades item: 3389 amount: 1 with colossus
+yo momma trades item: 1052 amount: 1 with colossus
+yo momma trades item: 3844 amount: 1 with colossus
+yo momma trades item: 3393 amount: 1 with colossus
+yo momma trades item: 3391 amount: 1 with colossus
+yo momma trades item: 4675 amount: 1 with colossus
+beoch trades item: 3385 amount: 1 with colossus
+beoch trades item: 3393 amount: 1 with colossus
+beoch trades item: 3391 amount: 1 with colossus
+beoch trades item: 3844 amount: 1 with colossus
+beoch trades item: 4675 amount: 1 with colossus
+beoch trades item: 3387 amount: 1 with colossus
+beoch trades item: 3389 amount: 1 with colossus
+beoch trades item: 1712 amount: 1 with colossus
+beoch trades item: 1052 amount: 1 with colossus
+colossus trades item: 995 amount: 366500556 with tryme
+hoemygosh trades item: 3385 amount: 1 with colossus
+hoemygosh trades item: 4675 amount: 1 with colossus
+hoemygosh trades item: 3387 amount: 1 with colossus
+hoemygosh trades item: 3389 amount: 1 with colossus
+hoemygosh trades item: 3391 amount: 1 with colossus
+hoemygosh trades item: 1052 amount: 1 with colossus
+hoemygosh trades item: 3393 amount: 1 with colossus
+hoemygosh trades item: 2890 amount: 1 with colossus
+hoemygosh trades item: 1712 amount: 1 with colossus
+Jorsa trades item: 4206 amount: 1 with zoss0
+colossus trades item: 1712 amount: 1 with dark magikz
+colossus trades item: 4103 amount: 1 with dark magikz
+colossus trades item: 4675 amount: 1 with dark magikz
+colossus trades item: 4099 amount: 1 with dark magikz
+colossus trades item: 4101 amount: 1 with dark magikz
+colossus trades item: 4105 amount: 1 with dark magikz
+colossus trades item: 4107 amount: 1 with dark magikz
+dark magikz trades item: 4089 amount: 1 with tryme
+dark magikz trades item: 3387 amount: 1 with tryme
+dark magikz trades item: 4087 amount: 1 with tryme
+tryme trades item: 391 amount: 1 with dark magikz
+dark magikz trades item: 6737 amount: 1 with tryme
+dark magikz trades item: 6585 amount: 1 with tryme
+Jorsa trades item: 293 amount: 1 with tryme
+Jorza trades item: 6529 amount: 990000000 with tryme
+Jorza trades item: 3752 amount: 50000 with colossus
+Jorza trades item: 6529 amount: 705000000 with zezima.
+Jorza trades item: 6529 amount: 198000000 with Jordan
+Jorza trades item: 6529 amount: 100000 with pk
+Jorza trades item: 6529 amount: 500000 with pk
+tryme trades item: 4206 amount: 1 with melvinkoooi
+Jorza trades item: 4084 amount: 1 with iwoopyourass
+Jorza trades item: 4084 amount: 1 with pk
+Jorza trades item: 4084 amount: 1 with sflsk8team
+Jorza trades item: 4084 amount: 1 with tryme
+Jorza trades item: 6529 amount: 285138 with mindis
+Jorza trades item: 6611 amount: 1 with iwoopyourass
+Jorza trades item: 6529 amount: 430670628 with Keaten
+Jorza trades item: 175 amount: 1 with Jordan
+Keaten trades item: 6611 amount: 1 with Jordan
+Keaten trades item: 7336 amount: 1 with Jordan
+Keaten trades item: 6916 amount: 1 with Jordan
+Keaten trades item: 6918 amount: 1 with Jordan
+Keaten trades item: 6924 amount: 1 with Jordan
+Keaten trades item: 6922 amount: 1 with Jordan
+Keaten trades item: 6737 amount: 1 with Jordan
+Keaten trades item: 1731 amount: 1 with Jordan
+Keaten trades item: 6920 amount: 1 with Jordan
+asdf trades item: 6529 amount: 63600 with qq
+asdf trades item: 6529 amount: 152400 with qq
+asd trades item: 6529 amount: 96000 with qq
+asdf trades item: 6529 amount: 73200 with qq
+Jorza trades item: 4093 amount: 1 with colossus
+Jorza trades item: 6585 amount: 1 with colossus
+Jorza trades item: 4151 amount: 1 with colossus
+Jorza trades item: 7462 amount: 1 with colossus
+Jorza trades item: 3387 amount: 1 with colossus
+Jorza trades item: 3842 amount: 1 with colossus
+Jorza trades item: 6731 amount: 1 with colossus
+Jorza trades item: 4131 amount: 1 with colossus
+Jorza trades item: 3751 amount: 1 with colossus
+G_P_Kid trades item: 4675 amount: 1 with 3 hittet u
+G_P_Kid trades item: 3385 amount: 1 with 3 hittet u
+G_P_Kid trades item: 1052 amount: 1 with 3 hittet u
+G_P_Kid trades item: 3387 amount: 1 with 3 hittet u
+G_P_Kid trades item: 3389 amount: 1 with 3 hittet u
+G_P_Kid trades item: 1712 amount: 1 with 3 hittet u
+Jorza trades item: 6529 amount: 100089999 with pk
+zoss0 trades item: 6529 amount: 12872375 with pk
+lord trades item: 3385 amount: 1 with killer
+lord trades item: 1712 amount: 1 with killer
+lord trades item: 3387 amount: 1 with killer
+lord trades item: 3389 amount: 1 with killer
+lord trades item: 3393 amount: 1 with killer
+lord trades item: 3391 amount: 1 with killer
+lord trades item: 2890 amount: 1 with killer
+lord trades item: 4675 amount: 1 with killer
+lord trades item: 1052 amount: 1 with killer
+1fish 4life trades item: 6529 amount: 122166852 with killer
+roverjeroen trades item: 4084 amount: 1 with redrover8
+JorZa trades item: 4084 amount: 1 with chaosknight
+JorZa trades item: 4039 amount: 1 with chaosknight
+JorZa trades item: 1050 amount: 1 with chaosknight
+JorZa trades item: 4158 amount: 1 with zoss0
+roverjeroen trades item: 4383 amount: 1 with redrover8
+roverjeroen trades item: 177 amount: 1 with redrover8
+Jorza trades item: 6623 amount: 1 with colossus
+Jorza trades item: 6617 amount: 1 with colossus
+Jorza trades item: 6633 amount: 1 with colossus
+colossus trades item: 3844 amount: 1 with LordOfPain
+Jorza trades item: 6529 amount: 2000000000 with zoss0
+Jorza trades item: 6529 amount: 100000000 with colossus
+colossus trades item: 6529 amount: 116000000 with had3z
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 391 amount: 1 with Pkruben
+Jorza trades item: 6625 amount: 1 with 00_o0o_o0
+torru trades item: 1712 amount: 1 with hets
+Jorza trades item: 293 amount: 1 with colossus
+Jorza trades item: 6633 amount: 1 with colossus
+Jorza trades item: 6623 amount: 1 with colossus
+Jorza trades item: 6617 amount: 1 with colossus
+Jorza trades item: 6631 amount: 1 with colossus
+Jorza trades item: 6629 amount: 1 with colossus
+Jorza trades item: 6613 amount: 1 with colossus
+Jorza trades item: 6625 amount: 1 with colossus
+Bruce! trades item: 3389 amount: 1 with jamesey!
+Bruce! trades item: 2890 amount: 1 with jamesey!
+Bruce! trades item: 1052 amount: 1 with jamesey!
+Bruce! trades item: 3387 amount: 1 with jamesey!
+Bruce! trades item: 3393 amount: 1 with jamesey!
+Bruce! trades item: 3385 amount: 1 with jamesey!
+Bruce! trades item: 4675 amount: 1 with jamesey!
+Bruce! trades item: 1712 amount: 1 with jamesey!
+Bruce! trades item: 1319 amount: 1 with jamesey!
+Bruce! trades item: 6529 amount: 194400 with jamesey!
+Bruce! trades item: 4087 amount: 1 with jamesey!
+jamesey! trades item: 6529 amount: 194400 with Bruce
+jamesey! trades item: 4087 amount: 1 with Bruce
+jamesey! trades item: 1319 amount: 1 with Bruce
+Bruce trades item: 3385 amount: 1 with james
+Bruce trades item: 3393 amount: 1 with james
+Bruce trades item: 3391 amount: 1 with james
+Bruce trades item: 2890 amount: 1 with james
+Bruce trades item: 3387 amount: 1 with james
+Bruce trades item: 4397 amount: 1 with james
+untoldlegend trades item: 6529 amount: 35000 with Silent Kill
+untoldlegend trades item: 2446 amount: 1 with Silent Kill
+Silent Kill trades item: 3385 amount: 1 with untoldlegend
+Silent Kill trades item: 3387 amount: 1 with untoldlegend
+Silent Kill trades item: 3391 amount: 1 with untoldlegend
+Silent Kill trades item: 175 amount: 1 with untoldlegend
+Silent Kill trades item: 6529 amount: 20000 with untoldlegend
+Silent Kill trades item: 6529 amount: 100000 with untoldlegend
+Silent Kill trades item: 6529 amount: 55000 with untoldlegend
+Silent Kill trades item: 6529 amount: 20000 with untoldlegend
+Silent Kill trades item: 6529 amount: 100000 with untoldlegend
+untoldlegend trades item: 391 amount: 1 with Silent Kill
+untoldlegend trades item: 1052 amount: 1 with Silent Kill
+untoldlegend trades item: 2890 amount: 1 with Silent Kill
+untoldlegend trades item: 1712 amount: 1 with Silent Kill
+untoldlegend trades item: 5698 amount: 1 with Silent Kill
+Silent Kill trades item: 3389 amount: 1 with untoldlegend
+Silent Kill trades item: 1712 amount: 1 with untoldlegend
+colossus trades item: 6529 amount: 78000 with 00_o0o_o0
+pykeinATOR92 trades item: 6629 amount: 1 with colossus
+pykeinATOR92 trades item: 6617 amount: 1 with colossus
+pykeinATOR92 trades item: 6633 amount: 1 with colossus
+pykeinATOR92 trades item: 6625 amount: 1 with colossus
+pykeinATOR92 trades item: 6623 amount: 1 with colossus
+pykeinATOR92 trades item: 6619 amount: 1 with colossus
+pykeinATOR92 trades item: 2552 amount: 1 with colossus
+pykeinATOR92 trades item: 1426 amount: 1 with pk
+pk trades item: 1426 amount: 1 with colossus
+colossus trades item: 6529 amount: 800000000 with pk
+colossus trades item: 859 amount: 1 with n33d f00d
+Jorza trades item: 6611 amount: 1 with Karil Ownz
+Jorza trades item: 6629 amount: 1 with Karil Ownz
+Jorza trades item: 6619 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 6631 amount: 1 with Karil Ownz
+colossus trades item: 6619 amount: 1 with Karil Ownz
+colossus trades item: 6631 amount: 1 with Karil Ownz
+colossus trades item: 6611 amount: 1 with Karil Ownz
+colossus trades item: 6629 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Jorza trades item: 391 amount: 1 with Karil Ownz
+Silent Kill trades item: 1327 amount: 1 with Staccia1
+Jorza trades item: 293 amount: 1 with Karil Ownz
+Jorza trades item: 6529 amount: 2000000000 with hiei the pk
+i rang3ri trades item: 6529 amount: 5000000 with viper
+colossus trades item: 6529 amount: 116200000 with Pur3 H 0 0 D
+Eek im white trades item: 3391 amount: 1 with thebeastman8
+Eek im white trades item: 2890 amount: 1 with thebeastman8
+Eek im white trades item: 1052 amount: 1 with thebeastman8
+Eek im white trades item: 3389 amount: 1 with thebeastman8
+Eek im white trades item: 3385 amount: 1 with thebeastman8
+Eek im white trades item: 1712 amount: 1 with thebeastman8
+Eek im white trades item: 3393 amount: 1 with thebeastman8
+Eek im white trades item: 3387 amount: 1 with thebeastman8
+Eek im white trades item: 4675 amount: 1 with thebeastman8
+hax trades item: 1195 amount: 1 with colossus
+hax trades item: 1077 amount: 1 with colossus
+hax trades item: 1125 amount: 1 with colossus
+karl194 trades item: 6529 amount: 1000000 with Bill194
+Jorza trades item: 177 amount: 1 with colossus
+Jorza trades item: 6585 amount: 1 with colossus
+Jorza trades item: 1127 amount: 1 with colossus
+Jorza trades item: 1079 amount: 1 with colossus
+Jorza trades item: 6611 amount: 1 with colossus
+Jorza trades item: 6623 amount: 1 with colossus
+Jorza trades item: 6818 amount: 1 with colossus
+Jorza trades item: 6633 amount: 1 with colossus
+Jorza trades item: 6617 amount: 1 with colossus
+Jorza trades item: 1163 amount: 1 with colossus
+Jorza trades item: 1201 amount: 1 with colossus
+Jorza trades item: 6619 amount: 1 with colossus
+Jorza trades item: 6625 amount: 1 with colossus
+Jorza trades item: 175 amount: 1 with colossus
+Jorza trades item: 391 amount: 1 with colossus
+Jorza trades item: 6629 amount: 1 with colossus
+Jorza trades item: 6529 amount: 378000 with colossus
+ging2k6 trades item: 1187 amount: 1 with gibson2k6
+ging2k6 trades item: 3105 amount: 1 with gibson2k6
+ging2k6 trades item: 1057 amount: 1 with gibson2k6
+ging2k6 trades item: 3140 amount: 1 with gibson2k6
+ging2k6 trades item: 4087 amount: 1 with gibson2k6
+Jorza trades item: 6529 amount: 150000000 with dark magikz
+colossus trades item: 6611 amount: 1 with XxSquallxX
+colossus trades item: 6619 amount: 1 with XxSquallxX
+colossus trades item: 6629 amount: 1 with XxSquallxX
+colossus trades item: 6633 amount: 1 with XxSquallxX
+Jorsa Pk trades item: 1978 amount: 1 with colossus
+Jorsa Pk trades item: 1978 amount: 1 with colossus
+Jorsa Pk trades item: 1978 amount: 1 with colossus
+rsshark trades item: 2599 amount: 1 with 0xox0xopker
+LordOfPain trades item: 177 amount: 1 with painkille137
+colossus trades item: 177 amount: 1 with LordOfPain
+colossus trades item: 6529 amount: 999999999 with karl194
+colossus trades item: 179 amount: 1 with Jorsa Pk
+Nick Noob trades item: 2599 amount: 1 with skater newb
+colossus trades item: 4714 amount: 1 with Jorza
+0xox0xopker trades item: 1580 amount: 1 with ill bl33d u
+0xox0xopker trades item: 6585 amount: 1 with ill bl33d u
+Jorsa Pk trades item: 4151 amount: 1 with i love egg
+0xox0xopker trades item: 4675 amount: 1 with i love egg
+Jorza trades item: 3241 amount: 1 with stefan11
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 391 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 2552 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 3842 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 4749 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 4955 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 6581 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 4751 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 4131 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 6568 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 4151 amount: 1 with 0xox0xopker
+Jorsa Pk trades item: 7462 amount: 1 with 0xox0xopker
+slyte trades item: 6529 amount: 228375000 with Jorsa Pk
+slyte trades item: 6529 amount: 287245784 with Jorsa Pk
+slyte trades item: 967 amount: 100 with Jorsa Pk
+Jorsa Pk trades item: 1052 amount: 1 with slyte
+Jorsa Pk trades item: 3393 amount: 1 with slyte
+Jorsa Pk trades item: 3389 amount: 1 with slyte
+Jorsa Pk trades item: 1712 amount: 1 with slyte
+Jorsa Pk trades item: 3385 amount: 1 with slyte
+Jorsa Pk trades item: 3391 amount: 1 with slyte
+Jorsa Pk trades item: 3387 amount: 1 with slyte
+Jorsa Pk trades item: 4675 amount: 1 with slyte
+Jorsa Pk trades item: 1044 amount: 1 with slyte
+Jorsa Pk trades item: 1165 amount: 1 with slyte
+Jorsa Pk trades item: 1195 amount: 1 with slyte
+Jorsa Pk trades item: 6629 amount: 1 with slyte
+Jorsa Pk trades item: 2890 amount: 1 with slyte
+Jorsa Pk trades item: 3385 amount: 1 with slyte
+Jorsa Pk trades item: 3393 amount: 1 with slyte
+Jorsa Pk trades item: 1052 amount: 1 with slyte
+Jorsa Pk trades item: 3389 amount: 1 with slyte
+Jorsa Pk trades item: 1712 amount: 1 with slyte
+Jorsa Pk trades item: 3387 amount: 1 with slyte
+Jorsa Pk trades item: 3385 amount: 1 with slyte
+Jorsa Pk trades item: 3391 amount: 1 with slyte
+Jorsa Pk trades item: 3393 amount: 1 with slyte
+Jorsa Pk trades item: 4675 amount: 1 with slyte
+Jorsa Pk trades item: 2890 amount: 1 with slyte
+colossus trades item: 6529 amount: 10000000 with s w a t hero
+s w a t hero trades item: 6529 amount: 1500000 with dieclassic
+colossus trades item: 6529 amount: 1000000000 with 0wned you56
+Jorsa Pk trades item: 962 amount: 1 with jambo1996
+Jorsa Pk trades item: 1044 amount: 1 with mikey
+i mage i trades item: 1046 amount: 1 with eek a cow
+i mage i trades item: 1044 amount: 1 with eek a cow
+i mage i trades item: 1038 amount: 1 with eek a cow
+i mage i trades item: 1048 amount: 1 with eek a cow
+i mage i trades item: 1107 amount: 1 with eek a cow
+i mage i trades item: 1050 amount: 1 with eek a cow
+i mage i trades item: 6733 amount: 1 with eek a cow
+i mage i trades item: 1055 amount: 1 with eek a cow
+i mage i trades item: 1107 amount: 1 with eek a cow
+i mage i trades item: 2476 amount: 1 with eek a cow
+i mage i trades item: 2476 amount: 1 with eek a cow
+i mage i trades item: 1187 amount: 1 with eek a cow
+i mage i trades item: 1165 amount: 1 with eek a cow
+i mage i trades item: 3140 amount: 1 with eek a cow
+i mage i trades item: 1149 amount: 1 with eek a cow
+i mage i trades item: 4088 amount: 3 with eek a cow
+i mage i trades item: 543 amount: 1 with eek a cow
+i mage i trades item: 6735 amount: 1 with eek a cow
+i mage i trades item: 2503 amount: 1 with eek a cow
+i mage i trades item: 4087 amount: 1 with eek a cow
+i mage i trades item: 1107 amount: 1 with eek a cow
+i mage i trades item: 1165 amount: 1 with eek a cow
+i mage i trades item: 4154 amount: 1 with eek a cow
+i mage i trades item: 1149 amount: 1 with eek a cow
+i mage i trades item: 7158 amount: 1 with eek a cow
+colossus trades item: 4745 amount: 1 with Jorsa Pk
+colossus trades item: 4751 amount: 1 with Jorsa Pk
+Jorsa Pk trades item: 963 amount: 1000 with colossus
+Jorsa Pk trades item: 1042 amount: 1 with colossus
+Jorsa Pk trades item: 4587 amount: 1 with colossus
+colossus trades item: 293 amount: 1 with jodie1
+pure joo trades item: 6529 amount: 100000 with teak
+pure joo trades item: 6529 amount: 100000 with Dodge This
+ging2k6 trades item: 4747 amount: 1 with pure pker
+ging2k6 trades item: 6528 amount: 1 with pure pker
+ging2k6 trades item: 4206 amount: 1 with pure pker
+ging2k6 trades item: 4101 amount: 1 with pure pker
+ging2k6 trades item: 4353 amount: 1 with pure pker
+ging2k6 trades item: 5698 amount: 1 with pure pker
+ging2k6 trades item: 4117 amount: 1 with pure pker
+ging2k6 trades item: 4109 amount: 1 with pure pker
+ging2k6 trades item: 3751 amount: 1 with pure pker
+ging2k6 trades item: 4111 amount: 1 with pure pker
+ging2k6 trades item: 4113 amount: 1 with pure pker
+ging2k6 trades item: 4115 amount: 1 with pure pker
+ging2k6 trades item: 1313 amount: 1 with gibson2k6
+ging2k6 trades item: 6731 amount: 1 with gibson2k6
+ging2k6 trades item: 1077 amount: 1 with gibson2k6
+ging2k6 trades item: 1165 amount: 1 with gibson2k6
+ging2k6 trades item: 1195 amount: 1 with gibson2k6
+ging2k6 trades item: 7457 amount: 1 with gibson2k6
+ging2k6 trades item: 1712 amount: 1 with gibson2k6
+ging2k6 trades item: 1055 amount: 1 with gibson2k6
+ging2k6 trades item: 4125 amount: 1 with gibson2k6
+ging2k6 trades item: 1327 amount: 1 with gibson2k6
+ging2k6 trades item: 2581 amount: 1 with gibson2k6
+ging2k6 trades item: 392 amount: 8380 with gibson2k6
+ging2k6 trades item: 1125 amount: 1 with gibson2k6
+admin-1337 trades item: 4151 amount: 1 with dudly
+Mako trades item: 6529 amount: 372000 with dudly
+bl33d b33ch trades item: 1051 amount: 10 with boszy
+Mako trades item: 6611 amount: 1 with kid pk3r
+Mako trades item: 6611 amount: 1 with boszy
+baller trades item: 6529 amount: 1654721334 with a c e
+baller trades item: 955 amount: 5000000 with pimp
+baller trades item: 773 amount: 1 with pimp
+baller trades item: 6627 amount: 1 with pimp
+baller trades item: 6617 amount: 1 with pimp
+baller trades item: 6611 amount: 1 with pimp
+baller trades item: 6621 amount: 1 with pimp
+baller trades item: 995 amount: 2000000000 with i r o n pure
+baller trades item: 5574 amount: 1 with i r o n pure
+baller trades item: 5575 amount: 1 with i r o n pure
+baller trades item: 5576 amount: 1 with i r o n pure
+baller trades item: 4716 amount: 1 with nigga
+baller trades item: 4720 amount: 1 with nigga
+baller trades item: 4718 amount: 1 with nigga
+baller trades item: 4722 amount: 1 with nigga
+baller trades item: 4722 amount: 1 with nigga
+i r o n pure trades item: 6619 amount: 1 with stoned
+baller trades item: 4716 amount: 1 with nigga
+baller trades item: 4720 amount: 1 with nigga
+baller trades item: 4718 amount: 1 with nigga
+baller trades item: 4722 amount: 1 with nigga
+stoned trades item: 6570 amount: 1 with i r o n pure
+pimp trades item: 1042 amount: 1 with i r o n pure
+pimp trades item: 4717 amount: 1 with unit l
+pimp trades item: 4719 amount: 1 with unit l
+pimp trades item: 4721 amount: 1 with unit l
+pimp trades item: 4723 amount: 1 with unit l
+pimp trades item: 4709 amount: 1 with unit l
+pimp trades item: 4711 amount: 1 with unit l
+pimp trades item: 4713 amount: 1 with unit l
+pimp trades item: 4715 amount: 1 with unit l
+pimp trades item: 4754 amount: 1 with unit l
+pimp trades item: 4756 amount: 1 with unit l
+pimp trades item: 4758 amount: 1 with unit l
+pimp trades item: 4760 amount: 1 with unit l
+pimp trades item: 4746 amount: 1 with unit l
+pimp trades item: 4748 amount: 1 with unit l
+pimp trades item: 4750 amount: 1 with unit l
+pimp trades item: 4752 amount: 1 with unit l
+pimp trades item: 4733 amount: 1 with unit l
+pimp trades item: 4735 amount: 1 with unit l
+pimp trades item: 4737 amount: 1 with unit l
+pimp trades item: 4739 amount: 1 with unit l
+pimp trades item: 4727 amount: 1 with unit l
+pimp trades item: 4729 amount: 1 with unit l
+pimp trades item: 4731 amount: 1 with unit l
+pimp trades item: 4725 amount: 1 with unit l
+unit l trades item: 995 amount: 600000000 with pimp
+pimp trades item: 4717 amount: 1 with ace
+pimp trades item: 4719 amount: 1 with ace
+pimp trades item: 4721 amount: 1 with ace
+pimp trades item: 4723 amount: 1 with ace
+ace trades item: 995 amount: 100000000 with pimp
+stoned trades item: 995 amount: 100000000 with pimp
+pimp trades item: 4717 amount: 1 with stoned
+pimp trades item: 4719 amount: 1 with stoned
+pimp trades item: 4721 amount: 1 with stoned
+pimp trades item: 4723 amount: 1 with stoned
+i r o n pure trades item: 1042 amount: 1 with pimp
+pimp trades item: 1042 amount: 1 with i r o n pure
+i r o n pure trades item: 6570 amount: 1 with F L 0 Ss 1 N
+baller trades item: 995 amount: 300000000 with cdradio
+Josh trades item: 4587 amount: 1 with spankyownzz
+spankyownzz trades item: 995 amount: 100000 with Josh
+Josh trades item: 4588 amount: 9 with spankyownzz
+spankyownzz trades item: 995 amount: 900000 with Josh
+Josh trades item: 4588 amount: 10 with spankyownzz
+Josh trades item: 773 amount: 1 with rang3 guid3
+rang3 guid3 trades item: 995 amount: 2501414 with sensay
+rang3 guid3 trades item: 773 amount: 1 with sensay
+Josh trades item: 773 amount: 1 with sensay
+rang3 guid3 trades item: 1033 amount: 1 with Zaliron
+rang3 guid3 trades item: 1035 amount: 1 with Zaliron
+rang3 guid3 trades item: 4587 amount: 1 with Zaliron
+rang3 guid3 trades item: 995 amount: 200000000 with robbie willi
+rang3 guid3 trades item: 1053 amount: 1 with robbie willi
+rang3 guid3 trades item: 1057 amount: 1 with robbie willi
+rang3 guid3 trades item: 1055 amount: 1 with robbie willi
+rang3 guid3 trades item: 995 amount: 121495245 with Crazycat
+rang3 guid3 trades item: 1050 amount: 1 with Crazycat
+rang3 guid3 trades item: 4712 amount: 1 with Crazycat
+rang3 guid3 trades item: 4714 amount: 1 with Crazycat
+rang3 guid3 trades item: 4708 amount: 1 with Crazycat
+rang3 guid3 trades item: 1704 amount: 1 with Crazycat
+rang3 guid3 trades item: 775 amount: 1 with Crazycat
+rang3 guid3 trades item: 1837 amount: 1 with Crazycat
+rang3 guid3 trades item: 4151 amount: 1 with Crazycat
+rang3 guid3 trades item: 1052 amount: 1 with Crazycat
+rang3 guid3 trades item: 995 amount: 200000000 with Big Shady
+Crazycat trades item: 6524 amount: 1 with Big Shady
+Crazycat trades item: 4087 amount: 1 with Big Shady
+rang3 guid3 trades item: 4755 amount: 1 with Crazycat
+rang3 guid3 trades item: 4718 amount: 1 with Crazycat
+rang3 guid3 trades item: 4747 amount: 1 with Crazycat
+rang3 guid3 trades item: 4587 amount: 1 with Crazycat
+rang3 guid3 trades item: 4726 amount: 1 with Crazycat
+rang3 guid3 trades item: 4710 amount: 1 with Crazycat
+rang3 guid3 trades item: 4834 amount: 1 with Crazycat
+rang3 guid3 trades item: 4834 amount: 1 with Crazycat
+rang3 guid3 trades item: 3842 amount: 1 with Crazycat
+rang3 guid3 trades item: 392 amount: 1010001 with Crazycat
+rang3 guid3 trades item: 392 amount: 10000000 with Crazycat
+rang3 guid3 trades item: 4725 amount: 1 with Crazycat
+rang3 guid3 trades item: 4731 amount: 1 with Crazycat
+rang3 guid3 trades item: 4746 amount: 1 with Crazycat
+rang3 guid3 trades item: 4754 amount: 1 with Crazycat
+rang3 guid3 trades item: 4729 amount: 1 with Crazycat
+rang3 guid3 trades item: 4733 amount: 1 with Crazycat
+rang3 guid3 trades item: 4737 amount: 1 with Crazycat
+rang3 guid3 trades item: 4758 amount: 1 with Crazycat
+rang3 guid3 trades item: 4717 amount: 1 with Crazycat
+rang3 guid3 trades item: 4739 amount: 1 with Crazycat
+rang3 guid3 trades item: 4715 amount: 1 with Crazycat
+rang3 guid3 trades item: 4756 amount: 1 with Crazycat
+rang3 guid3 trades item: 4721 amount: 1 with Crazycat
+rang3 guid3 trades item: 4760 amount: 1 with Crazycat
+rang3 guid3 trades item: 4750 amount: 1 with Crazycat
+rang3 guid3 trades item: 4711 amount: 1 with Crazycat
+rang3 guid3 trades item: 4735 amount: 1 with Crazycat
+rang3 guid3 trades item: 4748 amount: 1 with Crazycat
+rang3 guid3 trades item: 4723 amount: 1 with Crazycat
+rang3 guid3 trades item: 4713 amount: 1 with Crazycat
+rang3 guid3 trades item: 4752 amount: 1 with Crazycat
+rang3 guid3 trades item: 4719 amount: 1 with Crazycat
+rang3 guid3 trades item: 4727 amount: 1 with Crazycat
+rang3 guid3 trades item: 1038 amount: 1 with Crazycat
+rang3 guid3 trades item: 1037 amount: 1 with Crazycat
+Crazycat trades item: 4755 amount: 1 with Big Shady
+rang3 guid3 trades item: 1055 amount: 1 with Crazycat
+rang3 guid3 trades item: 1048 amount: 1 with Crazycat
+Crazycat trades item: 995 amount: 100000000 with n00b
+Crazycat trades item: 4726 amount: 1 with n00b
+Crazycat trades item: 4753 amount: 1 with n00b
+Crazycat trades item: 4757 amount: 1 with n00b
+Crazycat trades item: 4759 amount: 1 with n00b
+Crazycat trades item: 4214 amount: 1 with n00b
+Crazycat trades item: 4718 amount: 1 with n00b
+Crazycat trades item: 391 amount: 1 with n00b
+Josh trades item: 995 amount: 2000000000 with Crazycat
+Josh trades item: 4214 amount: 1 with n00b
+Josh trades item: 6570 amount: 1 with n00b
+Josh trades item: 6922 amount: 1 with n00b
+Josh trades item: 6585 amount: 1 with n00b
+Josh trades item: 6916 amount: 1 with n00b
+Josh trades item: 6920 amount: 1 with n00b
+Josh trades item: 773 amount: 1 with n00b
+Josh trades item: 6924 amount: 1 with n00b
+.Kallum. trades item: 1042 amount: 1 with Dakafall
+.Kallum. trades item: 6106 amount: 1 with Dakafall
+.Kallum. trades item: 6108 amount: 1 with Dakafall
+.Kallum. trades item: 6110 amount: 1 with Dakafall
+.Kallum. trades item: 6629 amount: 1 with Dakafall
+.Kallum. trades item: 6107 amount: 1 with Dakafall
+.Kallum. trades item: 1052 amount: 1 with Dakafall
+.Kallum. trades item: 6621 amount: 1 with Dakafall
+.Kallum. trades item: 6619 amount: 1 with Dakafall
+.Kallum. trades item: 6625 amount: 1 with Dakafall
+.Kallum. trades item: 6633 amount: 1 with Dakafall
+.Kallum. trades item: 6615 amount: 1 with Dakafall
+.Kallum. trades item: 6920 amount: 1 with Dakafall
+.Kallum. trades item: 1712 amount: 1 with Dakafall
+.Kallum. trades item: 4151 amount: 1 with Dakafall
+.Kallum. trades item: 995 amount: 74951260 with Dakafall
+.Kallum. trades item: 773 amount: 1 with Dakafall
+.Kallum. trades item: 6916 amount: 1 with Dakafall
+.Kallum. trades item: 6918 amount: 1 with Dakafall
+.Kallum. trades item: 6617 amount: 1 with Dakafall
+.Kallum. trades item: 6607 amount: 1 with Dakafall
+!!!!!! trades item: 4724 amount: 1 with ugot maged
+!!!!!! trades item: 4720 amount: 1 with ugot maged
+!!!!!! trades item: 4722 amount: 1 with ugot maged
+!!!!!! trades item: 1127 amount: 1 with ugot maged
+!!!!!! trades item: 4214 amount: 1 with ugot maged
+!!!!!! trades item: 4151 amount: 1 with ugot maged
+!!!!!! trades item: 4747 amount: 1 with ugot maged
+!!!!!! trades item: 7461 amount: 1 with ugot maged
+!!!!!! trades item: 2491 amount: 1 with ugot maged
+!!!!!! trades item: 5698 amount: 1 with ugot maged
+!!!!!! trades item: 6570 amount: 1 with ugot maged
+!!!!!! trades item: 6585 amount: 1 with ugot maged
+ugot maged trades item: 1165 amount: 1 with !!!!!!
+ugot maged trades item: 5574 amount: 1 with !!!!!!
+ugot maged trades item: 5576 amount: 1 with !!!!!!
+ugot maged trades item: 5575 amount: 1 with !!!!!!
+ugot maged trades item: 4747 amount: 1 with !!!!!!
+ugot maged trades item: 6570 amount: 1 with !!!!!!
+kartul90 trades item: 995 amount: 37199702 with rs pker
+kartul90 trades item: 1111 amount: 1 with rs pker
+zammy mage trades item: 6611 amount: 1 with The Devil
+The Devil trades item: 995 amount: 1000000000 with zammy mage
+zammy mage trades item: 995 amount: 1000000000 with ghetto sean
+oi oi oi trades item: 1042 amount: 1 with The Devil
+oi oi o trades item: 1042 amount: 1 with The Devil
+pur3 n0ob1 trades item: 1042 amount: 1 with pur3 n0ob
+pur3 n0ob1 trades item: 4151 amount: 1 with pur3 n0ob
+pur3 n0ob12 trades item: 1042 amount: 1 with pur3 n0ob
+pur3 n0ob123 trades item: 1042 amount: 1 with pur3 n0ob
+pur3 n0ob123 trades item: 4151 amount: 1 with pur3 n0ob
+pur3 n0ob2 trades item: 4151 amount: 1 with pur3 n0ob
+pur3 n0ob2 trades item: 1042 amount: 1 with pur3 n0ob
+pur3 n0ob22 trades item: 1042 amount: 1 with pur3 n0ob
+pur3 n0ob22 trades item: 4151 amount: 1 with pur3 n0ob
+arse trades item: 1042 amount: 1 with The Devil
+lolx4 trades item: 6106 amount: 1 with 1337 n33bz0r
+lolx4 trades item: 1042 amount: 1 with 1337 n33bz0r
+lolx4 trades item: 1712 amount: 1 with 1337 n33bz0r
+lolx4 trades item: 6110 amount: 1 with 1337 n33bz0r
+lolx4 trades item: 4151 amount: 1 with 1337 n33bz0r
+lolx4 trades item: 1052 amount: 1 with 1337 n33bz0r
+lolx4 trades item: 6108 amount: 1 with 1337 n33bz0r
+lolx4 trades item: 6107 amount: 1 with 1337 n33bz0r
+no0ob trades item: 1042 amount: 1 with 1337 n33bz0r
+no0ob trades item: 4151 amount: 1 with 1337 n33bz0r
+no0ob trades item: 1712 amount: 1 with 1337 n33bz0r
+ars trades item: 1042 amount: 1 with The Devil
+lol trades item: 1042 amount: 1 with The Devil
+pur3 n0ob trades item: 6607 amount: 1 with louisetje830
+fsdf trades item: 1042 amount: 1 with 1337 n33bz0r
+fsdf trades item: 4151 amount: 1 with 1337 n33bz0r
+pur3 n0ob trades item: 6607 amount: 1 with The Devil
+The Devil trades item: 995 amount: 1282116101 with louisetje830
+The Devil trades item: 1050 amount: 1 with louisetje830
+The Devil trades item: 6607 amount: 1 with louisetje830
+The Devil trades item: 3105 amount: 1 with wat now girl
+ghetto sean trades item: 4751 amount: 1 with impure321
+ghetto sean trades item: 4747 amount: 1 with impure321
+ghetto sean trades item: 4749 amount: 1 with impure321
+ghetto sean trades item: 4745 amount: 1 with impure321
+The Devil trades item: 995 amount: 11997560 with Kevin
+ghetto sean trades item: 995 amount: 17251885 with hutcho
+v pure v trades item: 391 amount: 1 with abbywhip
+v pure v trades item: 391 amount: 1 with abbywhip
+dick inmouth trades item: 1042 amount: 1 with Karn1v0r
+dick inmouth trades item: 4151 amount: 1 with Karn1v0r
+dick inbutt trades item: 1042 amount: 1 with Karn1v0r
+dick inbutt trades item: 4151 amount: 1 with Karn1v0r
+dick inhand trades item: 1042 amount: 1 with Karn1v0r
+dick inhand trades item: 4151 amount: 1 with Karn1v0r
+dick in ear trades item: 1042 amount: 1 with Karn1v0r
+dick in ear trades item: 4151 amount: 1 with Karn1v0r
+assonrowan trades item: 1042 amount: 1 with dick in nose
+assonrowan trades item: 4151 amount: 1 with dick in nose
+assonrowan trades item: 995 amount: 5000000 with dick in nose
+assonrowan trades item: 1042 amount: 1 with dick in nose

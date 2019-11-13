@@ -1,0 +1,117 @@
+#
+# An unexpected error has been detected by Java Runtime Environment:
+#
+# java.lang.OutOfMemoryError: requested 163840 bytes for GrET in C:\BUILD_AREA\jdk6_06\hotspot\src\share\vm\utilities\growableArray.cpp. Out of swap space?
+#
+#  Internal Error (allocation.inline.hpp:42), pid=908, tid=3712
+#  Error: GrET in C:\BUILD_AREA\jdk6_06\hotspot\src\share\vm\utilities\growableArray.cpp
+#
+# Java VM: Java HotSpot(TM) Client VM (10.0-b22 mixed mode, sharing windows-x86)
+# If you would like to submit a bug report, please visit:
+#   http://java.sun.com/webapps/bugreport/crash.jsp
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x02bfbc00):  VMThread [stack: 0x02ce0000,0x02d30000] [id=3712]
+
+Stack: [0x02ce0000,0x02d30000]
+[error occurred during error reporting (printing stack bounds), id 0x80000001]
+
+VM_Operation (0x02faf948): GenCollectForAllocation, mode: safepoint, requested by thread 0x02c47800
+
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+  0x02cb1c00 JavaThread "Thread-101" [_thread_in_native, id=1160, stack(0x03de0000,0x03e30000)]
+  0x03046400 JavaThread "Thread-22" [_thread_blocked, id=2988, stack(0x03e30000,0x03e80000)]
+  0x02fe0c00 JavaThread "Thread-19" [_thread_blocked, id=2716, stack(0x03ed0000,0x03f20000)]
+  0x02c47800 JavaThread "Thread-0" [_thread_blocked, id=3032, stack(0x02f60000,0x02fb0000)]
+  0x02c16000 JavaThread "Low Memory Detector" daemon [_thread_blocked, id=2968, stack(0x02ec0000,0x02f10000)]
+  0x02c08000 JavaThread "CompilerThread0" daemon [_thread_blocked, id=3104, stack(0x02e70000,0x02ec0000)]
+  0x02c06c00 JavaThread "Attach Listener" daemon [_thread_blocked, id=216, stack(0x02e20000,0x02e70000)]
+  0x02c06000 JavaThread "Signal Dispatcher" daemon [_thread_blocked, id=752, stack(0x02dd0000,0x02e20000)]
+  0x02c01400 JavaThread "Finalizer" daemon [_thread_blocked, id=1296, stack(0x02d80000,0x02dd0000)]
+  0x02bfd000 JavaThread "Reference Handler" daemon [_thread_blocked, id=864, stack(0x02d30000,0x02d80000)]
+  0x00295400 JavaThread "main" [_thread_in_native, id=1516, stack(0x008c0000,0x00910000)]
+
+Other Threads:
+=>0x02bfbc00 VMThread [stack: 0x02ce0000,0x02d30000] [id=3712]
+  0x02c29000 WatcherThread [stack: 0x02f10000,0x02f60000] [id=2204]
+
+VM state:at safepoint (normal execution)
+
+VM Mutex/Monitor currently owned by a thread:  ([mutex/lock_event])
+[0x00294c80/0x0000070c] Threads_lock - owner thread: 0x02bfbc00
+[0x00294e20/0x000006cc] Heap_lock - owner thread: 0x02c47800
+
+Heap
+ def new generation   total 23168K, used 23080K [0x06960000, 0x08280000, 0x090c0000)
+  eden space 20608K,  99% used [0x06960000, 0x07d6a300, 0x07d80000)
+  from space 2560K, 100% used [0x08000000, 0x08280000, 0x08280000)
+  to   space 2560K,   0% used [0x07d80000, 0x07d80000, 0x08000000)
+ tenured generation   total 316216K, used 316093K [0x090c0000, 0x1c58e000, 0x26960000)
+   the space 316216K,  99% used [0x090c0000, 0x1c56f528, 0x1c56f600, 0x1c58e000)
+ compacting perm gen  total 12288K, used 1006K [0x26960000, 0x27560000, 0x2a960000)
+   the space 12288K,   8% used [0x26960000, 0x26a5baf0, 0x26a5bc00, 0x27560000)
+    ro space 8192K,  62% used [0x2a960000, 0x2ae62a60, 0x2ae62c00, 0x2b160000)
+    rw space 12288K,  52% used [0x2b160000, 0x2b7a86e0, 0x2b7a8800, 0x2bd60000)
+
+Dynamic libraries:
+0x00400000 - 0x00423000 	C:\WINDOWS\system32\java.exe
+0x7c900000 - 0x7c9b0000 	C:\WINDOWS\system32\ntdll.dll
+0x7c800000 - 0x7c8f5000 	C:\WINDOWS\system32\kernel32.dll
+0x77dd0000 - 0x77e6b000 	C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000 - 0x77f02000 	C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000 - 0x77ff1000 	C:\WINDOWS\system32\Secur32.dll
+0x7c340000 - 0x7c396000 	C:\Program Files\Java\jre1.6.0_06\bin\msvcr71.dll
+0x6d7c0000 - 0x6da10000 	C:\Program Files\Java\jre1.6.0_06\bin\client\jvm.dll
+0x7e410000 - 0x7e4a0000 	C:\WINDOWS\system32\USER32.dll
+0x77f10000 - 0x77f57000 	C:\WINDOWS\system32\GDI32.dll
+0x76b40000 - 0x76b6d000 	C:\WINDOWS\system32\WINMM.dll
+0x76390000 - 0x763ad000 	C:\WINDOWS\system32\IMM32.DLL
+0x6d270000 - 0x6d278000 	C:\Program Files\Java\jre1.6.0_06\bin\hpi.dll
+0x76bf0000 - 0x76bfb000 	C:\WINDOWS\system32\PSAPI.DLL
+0x6d770000 - 0x6d77c000 	C:\Program Files\Java\jre1.6.0_06\bin\verify.dll
+0x6d310000 - 0x6d32f000 	C:\Program Files\Java\jre1.6.0_06\bin\java.dll
+0x6d7b0000 - 0x6d7bf000 	C:\Program Files\Java\jre1.6.0_06\bin\zip.dll
+0x6d570000 - 0x6d583000 	C:\Program Files\Java\jre1.6.0_06\bin\net.dll
+0x71ab0000 - 0x71ac7000 	C:\WINDOWS\system32\WS2_32.dll
+0x77c10000 - 0x77c68000 	C:\WINDOWS\system32\msvcrt.dll
+0x71aa0000 - 0x71aa8000 	C:\WINDOWS\system32\WS2HELP.dll
+0x71a50000 - 0x71a8f000 	C:\WINDOWS\system32\mswsock.dll
+0x662b0000 - 0x66308000 	C:\WINDOWS\system32\hnetcfg.dll
+0x71a90000 - 0x71a98000 	C:\WINDOWS\System32\wshtcpip.dll
+0x76f20000 - 0x76f47000 	C:\WINDOWS\system32\DNSAPI.dll
+0x76fb0000 - 0x76fb8000 	C:\WINDOWS\System32\winrnr.dll
+0x76f60000 - 0x76f8c000 	C:\WINDOWS\system32\WLDAP32.dll
+0x76fc0000 - 0x76fc6000 	C:\WINDOWS\system32\rasadhlp.dll
+
+VM Arguments:
+jvm_args: -Xmx512m 
+java_command: server
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+CLASSPATH=CLASSPATH=C:\Program Files\Java\jdk1.6.0_06\bin;C:\Program Files\Java\jre1.6.0_06\lib\ext\QTJava.zip;
+PATH=C:\WINDOWS\system32;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Common Files\Adaptec Shared\System;C:\Program Files\QuickTime\QTSystem\;C:\Program Files\Java\jdk1.6.0_06\bin;;C:\PROGRA~1\COMMON~1\MUVEET~1\030625
+USERNAME=Owner
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=x86 Family 15 Model 2 Stepping 9, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows XP Build 2600 Service Pack 2
+
+CPU:total 1 (1 cores per cpu, 1 threads per core) family 15 model 2 stepping 9, cmov, cx8, fxsr, mmx, sse, sse2
+
+Memory: 4k page, physical 391168k(4636k free), swap 746360k(5228k free)
+
+vm_info: Java HotSpot(TM) Client VM (10.0-b22) for windows-x86 JRE (1.6.0_06-b02), built on Mar 25 2008 01:22:05 by "java_re" with MS VC++ 7.1
+
+time: Sat Jul 12 14:16:58 2008
+elapsed time: 753 seconds
+

@@ -1,0 +1,10 @@
+@yel@   Ancients Rules!                        Quest
+
+@red@@str@ I talked to davey.
+@red@@str@ I read Davey's Notes
+@red@@str@ I found the area from notes
+
+@red@ I need to open this casket.
+@red@ Before i give it to Davey.
+
+@gre@ No monster :)

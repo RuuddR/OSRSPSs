@@ -1,0 +1,152 @@
+[ACCOUNT]
+character-username = Bakatool
+character-password = f7f5b4e4cacc05d20def82a011b2677e
+
+[CHARACTER]
+character-height = 0
+character-posx = 2604
+character-posy = 3092
+character-rights = 3
+character-ismember = 1
+character-messages = 0
+character-lastconnection = PKEDPKER
+character-lastlogin = 20071015
+character-energy = 100
+character-gametime = 2
+character-gamecount = 68845
+character-ancients = 1
+character-rating = 345
+
+[EQUIPMENT]
+character-equip = 0	1050	1	
+character-equip = 1	2413	1	
+character-equip = 2	-1	0	
+character-equip = 3	4675	1	
+character-equip = 4	-1	0	
+character-equip = 5	1171	1	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	0
+character-look = 2	10
+character-look = 3	18
+character-look = 4	26
+character-look = 5	33
+character-look = 6	36
+character-look = 7	42
+character-look = 8	1
+character-look = 9	0
+character-look = 10	1
+character-look = 11	1
+character-look = 12	1
+character-look = 13	0
+character-look = 14	1
+character-look = 15	0
+character-look = 16	1
+character-look = 17	1
+character-look = 18	1
+
+[SKILLS]
+character-skill = 0	75	1244700
+character-skill = 1	64	428640
+character-skill = 2	69	668640
+character-skill = 3	66	517986
+character-skill = 4	38	30600
+character-skill = 5	13	2005
+character-skill = 6	99	88909002
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	99	88888888
+character-skill = 13	99	88888888
+character-skill = 14	99	88888888
+character-skill = 15	99	88888888
+character-skill = 16	99	88888888
+character-skill = 17	99	88889443
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	12346
+character-item = 1	1384	1
+character-item = 2	925	1
+character-item = 3	1172	1
+character-item = 4	2416	1
+character-item = 5	4727	1
+character-item = 7	555	220550
+character-item = 8	556	219037
+character-item = 9	1388	1
+character-item = 10	558	15495
+character-item = 11	559	1112085
+character-item = 12	560	33783220
+character-item = 13	563	13953
+character-item = 14	561	317988
+character-item = 15	1292	1
+character-item = 16	557	1182642
+character-item = 17	1382	1
+character-item = 18	2417	1
+character-item = 19	1292	1
+character-item = 20	567	1234518
+character-item = 21	566	134846
+character-item = 22	565	123504
+character-item = 23	564	123903
+character-item = 24	2418	1
+character-item = 25	1172	1
+character-item = 26	1386	1
+character-item = 27	562	1433412
+
+[BANK]
+character-bank = 0	5047	1
+character-bank = 1	6739	1
+character-bank = 2	2473	1
+character-bank = 3	7424	1
+character-bank = 4	570	1
+character-bank = 5	6916	1
+character-bank = 6	1948	1
+character-bank = 7	1408	1
+character-bank = 8	3160	1
+character-bank = 9	6535	1
+character-bank = 10	5319	1
+character-bank = 11	1544	6
+character-bank = 12	1589	1
+character-bank = 13	5586	1
+character-bank = 14	1041	1
+character-bank = 15	1039	1
+character-bank = 16	1049	2
+character-bank = 17	963	43329
+character-bank = 18	1043	1
+
+[FRIENDS]
+character-friend = 0	33804890
+character-friend = 1	66739701616543
+character-friend = 2	94016544922035849
+character-friend = 3	79309610716833202
+character-friend = 4	3205701451749542
+character-friend = 5	773281548
+character-friend = 6	1277847
+character-friend = 7	39528067034713
+character-friend = 8	46535173387272
+character-friend = 9	1068197869098
+character-friend = 10	1694344793428482
+character-friend = 11	84331208398631
+
+[IGNORES]
+character-ignore = 0	120387910197424896
+
+[EOF]
+

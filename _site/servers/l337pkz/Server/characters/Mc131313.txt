@@ -1,0 +1,78 @@
+[ACCOUNT]
+character-username = Mc131313
+character-password = 94-91-237-187-181-0-136-92-175-124-86-31-242-197-119-247
+
+[CHARACTER]
+character-height = 0
+character-posx = 3251
+character-posy = 3433
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = d141-181-42.home.cgocable.net
+character-lastlogin = 20061111
+character-energy = 6
+character-gametime = 0
+character-gamecount = 384
+
+[EQUIPMENT]
+character-equip = 0	1042	0	
+character-equip = 1	1052	0	
+character-equip = 2	1712	0	
+character-equip = 3	4151	0	
+character-equip = 4	6107	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	6108	0	
+character-equip = 8	-1	0	
+character-equip = 9	6110	0	
+character-equip = 10	6106	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	0
+character-look = 2	6
+character-look = 3	15
+character-look = 4	0
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	1	0
+character-skill = 2	39	34200
+character-skill = 3	99	14237996
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	39	34200
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

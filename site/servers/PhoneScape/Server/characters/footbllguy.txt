@@ -1,0 +1,88 @@
+[ACCOUNT]
+character-username = footbllguy
+character-password = 187-54-254-170-196-109-122-170-180-24-19-139-87-143-215-224
+
+[CHARACTER]
+character-height = 0
+character-posx = 3254
+character-posy = 3421
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = cpe-071-070-246-095.nc.res.rr.com
+character-lastlogin = 20061102
+character-energy = 54
+character-gametime = 0
+character-gamecount = 9834
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	63	190650
+character-skill = 1	60	144750
+character-skill = 2	63	200100
+character-skill = 3	99	15693086
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	99	7822525
+character-skill = 7	1	0
+character-skill = 8	17	1775
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	77	743550
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	6740	1
+character-bank = 1	1232	1
+character-bank = 2	1306	1
+character-bank = 3	4588	1
+character-bank = 4	1435	1
+character-bank = 5	5731	1
+character-bank = 6	7159	1
+character-bank = 7	1378	1
+character-bank = 8	3205	81
+character-bank = 9	996	92674781
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

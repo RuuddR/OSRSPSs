@@ -1,0 +1,160 @@
+[ACCOUNT]
+character-username = blowmejr
+character-password = 20-232-117-83-243-13-4-19-179-227-21-67-96-228-190-34
+
+[CHARACTER]
+character-height = 0
+character-posx = 3210
+character-posy = 3424
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = static-71-168-34-33.hag.east.verizon.net
+character-lastlogin = 20061105
+character-energy = 5
+character-gametime = 0
+character-gamecount = 109951
+
+[EQUIPMENT]
+character-equip = 0	3751	1	
+character-equip = 1	6570	1	
+character-equip = 2	6585	1	
+character-equip = 3	4151	1	
+character-equip = 4	4720	1	
+character-equip = 5	2997	1	
+character-equip = 6	-1	0	
+character-equip = 7	4722	1	
+character-equip = 8	-1	0	
+character-equip = 9	7462	1	
+character-equip = 10	3105	1	
+character-equip = 11	-1	0	
+character-equip = 12	6731	1	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	117	6576308
+character-skill = 1	117	6537000
+character-skill = 2	117	6609300
+character-skill = 3	80	41856961
+character-skill = 4	1	28
+character-skill = 5	50	52920
+character-skill = 6	99	11589280
+character-skill = 7	1	0
+character-skill = 8	19	2225
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	25	3965
+character-skill = 18	99	21594930
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	564968
+character-item = 5	392	1
+character-item = 6	392	1
+character-item = 7	392	1
+character-item = 8	392	1
+character-item = 9	392	1
+character-item = 10	392	1
+character-item = 11	392	1
+character-item = 12	392	1
+character-item = 13	392	1
+character-item = 14	392	1
+character-item = 15	392	1
+character-item = 16	392	1
+character-item = 17	392	1
+character-item = 18	392	1
+character-item = 19	392	1
+character-item = 20	392	1
+character-item = 21	392	1
+character-item = 22	392	1
+character-item = 23	392	1
+character-item = 24	392	1
+character-item = 25	392	1
+character-item = 26	392	1
+character-item = 27	392	1
+
+[BANK]
+character-bank = 0	996	2049285307
+character-bank = 1	3790	4
+character-bank = 2	982	1
+character-bank = 3	1043	1
+character-bank = 4	1058	2
+character-bank = 5	7387	1
+character-bank = 6	1420	2
+character-bank = 7	4723	1
+character-bank = 8	7536	1
+character-bank = 9	1990	1
+character-bank = 10	7391	1
+character-bank = 11	7395	1
+character-bank = 12	1054	1
+character-bank = 13	1056	1
+character-bank = 14	1352	1
+character-bank = 15	1038	1
+character-bank = 16	5575	8
+character-bank = 17	5576	10
+character-bank = 18	5577	9
+character-bank = 19	7463	9
+character-bank = 20	3106	7
+character-bank = 21	6586	7
+character-bank = 22	2998	7
+character-bank = 23	6732	7
+character-bank = 24	7159	10
+character-bank = 25	6736	2
+character-bank = 26	4152	4
+character-bank = 27	6571	10
+character-bank = 28	4835	215
+character-bank = 29	6569	2
+character-bank = 30	6923	1
+character-bank = 31	6525	2
+character-bank = 32	4746	1
+character-bank = 33	1041	1
+character-bank = 34	2447	9
+character-bank = 36	3752	10
+character-bank = 37	4717	3
+character-bank = 38	7462	1
+character-bank = 39	1713	1
+character-bank = 40	1232	1
+character-bank = 41	3272	1
+character-bank = 42	3778	2
+character-bank = 43	4729	1
+character-bank = 44	4731	1
+character-bank = 45	4725	1
+character-bank = 46	1705	1
+character-bank = 48	7461	1
+character-bank = 49	4094	1
+character-bank = 50	4719	2
+character-bank = 51	3388	1
+character-bank = 52	6919	1
+character-bank = 53	4752	1
+character-bank = 54	4748	1
+
+[FRIENDS]
+character-friend = 1	31621503190415
+character-friend = 2	204800
+character-friend = 4	823266
+character-friend = 5	45076069286035
+character-friend = 6	92406623326784260
+
+[IGNORES]
+
+[EOF]
+

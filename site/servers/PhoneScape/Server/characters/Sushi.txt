@@ -1,0 +1,81 @@
+[ACCOUNT]
+character-username = Sushi
+character-password = 181-63-95-176-37-39-84-112-150-239-243-186-248-235-36-226
+
+[CHARACTER]
+character-height = 0
+character-posx = 3253
+character-posy = 3431
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = 74.255.165.116
+character-lastlogin = 20061102
+character-energy = 50
+character-gametime = 0
+character-gamecount = 14173
+
+[EQUIPMENT]
+character-equip = 0	4716	1	
+character-equip = 1	-1	0	
+character-equip = 2	6585	1	
+character-equip = 3	4718	1	
+character-equip = 4	4720	1	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	4722	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	90	2878200
+character-skill = 1	83	1391400
+character-skill = 2	82	1292400
+character-skill = 3	45	20454119
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	8	485
+character-skill = 18	99	6579600
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	2348	1
+character-item = 1	312	1
+character-item = 2	996	2129005
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

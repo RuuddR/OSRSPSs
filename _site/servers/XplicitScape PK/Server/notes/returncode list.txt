@@ -1,0 +1,21 @@
+0 - Starts login process.
+1 - Calls the login void.
+2 - Make a new player.
+3 - Invalid username or password.
+4 - Your account has been disabled.
+5 - Your account is already logged in.
+6 - RuneScape has been updated!
+7 - This world is full.
+8 - Unable to connect.
+9 - Login limit exceeded.
+10 - Unable to connect.
+11 - Login server rejected session.
+12 - You need a members account to login to this world.
+13 - Could not complete login.
+14 - The server is being updated.
+15 - Not sure.
+16 - Login attempts exceeded.
+17 - You are standing in a members-only area.
+20 - Invalid loginserver requested
+21 - You have only just left another world
+-1 - No response from loginserver.

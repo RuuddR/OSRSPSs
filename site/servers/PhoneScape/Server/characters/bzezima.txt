@@ -1,0 +1,83 @@
+[ACCOUNT]
+character-username = bzezima
+character-password = 203-212-79-139-91-72-165-31-125-171-152-171-205-244-93-78
+
+[CHARACTER]
+character-height = 0
+character-posx = 3250
+character-posy = 3432
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = ip68-98-54-147.ph.ph.cox.net
+character-lastlogin = 20061104
+character-energy = 100
+character-gametime = 0
+character-gamecount = 20898
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	1
+character-look = 1	5
+character-look = 2	0
+character-look = 3	0
+character-look = 4	0
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	72	465000
+character-skill = 1	95	4418550
+character-skill = 2	65	238500
+character-skill = 3	99	15742450
+character-skill = 4	44	28161
+character-skill = 5	1	0
+character-skill = 6	99	9579812
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	20
+character-skill = 18	97	5755360
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	3273	146
+
+[BANK]
+character-bank = 0	6571	2
+character-bank = 1	4676	1
+character-bank = 2	996	300000
+
+[FRIENDS]
+character-friend = 0	2108947923433780
+
+[IGNORES]
+
+[EOF]
+

@@ -1,0 +1,95 @@
+[ACCOUNT]
+character-username = pk pur3
+character-password = yeah
+
+[CHARACTER]
+character-height = 0
+character-posx = 2898
+character-posy = 9910
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = 71.31.135.117
+character-lastlogin = 20080014
+character-energy = 100
+character-gametime = 0
+character-gamecount = 1195
+
+[EQUIPMENT]
+character-equip = 0	1017	1	
+character-equip = 1	6568	1	
+character-equip = 2	1704	0	
+character-equip = 3	1333	1	
+character-equip = 4	6107	1	
+character-equip = 5	3842	1	
+character-equip = 6	-1	0	
+character-equip = 7	7386	1	
+character-equip = 8	-1	0	
+character-equip = 9	6110	1	
+character-equip = 10	6106	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	1
+character-look = 2	1
+character-look = 3	2
+character-look = 4	0
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	42	23800
+character-skill = 1	1	0
+character-skill = 2	48	45900
+character-skill = 3	53	25755
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	75	641355
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	14753552
+character-item = 1	393	1500
+character-item = 2	1172	1
+character-item = 3	1022	1
+character-item = 4	1320	1
+character-item = 5	557	200
+character-item = 6	556	181
+character-item = 7	1324	1
+character-item = 8	4279	72
+character-item = 9	555	100
+character-item = 10	2416	1
+character-item = 11	561	72
+character-item = 12	563	80
+character-item = 13	6109	1
+character-item = 14	4588	1
+character-item = 15	4727	1
+character-item = 16	5699	1
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

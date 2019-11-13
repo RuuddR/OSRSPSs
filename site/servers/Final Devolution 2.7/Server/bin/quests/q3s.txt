@@ -1,0 +1,4 @@
+@yel@   Drogo's little helper!                        Quest
+
+@red@@str@ I spoke to Drogo.
+@red@ maybe i should find his pick-axe

@@ -1,0 +1,102 @@
+[ACCOUNT]
+character-username = Master Realm
+character-password = 95-77-204-59-90-167-101-214-29-131-39-222-184-130-207-153
+
+[CHARACTER]
+character-height = 0
+character-posx = 2899
+character-posy = 3557
+character-rights = 3
+character-ismember = 1
+character-messages = 0
+character-lastconnection = 82-45-106-38.cable.ubr03.gray.blueyonder.co.uk
+character-lastlogin = 20080102
+character-energy = 100
+character-gametime = 0
+character-gamecount = 14155
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	3
+character-look = 2	0
+character-look = 3	0
+character-look = 4	0
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	99	135065500
+character-skill = 1	99	134190000
+character-skill = 2	99	134190000
+character-skill = 3	99	134501039
+character-skill = 4	99	134190000
+character-skill = 5	99	134190000
+character-skill = 6	99	135668200
+character-skill = 7	99	134190000
+character-skill = 8	99	134487000
+character-skill = 9	99	134190000
+character-skill = 10	99	134190000
+character-skill = 11	99	134190000
+character-skill = 12	99	134190000
+character-skill = 13	99	134190000
+character-skill = 14	99	134190000
+character-skill = 15	99	134190000
+character-skill = 16	99	134190000
+character-skill = 17	99	134190000
+character-skill = 18	99	134190000
+character-skill = 19	99	134190000
+character-skill = 20	99	134190000
+character-skill = 21	99	134190000
+character-skill = 22	99	134190000
+character-skill = 23	99	134190000
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	386	1
+
+[BANK]
+character-bank = 0	543	1
+character-bank = 1	545	1
+character-bank = 2	4721	1
+character-bank = 3	2416	1
+character-bank = 4	994	9
+character-bank = 5	9357	1
+character-bank = 6	6740	1
+character-bank = 7	1043	1
+character-bank = 8	564	99999999
+character-bank = 9	1056	1
+character-bank = 10	4279	1000104984
+character-bank = 11	996	906671629
+character-bank = 12	4719	1
+character-bank = 13	1410	1
+character-bank = 16	555	1000
+character-bank = 17	556	1005000
+character-bank = 18	4279	1000000002
+character-bank = 19	561	99999995
+character-bank = 20	565	999999999
+character-bank = 21	557	99999
+character-bank = 23	1053	1
+character-bank = 24	386	9909
+character-bank = 25	1507	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

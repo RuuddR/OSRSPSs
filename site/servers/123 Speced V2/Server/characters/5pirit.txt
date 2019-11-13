@@ -1,0 +1,119 @@
+[ACCOUNT]
+character-username = 5pirit
+character-password = iluvzezimu
+
+[CHARACTER]
+character-height = 0
+character-posx = 2893
+character-posy = 3507
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = 24-179-244-129.dhcp.roch.mn.charter.com
+character-lastlogin = 20080014
+character-energy = 100
+character-gametime = 0
+character-gamecount = 5935
+
+[EQUIPMENT]
+character-equip = 0	4716	1	
+character-equip = 1	1052	1	
+character-equip = 2	1704	1	
+character-equip = 3	2415	1	
+character-equip = 4	4720	1	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	1079	1	
+character-equip = 8	-1	0	
+character-equip = 9	4105	1	
+character-equip = 10	15352	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	892	140	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	81	1170450
+character-skill = 1	71	442850
+character-skill = 2	73	514300
+character-skill = 3	35	971753
+character-skill = 4	74	596960
+character-skill = 5	83	1364720
+character-skill = 6	72	487215
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	4108	1
+character-item = 1	4104	1
+character-item = 2	561	35
+character-item = 3	559	58
+character-item = 4	4719	1
+character-item = 5	557	40
+character-item = 6	4100	1
+character-item = 7	4102	1
+character-item = 8	1705	1
+character-item = 9	1324	1
+character-item = 10	1202	1
+character-item = 11	562	50
+character-item = 12	563	67
+character-item = 14	558	15
+character-item = 15	1022	1
+character-item = 16	1172	1
+
+[BANK]
+character-bank = 0	5699	1
+character-bank = 1	392	1482
+character-bank = 2	2578	1
+character-bank = 3	7387	3
+character-bank = 4	1324	1
+character-bank = 5	1022	1
+character-bank = 6	1172	1
+character-bank = 7	7395	1
+character-bank = 8	1306	1
+character-bank = 9	2504	1
+character-bank = 10	2498	1
+character-bank = 11	1164	1
+character-bank = 12	893	2
+character-bank = 13	15157	1
+character-bank = 14	7391	2
+character-bank = 15	1334	1
+character-bank = 16	2582	1
+character-bank = 17	854	1
+character-bank = 18	4717	2
+character-bank = 19	4739	2
+character-bank = 20	4719	2
+character-bank = 21	1128	1
+character-bank = 22	996	26447732
+character-bank = 23	4132	1
+
+[FRIENDS]
+character-friend = 0	77774548553
+
+[IGNORES]
+
+[EOF]
+

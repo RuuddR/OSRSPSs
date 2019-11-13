@@ -1,0 +1,89 @@
+[ACCOUNT]
+character-username = kings bloods
+character-password = 77-68-142-247-63-217-55-83-225-255-65-28-120-122-82-155
+
+[CHARACTER]
+character-height = 1
+character-posx = 2761
+character-posy = 2784
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = CPE-144-132-60-194.vic.bigpond.net.au
+character-lastlogin = 20060803
+character-energy = 77
+character-gametime = 0
+character-gamecount = 5537
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	80	2007600
+character-skill = 1	70	744600
+character-skill = 2	74	1131600
+character-skill = 3	100	15527343
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	58	227200
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	72	937050
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	3386	1
+character-bank = 1	1713	1
+character-bank = 2	2891	1
+character-bank = 3	3388	1
+character-bank = 4	4676	1
+character-bank = 5	3392	1
+character-bank = 6	3394	1
+character-bank = 7	3390	1
+character-bank = 8	1053	1
+character-bank = 9	996	85247
+character-bank = 10	4404	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

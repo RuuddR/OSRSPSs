@@ -1,0 +1,164 @@
+[ACCOUNT]
+character-username = kids  ranqe
+character-password = ROLLERCOASTERMAN
+
+[CHARACTER]
+character-height = 0
+character-posx = 3116
+character-posy = 9838
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = 216-164-205-40.c3-0.tlg-ubr2.atw-tlg.pa.cable.rcn.com
+character-lastlogin = 20080018
+character-energy = 100
+character-gametime = 0
+character-gamecount = 12655
+
+[EQUIPMENT]
+character-equip = 0	7394	1	
+character-equip = 1	14124	1	
+character-equip = 2	1704	1	
+character-equip = 3	4151	1	
+character-equip = 4	14638	1	
+character-equip = 5	3842	1	
+character-equip = 6	-1	0	
+character-equip = 7	1067	1	
+character-equip = 8	-1	0	
+character-equip = 9	7462	1	
+character-equip = 10	3105	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	1
+character-look = 2	1
+character-look = 3	2
+character-look = 4	0
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	80	1021700
+character-skill = 1	1	0
+character-skill = 2	99	8315800
+character-skill = 3	91	3220455
+character-skill = 4	60	148500
+character-skill = 5	11	750
+character-skill = 6	78	842040
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	60	140295
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	5699	1
+character-item = 1	15337	1
+character-item = 2	1435	1
+character-item = 4	392	1
+character-item = 5	392	1
+character-item = 6	392	1
+character-item = 7	392	1
+character-item = 8	392	1
+character-item = 9	392	1
+character-item = 10	392	1
+character-item = 11	392	1
+character-item = 12	392	1
+character-item = 13	392	1
+character-item = 14	392	1
+character-item = 15	392	1
+character-item = 16	392	1
+character-item = 17	392	1
+character-item = 18	392	1
+character-item = 19	392	1
+character-item = 20	392	1
+character-item = 21	392	1
+character-item = 22	392	1
+character-item = 23	392	1
+character-item = 24	392	1
+character-item = 25	392	1
+character-item = 26	392	1
+character-item = 27	392	1
+
+[BANK]
+character-bank = 0	1324	1
+character-bank = 1	392	1364
+character-bank = 2	6108	1
+character-bank = 3	6569	1
+character-bank = 4	15157	1
+character-bank = 5	2415	2
+character-bank = 6	1022	1
+character-bank = 7	1172	1
+character-bank = 8	7535	1
+character-bank = 9	1334	1
+character-bank = 10	776	1
+character-bank = 11	6109	1
+character-bank = 12	3752	1
+character-bank = 13	543	1
+character-bank = 14	1080	1
+character-bank = 15	4588	7
+character-bank = 16	5699	3
+character-bank = 17	7391	1
+character-bank = 18	7387	2
+character-bank = 19	7395	1
+character-bank = 20	6110	1
+character-bank = 21	4746	1
+character-bank = 22	838	1
+character-bank = 23	561	61
+character-bank = 24	1306	2
+character-bank = 25	7536	1
+character-bank = 26	4750	3
+character-bank = 27	4723	3
+character-bank = 28	4725	1
+character-bank = 29	4733	1
+character-bank = 30	4735	1
+character-bank = 31	4754	1
+character-bank = 32	4756	2
+character-bank = 33	13597	1
+character-bank = 34	4719	4
+character-bank = 35	4676	1
+character-bank = 36	4727	1
+character-bank = 37	557	105
+character-bank = 38	559	82
+character-bank = 39	567	101
+character-bank = 40	558	148
+character-bank = 41	4279	110
+character-bank = 42	2416	1
+character-bank = 43	14074	1
+character-bank = 44	4717	2
+character-bank = 45	4721	2
+character-bank = 46	14083	1
+character-bank = 47	14089	1
+character-bank = 48	14110	1
+character-bank = 49	14104	1
+character-bank = 50	14095	1
+character-bank = 51	14128	1
+character-bank = 52	14077	1
+character-bank = 53	14134	1
+character-bank = 54	14113	1
+character-bank = 55	14122	1
+character-bank = 56	14079	1
+character-bank = 57	996	29609520
+character-bank = 58	6571	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

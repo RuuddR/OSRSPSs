@@ -1,0 +1,92 @@
+[ACCOUNT]
+character-username = Judas Priest
+character-password = 5-185-114-220-242-131-116-64-109-19-232-121-114-75-254-59
+
+[CHARACTER]
+character-height = 0
+character-posx = 2967
+character-posy = 3383
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = 90-227-211-69-no92.tbcn.telia.com
+character-lastlogin = 20080101
+character-energy = 100
+character-gametime = 0
+character-gamecount = 10659
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	81	2393600
+character-skill = 1	1	0
+character-skill = 2	99	13050050
+character-skill = 3	16	5451855
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	48	74435
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 11	564	10
+character-item = 12	557	52
+character-item = 13	559	52
+
+[BANK]
+character-bank = 0	996	6226746
+character-bank = 1	13602	1
+character-bank = 2	3752	1
+character-bank = 3	4108	1
+character-bank = 4	4104	1
+character-bank = 5	4102	1
+character-bank = 6	4100	1
+character-bank = 7	4106	1
+character-bank = 8	2416	1
+character-bank = 9	6569	1
+character-bank = 10	14639	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

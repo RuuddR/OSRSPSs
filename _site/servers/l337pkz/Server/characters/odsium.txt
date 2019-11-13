@@ -1,0 +1,81 @@
+[ACCOUNT]
+character-username = odsium
+character-password = 135-7-14-128-130-16-91-148-57-103-187-228-149-183-217-247
+
+[CHARACTER]
+character-height = 0
+character-posx = 3252
+character-posy = 3432
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = BARRY-1
+character-lastlogin = 20061109
+character-energy = 37
+character-gametime = 0
+character-gamecount = 6738
+
+[EQUIPMENT]
+character-equip = 0	1042	0	
+character-equip = 1	1052	0	
+character-equip = 2	1712	1	
+character-equip = 3	4151	0	
+character-equip = 4	6107	0	
+character-equip = 5	1187	1	
+character-equip = 6	-1	0	
+character-equip = 7	6108	0	
+character-equip = 8	-1	0	
+character-equip = 9	6110	0	
+character-equip = 10	6106	0	
+character-equip = 11	-1	0	
+character-equip = 12	6583	1	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	1
+character-look = 2	1
+character-look = 3	2
+character-look = 4	3
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	75	1220400
+character-skill = 1	71	828600
+character-skill = 2	71	828600
+character-skill = 3	83	17006209
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	86	3750000
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	163523809
+character-item = 1	1043	1
+character-item = 2	774	1
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

@@ -1,0 +1,88 @@
+[ACCOUNT]
+character-username = m          3
+character-password = 156-223-180-57-199-135-110-112-62-48-120-100-201-22-122-21
+
+[CHARACTER]
+character-height = 0
+character-posx = 3254
+character-posy = 3419
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = host86-147-157-2.range86-147.btcentralplus.com
+character-lastlogin = 20061105
+character-energy = 45
+character-gametime = 0
+character-gamecount = 16321
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	-1	0	
+character-equip = 4	-1	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	-1	0	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	-1	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	70	380132
+character-skill = 1	70	369600
+character-skill = 2	84	1488150
+character-skill = 3	99	19567463
+character-skill = 4	1	14
+character-skill = 5	1	0
+character-skill = 6	99	9067046
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	22	3150
+character-skill = 18	90	2690055
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	2447	1
+character-item = 1	3106	1
+character-item = 2	392	1
+
+[BANK]
+character-bank = 1	1726	1
+character-bank = 2	996	1447609
+
+[FRIENDS]
+character-friend = 0	23106614487
+character-friend = 1	3493045334413737009
+character-friend = 2	818038
+character-friend = 3	27016198
+character-friend = 4	70187721676
+
+[IGNORES]
+
+[EOF]
+

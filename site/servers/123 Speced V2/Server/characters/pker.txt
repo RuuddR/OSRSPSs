@@ -1,0 +1,131 @@
+[ACCOUNT]
+character-username = pker
+character-password = figjam
+
+[CHARACTER]
+character-height = 0
+character-posx = 3116
+character-posy = 9845
+character-rights = 1
+character-ismember = 0
+character-messages = 0
+character-lastconnection = CPE-121-222-44-142.qld.bigpond.net.au
+character-lastlogin = 20080017
+character-energy = 100
+character-gametime = 0
+character-gamecount = 13206
+
+[EQUIPMENT]
+character-equip = 0	3751	1	
+character-equip = 1	14076	1	
+character-equip = 2	1725	1	
+character-equip = 3	15334	1	
+character-equip = 4	14638	1	
+character-equip = 5	7336	1	
+character-equip = 6	-1	0	
+character-equip = 7	4087	1	
+character-equip = 8	-1	0	
+character-equip = 9	7457	1	
+character-equip = 10	4125	1	
+character-equip = 11	-1	0	
+character-equip = 12	6575	1	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	99	987293350
+character-skill = 1	99	14943000
+character-skill = 2	99	987958900
+character-skill = 3	42	987417463
+character-skill = 4	99	988791000
+character-skill = 5	0	14910000
+character-skill = 6	99	986942175
+character-skill = 7	99	986910000
+character-skill = 8	99	986910000
+character-skill = 9	99	986910000
+character-skill = 10	99	986910000
+character-skill = 11	99	986910000
+character-skill = 12	99	986910000
+character-skill = 13	99	986912250
+character-skill = 14	99	986910000
+character-skill = 15	99	986910000
+character-skill = 16	99	986910000
+character-skill = 17	99	986937225
+character-skill = 18	99	986910000
+character-skill = 19	99	986910000
+character-skill = 20	99	986910000
+character-skill = 21	99	986910000
+character-skill = 22	99	986910000
+character-skill = 23	99	986910000
+character-skill = 24	99	972000000
+
+[ITEMS]
+
+[BANK]
+character-bank = 0	1324	1
+character-bank = 1	6107	1
+character-bank = 2	1172	1
+character-bank = 3	1022	1
+character-bank = 4	1705	1
+character-bank = 5	6569	1
+character-bank = 6	392	1338
+character-bank = 7	4717	1000
+character-bank = 8	4719	1000
+character-bank = 9	4721	1000
+character-bank = 10	4723	1000
+character-bank = 11	4709	1000
+character-bank = 12	4711	1000
+character-bank = 13	4713	1000
+character-bank = 14	4715	1000
+character-bank = 15	4754	1000
+character-bank = 16	4756	1000
+character-bank = 17	4758	1000
+character-bank = 18	4760	1000
+character-bank = 19	4746	1000
+character-bank = 20	4748	1000
+character-bank = 21	4750	1000
+character-bank = 22	4752	1000
+character-bank = 23	4733	1000
+character-bank = 24	4735	1000
+character-bank = 25	4737	1000
+character-bank = 26	4739	1000
+character-bank = 27	5699	2
+character-bank = 28	13602	1
+character-bank = 29	7463	1
+character-bank = 30	3106	1
+character-bank = 31	562	15
+character-bank = 32	555	100
+character-bank = 33	14077	4
+character-bank = 34	14089	5
+character-bank = 35	14083	5
+character-bank = 36	14074	5
+character-bank = 37	14079	5
+character-bank = 38	2582	5
+character-bank = 39	2578	5
+character-bank = 40	15157	5
+character-bank = 41	893	200
+character-bank = 42	869	130
+character-bank = 43	14134	1
+character-bank = 44	2348	1
+character-bank = 45	14136	1
+character-bank = 46	14112	1
+character-bank = 47	14110	1
+character-bank = 48	14128	1
+character-bank = 49	14130	1
+character-bank = 50	996	270932279
+
+[FRIENDS]
+character-friend = 0	41154758107
+character-friend = 1	3768859
+
+[IGNORES]
+
+[EOF]
+

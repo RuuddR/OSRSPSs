@@ -1,0 +1,78 @@
+[ACCOUNT]
+character-username = sk1ll3r 99
+character-password = 37-227-34-244-178-115-84-47-155-36-232-255-89-204-122-140
+
+[CHARACTER]
+character-height = 0
+character-posx = 2965
+character-posy = 3382
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = 217-209-95-90-o871.telia.com
+character-lastlogin = 20080031
+character-energy = 19
+character-gametime = 0
+character-gamecount = 19
+
+[EQUIPMENT]
+character-equip = 0	2637	0	
+character-equip = 1	1052	0	
+character-equip = 2	-1	0	
+character-equip = 3	1321	0	
+character-equip = 4	4111	0	
+character-equip = 5	3840	0	
+character-equip = 6	-1	0	
+character-equip = 7	4113	0	
+character-equip = 8	-1	0	
+character-equip = 9	775	0	
+character-equip = 10	1837	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	1	0
+character-skill = 2	1	0
+character-skill = 3	99	1155
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

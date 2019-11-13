@@ -1,0 +1,2 @@
+       Seach that!:)  
+   outStream.writeString("@red@A@cya@t@red@t@cya@a@red@c@cya@k");

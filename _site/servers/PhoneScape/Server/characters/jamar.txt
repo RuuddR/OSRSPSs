@@ -1,0 +1,80 @@
+[ACCOUNT]
+character-username = jamar
+character-password = 2-126-65-128-190-237-178-151-68-65-58-126-166-184-74-66
+
+[CHARACTER]
+character-height = 0
+character-posx = 3251
+character-posy = 3430
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = 74.12.70.57
+character-lastlogin = 20061103
+character-energy = 55
+character-gametime = 0
+character-gamecount = 4983
+
+[EQUIPMENT]
+character-equip = 0	6137	1	
+character-equip = 1	-1	0	
+character-equip = 2	-1	0	
+character-equip = 3	4718	1	
+character-equip = 4	6139	1	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	6141	1	
+character-equip = 8	-1	0	
+character-equip = 9	6153	1	
+character-equip = 10	6147	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	70	401100
+character-skill = 1	1	0
+character-skill = 2	70	369600
+character-skill = 3	99	16821749
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	92	3262460
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	3	95
+character-skill = 18	79	918150
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 1	996	1863615
+
+[BANK]
+
+[FRIENDS]
+character-friend = 0	583904849
+
+[IGNORES]
+
+[EOF]
+

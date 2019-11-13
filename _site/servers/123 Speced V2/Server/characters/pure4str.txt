@@ -1,0 +1,90 @@
+[ACCOUNT]
+character-username = pure4str
+character-password = 208-151-7-20-117-119-131-230-207-23-178-111-184-226-41-143
+
+[CHARACTER]
+character-height = 0
+character-posx = 3182
+character-posy = 3442
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = hlfxns0148w-142167224085.ns.aliant.net
+character-lastlogin = 20060101
+character-energy = 100
+character-gametime = 0
+character-gamecount = 2391
+
+[EQUIPMENT]
+character-equip = 0	15195	1	
+character-equip = 1	-1	0	
+character-equip = 2	1725	0	
+character-equip = 3	4153	1	
+character-equip = 4	544	0	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	542	0	
+character-equip = 8	-1	0	
+character-equip = 9	7462	0	
+character-equip = 10	3105	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	61	313650
+character-skill = 1	1	0
+character-skill = 2	61	303200
+character-skill = 3	56	225555
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	36	25000
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	124778
+character-item = 1	1350	1
+character-item = 2	6890	1
+character-item = 8	386	1
+character-item = 9	386	1
+character-item = 10	386	1
+
+[BANK]
+character-bank = 0	996	758113
+character-bank = 2	4588	1
+character-bank = 3	11948	1
+character-bank = 4	12446	1
+character-bank = 5	386	10
+character-bank = 6	4152	1
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

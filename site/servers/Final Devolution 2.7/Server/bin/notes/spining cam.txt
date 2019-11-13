@@ -1,0 +1,16 @@
+  public void frame177(int i1, int i2, int i3, int i4, int i5) {
+	client.getOutStream().createFrame(177);
+	client.getOutStream().writeByte(i1); // X coord within the region middle of your screen will view to
+	client.getOutStream().writeByte(i2); // Y coord within the region middle of your screen will view to
+	client.getOutStream().writeWord(i3); // the height it will be viewing to
+	client.getOutStream().writeByte(i4); // the camera speed? movement? dunno yet
+	client.getOutStream().writeByte(i5); // if this goes above 100 it does something? :O
+}
+public void frame166(int i1, int i2, int i3, int i4, int i5) {
+   client.getOutStream().createFrame(166);
+   client.getOutStream().writeByte(i1);
+   client.getOutStream().writeByte(i2);
+   client.getOutStream().writeWord(i3);
+   client.getOutStream().writeByte(i4);
+   client.getOutStream().writeByte(i5);
+  }

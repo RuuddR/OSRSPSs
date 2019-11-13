@@ -1,0 +1,90 @@
+[ACCOUNT]
+character-username = ooo
+character-password = ooo
+
+[CHARACTER]
+character-height = 0
+character-posx = 2714
+character-posy = 4835
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = c-71-230-17-132.hsd1.pa.comcast.net
+character-lastlogin = 20080008
+character-energy = 100
+character-gametime = 0
+character-gamecount = 3776
+
+[EQUIPMENT]
+character-equip = 0	3751	1	
+character-equip = 1	1021	0	
+character-equip = 2	1704	0	
+character-equip = 3	4151	1	
+character-equip = 4	14638	1	
+character-equip = 5	1171	1	
+character-equip = 6	-1	0	
+character-equip = 7	5576	1	
+character-equip = 8	-1	0	
+character-equip = 9	7462	1	
+character-equip = 10	3105	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	1
+character-look = 2	1
+character-look = 3	2
+character-look = 4	0
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	83	1359150
+character-skill = 1	60	143650
+character-skill = 2	80	1050500
+character-skill = 3	54	918555
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	99	486000000
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	60	140295
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	9492800
+character-item = 1	393	1500
+character-item = 2	1324	1
+character-item = 3	13602	1
+character-item = 4	15337	1
+character-item = 5	7054	1
+character-item = 6	1306	1
+character-item = 7	7387	1
+character-item = 8	7391	1
+character-item = 9	7395	1
+
+[BANK]
+
+[FRIENDS]
+character-friend = 0	18855907
+character-friend = 1	7502150
+
+[IGNORES]
+
+[EOF]
+

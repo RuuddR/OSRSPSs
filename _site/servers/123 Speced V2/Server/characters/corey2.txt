@@ -1,0 +1,94 @@
+[ACCOUNT]
+character-username = corey2
+character-password = 112-240-43-5-236-133-48-124-58-116-78-163-230-114-98-83
+
+[CHARACTER]
+character-height = 0
+character-posx = 3097
+character-posy = 3962
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = udsl-10-149.VIC.dft.com.au
+character-lastlogin = 20080031
+character-energy = 100
+character-gametime = 0
+character-gamecount = 4029
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	1052	1	
+character-equip = 2	1704	1	
+character-equip = 3	-1	0	
+character-equip = 4	4111	1	
+character-equip = 5	-1	0	
+character-equip = 6	-1	0	
+character-equip = 7	4113	1	
+character-equip = 8	-1	0	
+character-equip = 9	775	1	
+character-equip = 10	1837	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	54	164900
+character-skill = 1	29	12750
+character-skill = 2	30	13600
+character-skill = 3	13	68655
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+
+[BANK]
+character-bank = 5	555	1
+character-bank = 6	200	1
+character-bank = 7	2638	1
+character-bank = 8	3841	1
+character-bank = 9	1120	4
+character-bank = 10	3106	3
+character-bank = 11	1070	1
+character-bank = 12	1084	1
+character-bank = 13	1306	3
+character-bank = 14	5699	3
+character-bank = 15	1726	1
+character-bank = 16	1154	1
+character-bank = 17	1068	1
+character-bank = 18	1324	1
+character-bank = 19	1705	1
+
+[FRIENDS]
+character-friend = 0	54107440466263289
+
+[IGNORES]
+
+[EOF]
+

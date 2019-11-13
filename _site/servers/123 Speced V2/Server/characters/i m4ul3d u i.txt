@@ -1,0 +1,94 @@
+[ACCOUNT]
+character-username = i m4ul3d u i
+character-password = 115-174-53-106-101-160-252-130-179-188-248-80-76-231-177-139
+
+[CHARACTER]
+character-height = 0
+character-posx = 3101
+character-posy = 3955
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = adsl-76-208-131-251.dsl.lsan03.sbcglobal.net
+character-lastlogin = 20080030
+character-energy = 100
+character-gametime = 0
+character-gamecount = 1915
+
+[EQUIPMENT]
+character-equip = 0	6109	1	
+character-equip = 1	6568	1	
+character-equip = 2	1725	1	
+character-equip = 3	1321	1	
+character-equip = 4	544	1	
+character-equip = 5	13601	1	
+character-equip = 6	-1	0	
+character-equip = 7	542	1	
+character-equip = 8	-1	0	
+character-equip = 9	775	0	
+character-equip = 10	3105	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	46	71400
+character-skill = 1	1	0
+character-skill = 2	60	281350
+character-skill = 3	97	125655
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	31	15000
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	6	560
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	5773526
+character-item = 1	1360	1
+character-item = 2	3752	1
+character-item = 3	6109	1
+character-item = 4	1838	1
+character-item = 5	5577	1
+character-item = 6	5576	1
+character-item = 7	5575	1
+character-item = 8	3841	1
+character-item = 9	7463	1
+character-item = 10	4112	1
+character-item = 11	4114	1
+character-item = 12	6108	1
+character-item = 13	2638	1
+character-item = 14	4588	1
+
+[BANK]
+
+[FRIENDS]
+character-friend = 0	434
+
+[IGNORES]
+
+[EOF]
+

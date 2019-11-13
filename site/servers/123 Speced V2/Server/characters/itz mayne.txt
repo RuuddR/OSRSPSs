@@ -1,0 +1,80 @@
+[ACCOUNT]
+character-username = itz mayne
+character-password = 255-107-129-114-120-122-217-28-232-97-179-159-103-50-227-226
+
+[CHARACTER]
+character-height = 0
+character-posx = 3426
+character-posy = 3537
+character-rights = 0
+character-ismember = 0
+character-messages = 0
+character-lastconnection = h64184192-169.picriverisp.net
+character-lastlogin = 20080105
+character-energy = 100
+character-gametime = 0
+character-gamecount = 1297
+
+[EQUIPMENT]
+character-equip = 0	-1	0	
+character-equip = 1	1052	0	
+character-equip = 2	1725	0	
+character-equip = 3	4587	0	
+character-equip = 4	544	0	
+character-equip = 5	6889	0	
+character-equip = 6	-1	0	
+character-equip = 7	14508	1	
+character-equip = 8	-1	0	
+character-equip = 9	7462	0	
+character-equip = 10	3105	0	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	60	274550
+character-skill = 1	1	0
+character-skill = 2	74	1121150
+character-skill = 3	52	493755
+character-skill = 4	1	0
+character-skill = 5	0	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	48	85070
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	543	1
+character-item = 1	5699	1
+
+[BANK]
+
+[FRIENDS]
+
+[IGNORES]
+
+[EOF]
+

@@ -1,0 +1,95 @@
+[ACCOUNT]
+character-username = ddr king
+character-password = 182-203-87-46-22-138-153-245-32-158-174-106-144-108-246-92
+
+[CHARACTER]
+character-height = 0
+character-posx = 3089
+character-posy = 3961
+character-rights = 0
+character-ismember = 1
+character-messages = 0
+character-lastconnection = host-67-32-226-4.tys.bellsouth.net
+character-lastlogin = 20060803
+character-energy = 100
+character-gametime = 0
+character-gamecount = 46387
+
+[EQUIPMENT]
+character-equip = 0	3385	1	
+character-equip = 1	1052	1	
+character-equip = 2	1712	1	
+character-equip = 3	4675	1	
+character-equip = 4	3387	1	
+character-equip = 5	2890	1	
+character-equip = 6	-1	0	
+character-equip = 7	3389	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	0	
+character-equip = 10	3393	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	0	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	7
+character-look = 2	8
+character-look = 3	9
+character-look = 4	5
+character-look = 5	0
+
+[SKILLS]
+character-skill = 0	81	2394000
+character-skill = 1	1	0
+character-skill = 2	74	1176000
+character-skill = 3	97	16261905
+character-skill = 4	1	0
+character-skill = 5	0	0
+character-skill = 6	120	105888826
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	70	777450
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	996	820800
+
+[BANK]
+character-bank = 0	996	5337415
+character-bank = 1	3392	1
+character-bank = 2	6921	1
+character-bank = 3	3386	2
+character-bank = 4	6917	1
+character-bank = 5	3394	1
+character-bank = 6	3390	3
+character-bank = 7	3388	3
+character-bank = 8	6925	1
+character-bank = 9	4152	1
+character-bank = 10	4364	1
+character-bank = 11	6586	1
+character-bank = 12	4676	1
+character-bank = 13	392	9
+
+[FRIENDS]
+character-friend = 0	105289618251
+character-friend = 2	3597471243611706576
+
+[IGNORES]
+
+[EOF]
+
