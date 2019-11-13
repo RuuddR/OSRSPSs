@@ -1,7 +1,6 @@
 title: OSRSPSs
 description: Repository containing Oldschool Runescape Private servers, mainly Delta and Allstar
 show_downloads: true
-source: site
 theme: jekyll-theme-cayman
 exclude:
     - servers
