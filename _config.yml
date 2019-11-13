@@ -3,3 +3,7 @@ description: Repository containing Oldschool Runescape Private servers, mainly D
 show_downloads: true
 source: site
 theme: jekyll-theme-cayman
+exclude:
+    - servers
+keep_files:
+    - servers
